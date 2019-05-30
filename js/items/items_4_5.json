@@ -1,52 +1,4804 @@
 {
     "items": [
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99306/default.jpg",
-            "経済録",
-            "93d3976d3e63dcc533271b1e88bef10f",
-            "http://codh.rois.ac.jp/pmjt/book/200021910/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第78帙 第6冊",
+            "34b820980f02ec36bdf087a00f16bb63",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/078_6/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99307/default.jpg",
-            "絵本玉かつら",
-            "a8c47ab8444f4cdbbbaa36b045997a33",
-            "http://codh.rois.ac.jp/pmjt/book/200013861/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第6冊",
+            "e07c2b9c3e2b1c55573aaf4305c68004",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_6/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99308/default.jpg",
-            "絵本勇見山",
-            "3a7241cbd4c6996927c80bb147cd2bcf",
-            "http://codh.rois.ac.jp/pmjt/book/200022853/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第130帙 第3冊",
+            "c84beec0d8b62ece6fec59227b0bbb80",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/130_3/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99309/default.jpg",
-            "天保武鑑",
-            "a484ecb12a65795c7f4382ca0baad537",
-            "http://codh.rois.ac.jp/pmjt/book/200018942/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第162帙 第1冊",
+            "72c559a4cf00eb803fa11168f88e164f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/162_1/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99310/default.jpg",
-            "袖珍武鑑",
-            "87b1368a1ed02374e29b27e68cadb048",
-            "http://codh.rois.ac.jp/pmjt/book/200019650/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第62帙 第1冊",
+            "db39923952bfcd7f228820a5ddc67cd7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/062_1/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99311/default.jpg",
-            "安政武鑑",
-            "5a45433f340fba6ed099d18ac97b0fe2",
-            "http://codh.rois.ac.jp/pmjt/book/200019345/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）第30帙 第3冊",
+            "e343d7987009f0c37476c8826ad94274",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/030_3/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99312/default.jpg",
-            "甘藷百珍",
-            "bd0bcf658de212ca17b932b5258ed8d7",
-            "http://codh.rois.ac.jp/pmjt/book/100249510/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第10冊",
+            "9c88603cdd26667961c74e386e22d0db",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_10/manifest3.json"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99313/default.jpg",
-            "医心方",
-            "07f942bb3b388e190cf3d95db8010bf4",
-            "http://codh.rois.ac.jp/pmjt/book/200021793/manifest"
+            "",
+            "嘉興蔵（万曆版大藏經）続第139帙 第140帙 第4冊",
+            "a9c84fd1c22245026d9f7ca0b448c899",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA139_140_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第57帙 第4冊",
+            "a0d232d21a26dd4619ac6b3199fbdbbc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/057_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第5帙 第6冊",
+            "3fb13acb47d64b3ad583b7288320eb9f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/005_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第63帙 第1冊",
+            "1127d2a5d58d722b5cc06a20eed62a02",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA063_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第105帙 第6冊",
+            "e1a961fe7a8f132c0b32104fa39885a7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/105_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第157帙 第4冊",
+            "3d1e82e2c46d539bfa95953db062b29d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/157_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第16帙 第2冊",
+            "3aaa65445b133a1fff2ff04398775801",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/016_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第2帙 第7冊",
+            "a79feb9463145d518dcefac833d6195e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA002_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第116帙 第2冊",
+            "a5e2ded6a1751a319e442a9e01968f2e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/116_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第75帙 第2冊",
+            "4489e210c915cf949bc93ad3c4555472",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/075_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第175帙 第2冊",
+            "bd06cb048fb2f6a9e6b60b46a3281582",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/175_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第66帙 第6冊",
+            "5e67bb75ea30e39ae5da5cb91311054b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/066_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第34帙 第4冊",
+            "d820befae3d109304ca28517777531c1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB034_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第5帙 第3冊",
+            "ac52c5148a078b65e5db043d8c8bfe76",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA005_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第24帙 第4冊",
+            "687d094a84c3c4683f7ecd1e031f2041",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB024_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第8帙 第2冊",
+            "a656d1d9ffc3df949fcdc8eb0486ae65",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/008_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第153帙 第3冊",
+            "c3acca58a0d6253a21b737619c05709a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/153_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第101帙 第1冊",
+            "cbf781e46a68170153e957c36d8e5383",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/101_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第1冊",
+            "8289166a5732fcc2c20b6cc3518bc1e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第108帙 第2冊",
+            "75f289bb40094d45c5e234c45c07e080",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/108_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第28帙 第4冊",
+            "7c1cb6b544a0a344ae463cd62a6ff109",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA028_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第112帙 第5冊",
+            "b920edd8288d9f51f043e11ade2f6417",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/112_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第49帙 第4冊",
+            "5349a97518c4eb3b9dae17bf1264cb01",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/049_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第131帙 第2冊",
+            "ca354d2e3c52686a4271ef3f64936584",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA131_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第12帙 第5冊",
+            "3855030dd275ae66a417fb601a9221e1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/012_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第149帙 第4冊",
+            "211121375ca23822e1918dfd188ec8dc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/149_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第22帙 第1冊",
+            "3fb5e2feb53c85f91d2bc0878c1919fa",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB022_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第154帙 第1冊",
+            "43a92be0b0c3531442dfc8fba97529d6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/154_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第230帙 第1冊",
+            "f9be795efeb7dc62e7dc7129116427f3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA230_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第32帙 第1冊",
+            "c60f93404a06f43733f2963e0e8bc3e8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB032_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第6冊",
+            "f5ebfd91c38fbf6b60bc70cadd5faadd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第220帙 第1冊",
+            "b48d269c0f17d2d5eeaaf4cf726bb36a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA220_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第6帙 第3冊",
+            "4299d8b60372f2cda648d8e47c266859",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/006_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第54帙 第1冊",
+            "4193478c486364a867ec236e15f6a8e0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/054_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第147帙 第5冊",
+            "80b5917cc64f1a458a61f5226af4812f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/147_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第129帙 第1冊",
+            "91a559fc94dc9cfdf6255b356d9a5487",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/129_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第20帙 第2冊",
+            "541b55bf89a96d61ef92bd6ec02fe7d6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/020_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第7冊",
+            "59cacaa6fb1ad26ded9ee7e5a3aafa2b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第120帙 第2冊",
+            "180558241b51ffc2520302e9dc2edf61",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/120_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第29帙 第1冊",
+            "aeb04882eaeeeed2995eac5fd801dccc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/029_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第168帙 第7冊",
+            "ba5e9848ea4b16dba4450a389b138a46",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/168_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第61帙 第4冊",
+            "73a9292848d8c7ad1ee74d9647bfea44",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/061_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第156帙 第1冊",
+            "44aef0b673744abb6659517c91180d34",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA156_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第161帙 第4冊",
+            "045f3277289ea7b2f02cddc78794d9af",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/161_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第68帙 第7冊",
+            "777273520138103a379af51088526fba",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/068_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第120帙 第3冊",
+            "b34b3fe8f245cb1844112c5670f2eac5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA120_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第50帙 第6冊",
+            "c57209cd1468dc5a6e2892ab1370c619",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/050_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第2帙 第4冊",
+            "94b3c2958604fbced14de506a05ea485",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/002_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第159帙 第5冊",
+            "0b9827849a5c6bffacf54ccb141075a4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/159_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第59帙 第5冊",
+            "12b76f8d26cdd4a51e93fb3c17aab34c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/059_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第150帙 第6冊",
+            "07c3e6f724fe180cd73b693b07d59d1a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/150_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第118帙 第3冊",
+            "d6bea43c2fba749b9db1b11ef1b28edd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/118_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第18帙 第2冊",
+            "7440b59bbf6c6dc5af9b26b93475269f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB018_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第43帙 第2冊",
+            "dd2c9f96d869fa1c98a9ee462d5ebd14",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/043_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第18帙 第3冊",
+            "388e4ef39a2aac54c82c76c7512d2c59",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/018_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第8帙 第2冊",
+            "9fb952de2ba5c8f2a0c50a859ac004d4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB008_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第24帙 第5冊",
+            "25b0189f224352e4aa51aacde95e74b2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/024_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第137帙 第1冊",
+            "a09a37b71482b00fb4588f9e07ee9220",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/137_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第165帙 第3冊",
+            "5d41b7f991db4765f39dea72e68fb4ba",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/165_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第65帙 第3冊",
+            "943f4e9e48843241f6fcfba2b8fd1149",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/065_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第37帙 第1冊",
+            "db4f4220d59a572289b037a9a042cbcb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/037_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第224帙 第3冊",
+            "f977315da609535f74aa069d874d22de",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA224_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第46帙 第1冊",
+            "92dfc5005ced731a00ae626aa7a90545",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/046_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第146帙 第1冊",
+            "a0e81a84cb02d6e1fefc3934fcb8f3d5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/146_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第114帙 第3冊",
+            "26ace978c5831504a30da4c84f138454",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/114_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第26帙 第3冊",
+            "929c007f65fe3472559feb3f61c1c525",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB026_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第17帙 第4冊",
+            "90e78be49cda895e3e7f07c671a4486a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA017_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第55帙 第5冊",
+            "46004e480468728792b92db247b99104",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/055_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第155帙 第5冊",
+            "4f7ad1a21bee86944e9b5fd43b883b95",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/155_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第132帙 第2冊",
+            "2a69c5192cd6c5ea7bab7622ca181567",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/132_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125A帙 第3冊",
+            "0e16924fb9bce27ebc75a2f05fe81326",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125A_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第69帙 第3冊",
+            "9b99ff901a15064e436f947e35301ea9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/069_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第133帙 第5冊",
+            "0f9885349155462ab6af478db751c81f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA133_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第32帙 第2冊",
+            "f7ef82cfc9f1ca85989ac94ff5635b54",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/032_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第169帙 第3冊",
+            "503c1dd428e0e16382369147147c3899",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/169_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第28帙 第5冊",
+            "06a384d3a584417a833bb0e2b37c2647",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/028_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第173帙 第4冊",
+            "34d3c51fb93dcd5255c2396a788d0970",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/173_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第121帙 第6冊",
+            "7ef7096444b218d05e6ef95764fb6c16",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/121_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第152帙 第3冊",
+            "7eb214769e1db72e159eb6d29c56e7c2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA152_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第73帙 第4冊",
+            "2517e27c3419803ab185d638be65ce00",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/073_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第110帙 第4冊",
+            "ea009313247b36cfe211b1f9cbbd9a5a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/110_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第42帙 第6冊",
+            "fe9c4c119924679e5f6a144a1e2526b4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/042_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第10帙 第4冊",
+            "42ecd4670cf1f909f24dfd8ef1b53388",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/010_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第124帙 第1冊",
+            "d58f822cacb90bd1bc2bff40a31e6dde",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA124_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第151帙 第2冊",
+            "739f6ce6a9b0cadf76aaedd628eba1a3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/151_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第58帙 第1冊",
+            "647ea01af72cb33da8f85263799b3a59",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/058_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第83帙 第3冊",
+            "ffe1267f7d3768c4aee12876c5838e0f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA083_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第158帙 第1冊",
+            "f56ca85588b7a374752bfb6b3a45ebf9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/158_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第51帙 第2冊",
+            "138b4b7a1173dd951af7a090bbf9370b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/051_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第36帙 第5冊",
+            "3a8904f8849ff7bdb7b1491093f439d2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/036_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第136帙 第5冊",
+            "41e41161f290f88c5d2973b821f591e5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/136_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第7冊",
+            "d4f3c9f827fdea1478af983ab65541d3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第252帙 第1冊",
+            "9a51da51010f7184e7aaee28dd822149",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA252_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第77帙 第3冊",
+            "28ca29ed4019518bf1d8329ec5736d17",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/077_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第25帙 第1冊",
+            "5ba68c7dbab362e7066f9f997b4cd4e1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/025_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第45帙 第48帙 第1冊",
+            "149f2e4077f0a866b2dbd4086aa471eb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA045_048_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125帙 第1冊",
+            "d4352f579ae2d01c25ff65534aaf1727",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第242帙 第1冊",
+            "e16fc57e6d0b854ed1f44e50df7e39d2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA242_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第36帙 第4冊",
+            "1c894cd9692a3e6d434e9e92263c5b9b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/036_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第178帙 第1冊",
+            "80614e8bf462f37ddf53723c6684960b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA178_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第64帙 第6冊",
+            "73dc1e7bb3266654a7628990e47f7580",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/064_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第164帙 第6冊",
+            "24aaed3d97e2f51dfbbc9d5afc3fa9d4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/164_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第168帙 第1冊",
+            "fe25fd8c01a11d6a90ba7f0837e2942a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA168_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第136帙 第4冊",
+            "96ff7b379449b13a977db27c3628a8a3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/136_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第10帙 第1冊",
+            "13a384857b9ef3fc22542dcb7f83010b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA010_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第6冊",
+            "80bff544ba3c2c0b318fbd25c53624d1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第77帙 第2冊",
+            "99826b31b0dd9a5f34fa55c50ff99a03",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/077_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第177帙 第2冊",
+            "f0caadc6ed1bcc3c193099ca76a74993",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/177_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第110帙 第5冊",
+            "d5f1cb93d7e8ab5206e9b5cb582e3c5a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/110_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第19帙 第6冊",
+            "576e5248fe2cb7de42a24f2ffbde4bea",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/019_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第10帙 第5冊",
+            "9057ad8fbb0820fe59e869d9e2803807",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/010_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第151帙 第3冊",
+            "f9f13e3479d08831633f6921a5f4fc35",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/151_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第103帙 第1冊",
+            "e72f3deddc9b07a8f9a8e3aeceafc2ca",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/103_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第83帙 第2冊",
+            "9eb9294c531aa69005db4c6835d5988c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA083_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第3帙 第1冊",
+            "21b00aa22e10da84ec5fe56c31d944c0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/003_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第51帙 第3冊",
+            "8bdcd26b9ca6f01427199dc23aa0579a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/051_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第69帙 第2冊",
+            "4071af1e96aa054e873622f8e05fea01",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/069_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第132帙 第3冊",
+            "11f843a5c22661f1f1da524697cf59b9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/132_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125A帙 第2冊",
+            "14a1b991373e47bf7e244027a48620fb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125A_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第160帙 第1冊",
+            "22cd2cccd43555528dddd1fb85c2816c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/160_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第133帙 第4冊",
+            "7d50e7bd8e1fa8eb0faf3b874c8134e6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA133_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第60帙 第1冊",
+            "f964bc8ccd391fcbb3dd564b7a4371f0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/060_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第169帙 第2冊",
+            "419b4a55e4b2b94c0848f015ba6cabc2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/169_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第173帙 第5冊",
+            "23477e0d389aa0ec8658ed8fb1e5e81d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/173_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第28帙 第4冊",
+            "0994f82d5a6afd01cacb277d26152784",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/028_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第152帙 第2冊",
+            "8a69142ab6f8d23986c8ef6a87cc2bf4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA152_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第73帙 第5冊",
+            "af363349c00107563b2565c00415052b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/073_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第14帙 第2冊",
+            "6a34e16f86c917b400b545299fec345d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/014_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第224帙 第2冊",
+            "13f221ba90e8f5c13025df658c4ffcf0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA224_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第114帙 第2冊",
+            "adb810f7fbd7fa19d0c34f29779930b7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/114_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第17帙 第5冊",
+            "1b7c7eddc6d0976d46b50b12c63ea3f6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA017_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第26帙 第2冊",
+            "c04d6a9fe1f704499c1f278122f08e41",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB026_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第55帙 第4冊",
+            "9c578bd71100751bcb86ce7ba8bda609",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/055_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第7帙 第6冊",
+            "695dcbb9aa930afae3c3263edc4ec634",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/007_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第107帙 第6冊",
+            "ecb31e0bb638631535707eae5a19065b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/107_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第155帙 第4冊",
+            "85289bf691a14939ac6573fe45b28b81",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/155_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第176帙 第6冊",
+            "4b8b9cefd634c72bc58d5fe61f1f8a4c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/176_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第24帙 第4冊",
+            "8c89eb70168a7626bf135efe9ba38a1b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/024_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第76帙 第6冊",
+            "e2f5cbff6bcb7d048ee629d65df74e6d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/076_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第246帙 第2冊",
+            "66eda102fccf3746b9c7781b6f696575",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA246_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第165帙 第2冊",
+            "ddb09025b9b4bfff871a4c28a928f08b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/165_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第65帙 第2冊",
+            "4957ebd62b15211bd2df967e2447203a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/065_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第120帙 第2冊",
+            "431f129dab1f30e652d69f281756ad19",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA120_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第159帙 第4冊",
+            "b18b4cc9ea1d5384bf2320a262c15ee2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/159_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第2帙 第5冊",
+            "5c3e4ba4455918d34484cc93b47f49ae",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/002_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第59帙 第4冊",
+            "bebb32387539f61c0f7acce660e7e9c1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/059_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第11帙 第1冊",
+            "e27e71d09d94ad5f1f2a01767b0ba2ff",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/011_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第43帙 第3冊",
+            "abb012ac6fa38ccebf0230ff1c62bf5a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/043_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第29帙 第4冊",
+            "233238d58e14ba3614bc35660d8b24f8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA029_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第18帙 第3冊",
+            "57144087c26a65028d355a7c1da7e0e3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB018_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第118帙 第2冊",
+            "6569571500ba1381380568b42f20580f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/118_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第8帙 第3冊",
+            "f6f70a6ef851bbc68baf963186c4eb28",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB008_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第18帙 第2冊",
+            "7f8086a4d15cef946227cee98f313b99",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/018_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第111帙 第1冊",
+            "e97cb5c460750a0b3a2d90a75cf0ceb4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/111_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第72帙 第1冊",
+            "7aef64937cd610454ac186633f22fa2b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/072_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第20帙 第3冊",
+            "f06d9a452c909efde03ee8124c77da19",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/020_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第6冊",
+            "74dff14dbcab654847fd8a8eef8ba4ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第120帙 第3冊",
+            "2e68dd85ad41954c6dd54d32fd30b5e0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/120_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第172帙 第1冊",
+            "e41651a2185e7b3e170c9e20dc245656",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/172_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第168帙 第6冊",
+            "461436cbe5c3c8d2ce85e0769bfaf8ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/168_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第61帙 第5冊",
+            "537bd7abae0ee30811f75e46db765933",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/061_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第161帙 第5冊",
+            "20f4bff86074be1f71ffcbf047a63c9f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/161_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第68帙 第6冊",
+            "a629879e6abbb0ca0f7b2a917170f73f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/068_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第7冊",
+            "3b75aafdbeea8e324c36657751b04119",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第6帙 第2冊",
+            "94ba6151602bc5c68394b2e986aeaa0d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/006_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第115帙 第6冊",
+            "be2f51556e6054fc327a65f744cdffc2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/115_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第147帙 第4冊",
+            "a59915e98fdd40de6c15e962d36f2fd2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/147_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第15帙 第6冊",
+            "de234d640259859d2b0024a82037833f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/015_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第72帙 第1冊",
+            "925b132e95caa8ab1fde51ec8a419a8f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA072_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第153帙 第2冊",
+            "9715a5eceed47c3357496495a69e107a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/153_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第9帙 第2冊",
+            "3dfca64307f6803bcce0cd5ce4479109",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB009_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第8帙 第3冊",
+            "cf1ddf19a55f6fd78625e6ae06709917",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/008_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第28帙 第5冊",
+            "1261313ea387b540e8d7a0aaa945bc5e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA028_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第53帙 第2冊",
+            "5e161660bb72276312dc6be580458966",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/053_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第96帙 第1冊",
+            "456863a21bf1372bdb501b4ff8d41b15",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA096_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第108帙 第3冊",
+            "f8a9d1c681958280127bdf9b43212da0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/108_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第49帙 第5冊",
+            "dad09fcc9094660e45d77025e8dad042",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/049_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第112帙 第4冊",
+            "b03fc2d22fc5597134c190c0c63fd0ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/112_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第131帙 第3冊",
+            "2fd34fa524d722e67a475ece2e92ab56",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA131_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第149帙 第5冊",
+            "264497e4fbcdd50a591436aa921457d2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/149_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第12帙 第4冊",
+            "e7902f63a055397b306a856deca72514",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/012_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第75帙 第3冊",
+            "9b45d5ebf9bf77f164af5a5ad97ee462",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/075_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第27帙 第1冊",
+            "c05c80099d647ff5d7a98d3c7b2f3e0f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/027_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第127帙 第1冊",
+            "95523e6c9b9d099d0a048a90a407f791",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/127_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第175帙 第3冊",
+            "75c5aac75e6c3aabc2b2445b59e76638",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/175_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第5帙 第2冊",
+            "fb55b858d116aad8c1d418ac1364790d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA005_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第34帙 第5冊",
+            "b2b7165dad672cdcf788bb597100f430",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB034_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第24帙 第5冊",
+            "df5650de454a760f7eb7dde70856652b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB024_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第57帙 第5冊",
+            "86a01e5273d92f21ed209649a72e366e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/057_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第16帙 第3冊",
+            "fdcf6cfa117e18aba1f079b716705325",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/016_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第44帙 第1冊",
+            "f8192a7ef2a4ff7931cd1976b0262924",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/044_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第2帙 第6冊",
+            "54faa809aaa46f581dbae72766ab3fc6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA002_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第33帙 第1冊",
+            "21bf075cc4670d89fb6d6cbd95016194",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第1冊",
+            "659867b66c7f89afc5ad358ff58f198e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第116帙 第3冊",
+            "1b8c6adbc05c64320b749182fd5d24f9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/116_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第231帙 第1冊",
+            "f0703c3701aae5cb78a006bc04e5fb85",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA231_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第23帙 第1冊",
+            "6d06be53f6b325860d0779968f49201e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB023_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第171帙 第4冊",
+            "ff449cb02e059d4f0fef1c52833b7f6b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/171_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第157帙 第1冊",
+            "9978c0e91a3e4d71ef27429c56b35def",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA157_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第7冊",
+            "d8308f4c8b7a7cdbaa107b3ed654b3e6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第130帙 第2冊",
+            "9b365060d4b2d626772f328e4017a26f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/130_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第39帙 第1冊",
+            "43f143ebee7e45a6e3ac5ef12adb0db6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/039_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第16冊",
+            "c1f3f544905830acb37db99644ba609d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_16/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第139帙 第1冊",
+            "2a073214a9af7338d29558ac039c7ad2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/139_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第30帙 第2冊",
+            "3c2b5a95c99ae9bd73c82a8dbac9a261",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/030_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第148帙 第1冊",
+            "959143f2c2e1cf845a7d0f5ee1fbcdc6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/148_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第41帙 第2冊",
+            "a64897fcb25f4bef915ca28fd11a824e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/041_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第48帙 第1冊",
+            "eae9f8ea0885af578e5185b4e5828c83",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/048_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第125帙 第1冊",
+            "d15f7cddcd04d3babe09410fbb7a8e09",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA125_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第248帙 第8冊",
+            "6f8528a5b830f7ef69a275c2f8938ff6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/248_8/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第135帙 第1冊",
+            "2fdb1017aaa2b5976cd24252e8c60222",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA135_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第100帙 第4冊",
+            "50e195bdf1a3053528e78e9a0ea8bcbb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/100_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第6冊",
+            "461b04ca82108e57830d62ea8b86c5b0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第135帙 第1冊",
+            "6c461635588746bbfd9a88f85418bc6d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/135_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第167帙 第3冊",
+            "81dce2370d4f6af3563b77cfe4301f49",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/167_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第243帙 第1冊",
+            "d9694df3489dc4de4f43d5b9b56f33cc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA243_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第67帙 第3冊",
+            "6357e0e0e3b1111f996acda115615969",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/067_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第35帙 第1冊",
+            "e57b11963f158646ab85ec8349c29f58",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/035_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第7冊",
+            "730e168101a7a3b2efd9b98d06ea5671",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第126帙 第5冊",
+            "fa0861468278afa66cd75b976a4c4cee",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/126_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第26帙 第5冊",
+            "1750d8c5adfc028a6fac87a629ccf9e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/026_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第145帙 第5冊",
+            "6725ae1300fe40178a09986a2cc6d330",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/145_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第45帙 第5冊",
+            "5546c0acd5a8b72d8e70f621c1ccc296",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/045_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第16帙 第4冊",
+            "3a624d6ad127768aa27cd6d27de7ccc4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA016_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第27帙 第3冊",
+            "5f8965e9f5e463422dc53e8bd33dac9e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB027_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第156帙 第1冊",
+            "5f4df62db63505f4fda7bec4f7b50cdb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/156_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第104帙 第3冊",
+            "fb4046b74fdddab53696b241cff5a6c3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/104_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第4帙 第3冊",
+            "2a8cc14fc854d928d3e7befc17f91cf9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/004_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第56帙 第1冊",
+            "8ab850524e4d8c740428a97aec8a1c63",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/056_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第225帙 第3冊",
+            "911e6fe8909fab2153787111c37ab960",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA225_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第63帙 第4冊",
+            "55d3fbd3eaf02aafb2fa16525e0f28cb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/063_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第138帙 第5冊",
+            "779afcefc5b84cc840f66c4e689a10e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/138_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第279a帙 第1冊",
+            "6887ce59f426d87637ad693652a97ac6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA279a_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第163帙 第4冊",
+            "e65999274b95f4fd0de9514a046fc8c3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/163_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第38帙 第5冊",
+            "2ff1540720d24c96bf7226141735c1aa",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/038_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第131帙 第6冊",
+            "a6927ffdeaafba2c704e65fd2a4a97be",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/131_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第179帙 第3冊",
+            "545a8c5d97ade05a4f1e0edf035a4310",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/179_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第22帙 第2冊",
+            "19833ac258ae67c6e106173e59a798a4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/022_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第79帙 第3冊",
+            "5bc5c64ab5b033605e2e8db5dd6726ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/079_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第122帙 第2冊",
+            "1190cc081364ecfaddba404343be3bc1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/122_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第203帙 第4冊",
+            "057f41a3087591a289317f450891a19e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/203_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138A帙 第7冊",
+            "5a61009c6305820c8bfa9c125ed82fc9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138A_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第110帙 第9冊",
+            "9e8a852b9bb589dd0fe861bdb25fb6ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/110_9/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第242帙 第2冊",
+            "0c14b6d933871cbebaedb6955796eebc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/242_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第219帙 第3冊",
+            "b2bb3c4b0b612ccbedcce40df2f62194",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/219_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第129帙 第2冊",
+            "cab5d229c1f3faab4146241c916a3614",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA129_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第225帙 第5冊",
+            "e8ab6f54dad71ba26dffc0957650bb41",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/225_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第92帙 第5冊",
+            "ce97cdfd034b30d7e4c89f467af569ec",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/092_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第30帙 第4冊",
+            "007129b09938ed4d3767278c728fa2c7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA030_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第88帙 第2冊",
+            "dd9ea04392af0e9bdee6541cb6a8cd29",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/088_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第181帙 第1冊",
+            "603d8f5017c4e7b0e5af42fc7f2a8534",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/181_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第81帙 第1冊",
+            "5b2c54d8fe66f4aa1b084c2420ee8021",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/081_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第188帙 第2冊",
+            "986e7d00cc68c3e2a6c5e8a968e71661",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/188_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第236帙 第1冊",
+            "e531b6bd0bc75153ae21d30eeb3f9d0b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/236_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第275帙 第1冊",
+            "913b9511e4914410deb013474fb73ca8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA275_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第221帙 第2冊",
+            "a607ef7e6052142f434880f3dfe26de7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/221_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第96帙 第2冊",
+            "5b673eed312e2e08f163759714e65190",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/096_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第228帙 第1冊",
+            "a9e2d0c0541a716afd7db9aaf07ea9d3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/228_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第85帙 第6冊",
+            "bf32c403001dd731d68a9bc9949cc781",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/085_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第113帙 第1冊",
+            "11d902cda90b753b216ce1821b16b343",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA113_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第6冊",
+            "83873cbc583b387c7f9fba9d5b4570be",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第161帙 第1冊",
+            "d3bc10a8bbec9ba6fac5f5e8565fb77f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA161_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第6冊",
+            "79092169a30fde9106a7b8a7339be900",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第171帙 第1冊",
+            "d5a71627ece3783c7d7699da9053fe66",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA171_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第211帙 第4冊",
+            "c21aa6383d3b75639308796be19613f4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/211_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第80帙 第5冊",
+            "231c40b9faed39c035c9b7cbd736d816",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/080_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第193帙 第4冊",
+            "a453cd724fbb99afec04a88aa386adeb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA193_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第89帙 第6冊",
+            "0becf2d7a4c56ebe00df9bd7f9485de1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/089_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第224帙 第1冊",
+            "c08ed7497cfc7a4bb0d7f9e7b065e31d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/224_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第93帙 第1冊",
+            "eb0b80a4cb8e9967f3ef9ac7e487e446",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/093_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第15帙 第1冊",
+            "4f71b58e35607fadc56e37b64422e356",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB015_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第193帙 第1冊",
+            "71b3e6acfcb36f772bf7acf50a9d84c5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/193_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第5帙 第1冊",
+            "9407b513f845001156941fe810ceedd8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB005_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第1冊",
+            "ba9ef4b335d8650538ac6c47fa07da3b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第215帙 第3冊",
+            "37d995a6e180e613e31eb8342a3525a7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/215_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第23帙 第2冊",
+            "7f218e4d01c0a5ebe732f5608e42af2a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA023_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第184帙 第2冊",
+            "1e040383989d48e270b5b99e680207c0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/184_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第84帙 第2冊",
+            "f266bf1b07beccf19eb38bcb19f0f1e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/084_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第12冊",
+            "abf75a11b2667b1e50fdc8e4d55af273",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_12/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第233帙 第2冊",
+            "2b5d3e0a191be31ce9521b750aa5f1f1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/233_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第229帙 第5冊",
+            "699c0fa90084cfe2e143f9676ed50a3b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/229_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第197帙 第6冊",
+            "395ed72b24865d831828a3140361a10e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/197_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第97帙 第6冊",
+            "37cf525053790f0696600f559bf8bb60",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/097_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第10冊",
+            "da6f95f0f4ba7f11fc95c38d4b7f786b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_10/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第190帙 第4冊",
+            "1bd01b8af6843411a4fa98be299431d5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/190_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第44帙 第1冊",
+            "645a70d76814f0fe4b8b076cd63d5277",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA044_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第227帙 第4冊",
+            "8ca83a6bdb44f2a1360b1c42565d58ad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/227_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第34帙 第9冊",
+            "8eeb178b1b5d8db1d39be1acbde68902",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB034_09/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第90帙 第4冊",
+            "764db0baa8f6b14712d7ff6ce0ac4314",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/090_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第3冊",
+            "dfaa9c2f151107d1c0914233d5b963cf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第212帙 第1冊",
+            "07fe0955d975e38230f6e52c17ba76e8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/212_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第201帙 第5冊",
+            "7fbbb9608a672addbec969d0130ee76d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/201_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第230帙 第7冊",
+            "e60d00e0e5afab5146eefac0fbdb42d5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/230_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第223帙 第3冊",
+            "b043eb97a4b972bc53b14de31335d77c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/223_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第194帙 第3冊",
+            "b8a4c5983aea3877d978439b909f9aa3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/194_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第244帙 第4冊",
+            "0bb0edcfdf3e5ccc50e8966290d8de26",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/244_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第185帙 第1冊",
+            "71deb204d89e74780e6c557173f6b0e4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA185_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第205帙 第2冊",
+            "f88dcd106bd27adf4a8786ccc4219106",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/205_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第198帙 第3冊",
+            "a929570f32dc988db974e69a579d5417",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/198_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第98帙 第3冊",
+            "2ebf694a3ff40eee0de7c6ce70d85e10",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/098_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第82帙 第4冊",
+            "fbcc47ba2b8c08164dcfefe7a20dfc1e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/082_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第182帙 第4冊",
+            "898926a72023891c6dd180970a07d673",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/182_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第209帙 第2冊",
+            "1480ab7482fa9ae0fdb2b3a26d1b7220",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/209_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第200帙 第1冊",
+            "241c71bb0cd13f8ac706989138dde95d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/200_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第326帙 第3冊",
+            "fc6ef760144e9b7a15af19eeb233ca45",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA326_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第164帙 第2冊",
+            "0e3a24ca87a42e5155fca6b9456a1cb0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA164_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第248帙 第4冊",
+            "280ed79546885248d96a978eb6651c99",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/248_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第174帙 第2冊",
+            "6b7d68892bdd56827d0867a98bd170d4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA174_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第213帙 第5冊",
+            "9726b60c53b0e0b0bde16c2074a5ba06",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/213_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第238帙 第1冊",
+            "e4e5a1ac8de4720b967c24a14430d9e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA238_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第228帙 第1冊",
+            "84ab2efd0d342d94131dd0eab6f9ddc3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA228_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第86帙 第3冊",
+            "9dd2138670be16bffa162c6b47a5d154",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/086_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第231帙 第3冊",
+            "53f850fb7f4949b9f64ba5abf84cb904",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/231_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第204帙 第6冊",
+            "45778a65b844cdb9892aa69700795a07",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/204_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第1冊",
+            "b0106a2ad0b5abaaa18f6f251015fa35",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第36帙 第1冊",
+            "ae8326d53aeaeb4b9c6a45d5494c9929",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA036_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第191帙 第3冊",
+            "1e5f95a56239ec13bf91694a283a3d0a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA191_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第217帙 第2冊",
+            "6947f4499266bd429fd9a8774436a987",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/217_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第17冊",
+            "025785bfe1b546c7939aef67098dd067",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_17/manifest3.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104549/default.jpg",
+            "東京都中野区立哲学堂公園内古建築物調査報告書　　　中野の文化財　Ｎｏ．９",
+            "8c341771d6eee87edf262bdc6585e76b",
+            "http://iiif.nakano-library.jp/manifest/806169789_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104550/default.jpg",
+            "なかの区報　製本版　平成18年度",
+            "6ff411458f95eef086a0a776bc3bee67",
+            "http://iiif.nakano-library.jp/manifest/808638887_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104551/default.jpg",
+            "中野区史　下巻　1",
+            "10dc7cb3465bd299a3d40d8f3ead7519",
+            "http://archive.nakano-library.jp/manifest/801809427_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104552/default.jpg",
+            "中野区御嶽遺跡第２次発掘調査報告書　2　平成１０年",
+            "2e1c1bfb150eea3edb196fe154d626fa",
+            "http://iiif.nakano-library.jp/manifest/805564888_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104553/default.jpg",
+            "中野城山居館跡発掘調査報告書",
+            "97e3a334d5cf6e57a5ad2b29058b3962",
+            "http://iiif.nakano-library.jp/manifest/805132185_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104554/default.jpg",
+            "中野いにしえの道",
+            "15b1dd31caf0d489b677bdd0adaca04f",
+            "http://iiif.nakano-library.jp/manifest/807333610_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104555/default.jpg",
+            "桃園郷の昔話",
+            "3bc6c4896de9f87f050f8c2f71fca4ca",
+            "http://archive.nakano-library.jp/manifest/807509464_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104556/default.jpg",
+            "東京都・中野の生いたち",
+            "998ef6262e72996e0cbd2983229f5f5f",
+            "http://archive.nakano-library.jp/manifest/804398272_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104557/default.jpg",
+            "異彩の作家　香山滋　　古代・浪漫・奇譚",
+            "0670b351b1eed4007f21197fa895cf89",
+            "http://iiif.nakano-library.jp/manifest/811164228_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104558/default.jpg",
+            "江古田遺跡　発掘調査報告書　2",
+            "e608fe2833b18624ada5019caaf9d444",
+            "http://iiif.nakano-library.jp/manifest/807690855_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104559/default.jpg",
+            "戦後六十年　　戦争体験話　三中教職員のご両親・他　アウシュビッツ",
+            "fe8a8ea546eb3a1f60aa15f6a2ca32bb",
+            "http://iiif.nakano-library.jp/manifest/807021087_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104560/default.jpg",
+            "中野区片山遺跡第２次発掘調査報告書　2　平成７年",
+            "6f4e9e42334576e2d5287a35ff100a07",
+            "http://iiif.nakano-library.jp/manifest/806169475_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104561/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1992)",
+            "0fdfeca42fc84cc31d5ec7502287a320",
+            "http://archive.nakano-library.jp/manifest/808088812_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104562/default.jpg",
+            "写真家　田沼武能　氏　　企画展示「地域の著作者紹介」第２回　地域の著作者紹介シリーズ",
+            "13e2d6be5e1cdb17b22c618370f1713f",
+            "http://iiif.nakano-library.jp/manifest/807249928_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104563/default.jpg",
+            "なかのアメニティガイド",
+            "17d35499694968f2b377a5007d51cc52",
+            "http://iiif.nakano-library.jp/manifest/805497097_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104564/default.jpg",
+            "まつりと講　ふるさと中野の民俗と行事　Ⅱ　（中野の文化財　Ｎｏ．３）",
+            "4fdbaa7ba4a08e9accd98189017c1a6b",
+            "http://archive.nakano-library.jp/manifest/805119129_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104565/default.jpg",
+            "中野区立歴史民俗資料館　研究紀要　3",
+            "31fc31dec049537919d3643a54cab708",
+            "http://iiif.nakano-library.jp/manifest/808051376_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104566/default.jpg",
+            "えごたの見どころ　ガイドブック",
+            "e3d079b6fc547551c77fbd82d475bcb3",
+            "http://iiif.nakano-library.jp/manifest/804343710_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104567/default.jpg",
+            "原爆写真絵画展感想集",
+            "a038edd2cfa760ff99e3b90c02333adf",
+            "http://iiif.nakano-library.jp/manifest/807783785_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104568/default.jpg",
+            "中野区民生活史　第3巻",
+            "18951a333c9a00f9832b18d688fa2c4b",
+            "http://archive.nakano-library.jp/manifest/808060295_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104589/default.jpg",
+            "なかの区報　製本版　平成27年度",
+            "7f05199d22f2a1928914d367036bbd00",
+            "http://archive.nakano-library.jp/manifest/811077140_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104590/default.jpg",
+            "古老の語る沼袋・江古田の歴史　1",
+            "660f4a713ae3c366e50f65be6f981c99",
+            "http://iiif.nakano-library.jp/manifest/808109538_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104591/default.jpg",
+            "中野区政の歩み　1975-1979",
+            "af230eaa6e99db21f8ca99a0adce3336",
+            "http://archive.nakano-library.jp/manifest/801804331_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104592/default.jpg",
+            "なかの　農業情報マップ　　「農」のあるまち、再発見",
+            "29a595bd0492acca5b77290b8ac9bf0e",
+            "http://iiif.nakano-library.jp/manifest/808932692_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104593/default.jpg",
+            "路傍の石仏をたずねて",
+            "dbeff12f2154db7bcb87e405030f526b",
+            "http://iiif.nakano-library.jp/manifest/807075382_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104594/default.jpg",
+            "松が丘遺跡　発掘調査報告書",
+            "02bea8cd3a03225bd68e9944a2323924",
+            "http://iiif.nakano-library.jp/manifest/806169340_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104595/default.jpg",
+            "中野の街を流れる「五つの川」　　　地域展示",
+            "59d9ec57055a38816532b8e79e8e0901",
+            "http://iiif.nakano-library.jp/manifest/806634691_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104596/default.jpg",
+            "中野町誌",
+            "ca0817b075c01ff7fd9ca8d8804d0fab",
+            "http://archive.nakano-library.jp/manifest/802207934_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104597/default.jpg",
+            "中野区民生活史　第2巻",
+            "092ff7bd5b8a989ae24a95af50049c65",
+            "http://archive.nakano-library.jp/manifest/806637156_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104598/default.jpg",
+            "天正十九年江古田村検地帳",
+            "41534d271561f7bde51bd643928bacd7",
+            "http://archive.nakano-library.jp/manifest/805119020_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104599/default.jpg",
+            "山﨑家資料図録 (1992)",
+            "6b4656d828bed6c0d090276e26e8a2c0",
+            "http://archive.nakano-library.jp/manifest/808086513_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104600/default.jpg",
+            "なかの区報　製本版　平成23年度",
+            "733455ada947add01019de0d2df91515",
+            "http://archive.nakano-library.jp/manifest/808367416_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104601/default.jpg",
+            "中野区の３０年",
+            "7b2740f676dced45b150ead5b06d05cf",
+            "http://iiif.nakano-library.jp/manifest/804394030_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104602/default.jpg",
+            "異彩の作家　香山滋　　古代・浪漫・奇譚",
+            "92e8223c3205e4a3273c06668e490e5d",
+            "http://iiif.nakano-library.jp/manifest/808658360_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104603/default.jpg",
+            "中野区政の歩み　2007-2011",
+            "961af191820b769f001985bf29a70a6b",
+            "http://archive.nakano-library.jp/manifest/808365411_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104604/default.jpg",
+            "新井三丁目遺跡　　本文篇",
+            "943558b3232625bb6a1a89b3f36eaa3c",
+            "http://iiif.nakano-library.jp/manifest/802417780_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104605/default.jpg",
+            "ゆかり展示回顧録　　中野の偉人・文化人ハイライト",
+            "5f331d7d4f0950ed5546b89bf917de3a",
+            "http://iiif.nakano-library.jp/manifest/811327771_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104606/default.jpg",
+            "大和町うるわし　　東京都中野区大和町の歴史",
+            "c8ff76150dc2f3ffc40a2657b9cc7483",
+            "http://iiif.nakano-library.jp/manifest/811084000_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104607/default.jpg",
+            "武蔵野方町史（日本史跡編）",
+            "4f345eb3d80a07f4aa5eb958a4e11135",
+            "http://archive.nakano-library.jp/manifest/801809365_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104608/default.jpg",
+            "なかの区報　縮刷版　No.7",
+            "0e342d83a991dd0c0fc5bc1a2743d5ff",
+            "http://archive.nakano-library.jp/manifest/600717559_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104629/default.jpg",
+            "山﨑家文書　武蔵国多摩郡江古田村　四",
+            "194b0e9be0808c6d66a28fdc8e873f6c",
+            "http://archive.nakano-library.jp/manifest/804400568_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104630/default.jpg",
+            "中野区史料館だより　　中野刑務所内遺跡発掘特集",
+            "0f519095fee1e39ffd363ee88077889b",
+            "http://iiif.nakano-library.jp/manifest/808079152_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104631/default.jpg",
+            "中野区政の歩み　1983-1987",
+            "5a1b18965efcc001b96548bf40a17124",
+            "http://archive.nakano-library.jp/manifest/802141618_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104632/default.jpg",
+            "堀江家文書（絵図）　二",
+            "875515db6525263e1048785602e32d7c",
+            "http://archive.nakano-library.jp/manifest/805740330_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104633/default.jpg",
+            "中野の戦災記録写真集",
+            "c00e8169ea65e5230e69d1e337e5c3b6",
+            "http://iiif.nakano-library.jp/manifest/809693892_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104634/default.jpg",
+            "なかのミニガイド　　１９８２－１９９９",
+            "2f3e130a96c4429005075dad05b7b228",
+            "http://iiif.nakano-library.jp/manifest/806785248_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104635/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．11",
+            "b7ed4aeb7cc3305293c4c0ed26f504a6",
+            "http://archive.nakano-library.jp/manifest/807174255_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104636/default.jpg",
+            "遠藤山遺跡　発掘調査報告書",
+            "6dff7290376fc89e11fe574480b2304b",
+            "http://iiif.nakano-library.jp/manifest/805724319_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104637/default.jpg",
+            "中野区平和の森公園北遺跡　発掘調査報告書",
+            "06865eac061615c22b65197630425bb1",
+            "http://iiif.nakano-library.jp/manifest/804346525_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104638/default.jpg",
+            "谷戸に文化村があったころ　探偵作家松本泰・松本恵子と文士たち　　企画展示「中野区ゆかりの著作者紹介」第９回　地域の著作者紹介シリーズ",
+            "02aadbceabb09c2a5ff20f4bb9500abb",
+            "http://iiif.nakano-library.jp/manifest/809488096_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104639/default.jpg",
+            "現代日本の建築家　伊藤豊雄と長谷川逸子　　企画展示「地域の著作者紹介」第４回　地域の著作者紹介シリーズ",
+            "1ffaa27f5d4edacb68e9f41b5a49a818",
+            "http://iiif.nakano-library.jp/manifest/808618964_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104640/default.jpg",
+            "中野区立図書館の歩み",
+            "84a5b8f61be97f6350c5bd45e06bbe9b",
+            "http://iiif.nakano-library.jp/manifest/807509473_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104641/default.jpg",
+            "なかの区報　製本版　平成18年度",
+            "681107e8678045ab559a8934c6b34d6f",
+            "http://iiif.nakano-library.jp/manifest/808020280_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104642/default.jpg",
+            "武蔵江古田片山総覧",
+            "2028dfd72ed8a2643de25ce63bd43875",
+            "http://archive.nakano-library.jp/manifest/809464998_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104643/default.jpg",
+            "広町遺跡　発掘調査報告書　2",
+            "f392481e07be198daaee45fe7ae26d64",
+            "http://iiif.nakano-library.jp/manifest/811327815_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104644/default.jpg",
+            "古木鉄太郎の文学游歩",
+            "a44258b5d854fc6a7caa61a26b209c5e",
+            "http://iiif.nakano-library.jp/manifest/811084904_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104645/default.jpg",
+            "中野のまちと刑務所　　中野刑務所発祥から水と森の公園まで",
+            "41180e0c0c891dac727a8365ea5bf861",
+            "http://iiif.nakano-library.jp/manifest/805157308_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104646/default.jpg",
+            "ワグナー・ナンドール氏制作　彫刻作品「哲学の庭」　　日本・ハンガリー外交関係解説１４０周年　財団法人タオ世界文化発展研究",
+            "aa76f9fd29cdf6c2f404264cece67acf",
+            "http://iiif.nakano-library.jp/manifest/808623516_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104647/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．9",
+            "cd8c9d7369df8fe419f7602be67ea283",
+            "http://archive.nakano-library.jp/manifest/805518473_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104648/default.jpg",
+            "中野区の新らしい歩み（中野区史別冊）",
+            "38a9c749e3e25fb992114fe313e3da0a",
+            "http://archive.nakano-library.jp/manifest/801809641_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104669/default.jpg",
+            "中野区政の歩み　1991-1995",
+            "cea98f41916f83ec11ea7d499ba00ff5",
+            "http://archive.nakano-library.jp/manifest/804389783_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104670/default.jpg",
+            "国立中野療養所と江古田の作家たち　　企画展示「地域の著作者紹介」第３回　地域の著作者紹介シリーズ",
+            "9a9a3767ca51bd5dc9683e1d65d027ca",
+            "http://iiif.nakano-library.jp/manifest/807121117_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104671/default.jpg",
+            "中野区政の歩み　1999-2003",
+            "c16bd5f60a9a33bee8cdb8a78f7c16bf",
+            "http://archive.nakano-library.jp/manifest/806924190_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104672/default.jpg",
+            "中野区報　縮刷版　Ｎｏ．5",
+            "f512e056476364e9069a02e7631e8129",
+            "http://archive.nakano-library.jp/manifest/801855457_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104673/default.jpg",
+            "なかの区報　製本版　平成17年度",
+            "034152bb60f2d69be5efc92ae06b0a6f",
+            "http://iiif.nakano-library.jp/manifest/808670230_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104674/default.jpg",
+            "ふるさと中野の民俗と行事　　　中野の文化財　Ｎｏ．２",
+            "ae4d90828029c7682f0a82d3e8f3ef92",
+            "http://iiif.nakano-library.jp/manifest/805119174_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104675/default.jpg",
+            "中野区政の歩み　1979-1983",
+            "3a7e3dc45bc90e4963c7c6b5531d70af",
+            "http://archive.nakano-library.jp/manifest/801804340_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104676/default.jpg",
+            "都市景観ガイドプラン　　木洩れ陽のあるまち・中野",
+            "5e4d693dff6ac2ea298fc53db78145f0",
+            "http://iiif.nakano-library.jp/manifest/807332800_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104677/default.jpg",
+            "「東部地区　昔をたずねて」",
+            "49376cc04e6a091f79633944b7ea6b0a",
+            "http://iiif.nakano-library.jp/manifest/803903295_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104678/default.jpg",
+            "なかの区報　製本版　平成26年度",
+            "4495e1706f9397b368a1fd58459ca179",
+            "http://archive.nakano-library.jp/manifest/809690738_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104679/default.jpg",
+            "中野区民生活史　第1巻　付録　明治前期中野区地域図（迅速測図）",
+            "d0e81f3d6a9aa126eedcfe9828973bc8",
+            "http://archive.nakano-library.jp/manifest/805679705_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104680/default.jpg",
+            "なかの区報　製本版　平成22年度",
+            "56f52e1f83c67e18048ec31cf19a3452",
+            "http://archive.nakano-library.jp/manifest/808649192_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104681/default.jpg",
+            "生誕１５０年　「不思議博士・井上円了」　　企画展示「地域の著作者紹介」第５回　地域の著作者紹介シリーズ",
+            "5ebd449150ed388f3f89a29b58a8105d",
+            "http://iiif.nakano-library.jp/manifest/808035640_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104682/default.jpg",
+            "小説・エッセイにみる中野　2　中野が掲載されている展示資料の詳細とその他資料　地域展示",
+            "25a3d584b7bd89c22a692172ec14944e",
+            "http://iiif.nakano-library.jp/manifest/806774173_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104683/default.jpg",
+            "中野区政の歩み　2003-2007",
+            "0f532b6482884fb28298916d965e737a",
+            "http://archive.nakano-library.jp/manifest/808110969_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104684/default.jpg",
+            "堀江家文書（絵図）　一",
+            "4002b40e8c64d56af83b6d0c9302e1c5",
+            "http://archive.nakano-library.jp/manifest/805469234_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104685/default.jpg",
+            "〔仮称〕中野刑務所遺跡発掘調査概報",
+            "c1192b8c9e34fc5d1abd449dd9bc4a98",
+            "http://iiif.nakano-library.jp/manifest/804349910_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104686/default.jpg",
+            "古木鉄太郎展　　鷺宮を歩いた私小説家",
+            "9dc507c7d1668e6241f87580f531b013",
+            "http://iiif.nakano-library.jp/manifest/811084860_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104687/default.jpg",
+            "中野を読む　1　江戸文献史料集　Ⅰ　中野の文化財　Ｎｏ．１８",
+            "0451e18c252f502c453cc0082548f29d",
+            "http://iiif.nakano-library.jp/manifest/806169537_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104688/default.jpg",
+            "中野の農業　いまむかし　1　かつて、中野に“農”があった　地域展示",
+            "0019c8bd3dc4cd5e0f4238c24671a23b",
+            "http://iiif.nakano-library.jp/manifest/807754611_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104709/default.jpg",
+            "古老の語る沼袋・江古田の歴史　2",
+            "d59405c1963de174c11578aa3bd59f49",
+            "http://iiif.nakano-library.jp/manifest/802678974_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104710/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1980)",
+            "1898d26f0194c9f66f41ce46a282a865",
+            "http://archive.nakano-library.jp/manifest/804130883_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104711/default.jpg",
+            "産業ラーニングシティなかの　　ひとづくり・まちづくり",
+            "8593c93fc290f469b1590062f09910ba",
+            "http://iiif.nakano-library.jp/manifest/807336747_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104712/default.jpg",
+            "収監の作家・文化人",
+            "d2d29b3d91dad232525b1dbcda95aa77",
+            "http://iiif.nakano-library.jp/manifest/808361931_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104713/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．12",
+            "efcf438d88af41498e1c74f46d46fc57",
+            "http://archive.nakano-library.jp/manifest/806664841_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104714/default.jpg",
+            "東京都中野区立哲学堂公園内古建築調査報告書　　　中野の文化財　Ｎｏ．１２",
+            "ac1bbff10c8aacbe9c5e9b6abd007bc5",
+            "http://iiif.nakano-library.jp/manifest/806169798_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104715/default.jpg",
+            "中野の農業　いまむかし　2　“農”をする人々のくらし　地域展示",
+            "39aec9fb2bf4b1713b9796a42d35e5cb",
+            "http://iiif.nakano-library.jp/manifest/807793576_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104716/default.jpg",
+            "エポックなかの歴史３０選　　　中野の文化財　Ｎｏ．１４",
+            "b50559c83058cf0a8bf3090beedf13d7",
+            "http://iiif.nakano-library.jp/manifest/808060123_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104717/default.jpg",
+            "みどりと史跡をたずねて",
+            "3ea784b78ae02389c9f65d61dea8ba17",
+            "http://iiif.nakano-library.jp/manifest/804393946_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104718/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．6",
+            "31dfc500886cba47b40fc574bbd1ff77",
+            "http://archive.nakano-library.jp/manifest/807812798_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104719/default.jpg",
+            "中野区史　上巻",
+            "1433459ba21ca4bebfe50685ae1729e9",
+            "http://archive.nakano-library.jp/manifest/808657748_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104720/default.jpg",
+            "中野の子どもたち　2",
+            "ce1ece7a945fd96961c221804cc460e2",
+            "http://iiif.nakano-library.jp/manifest/808062763_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104721/default.jpg",
+            "「みどりの防災公園」実現に向けて",
+            "0698ee11e58c2697f8cbb9e7e9156354",
+            "http://iiif.nakano-library.jp/manifest/807012892_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104722/default.jpg",
+            "寺山西遺跡　発掘調査報告書　　平成１０年",
+            "c83cdb0c738b9874ebbd65d356f72195",
+            "http://iiif.nakano-library.jp/manifest/805752350_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104723/default.jpg",
+            "中野区の石造物（神社）　　　中野の文化財　Ｎｏ．２３",
+            "90919d561ba825107ebc4a20a5523b82",
+            "http://iiif.nakano-library.jp/manifest/806169653_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104724/default.jpg",
+            "中野区史　昭和資料編　3",
+            "0cf9cefe27ff723ae50e6baceaddcde1",
+            "http://archive.nakano-library.jp/manifest/808029212_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104725/default.jpg",
+            "中野区民生活史　第1巻",
+            "21ee5d87b5733e29d6574ae928da6056",
+            "http://archive.nakano-library.jp/manifest/805111800_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104726/default.jpg",
+            "山﨑家文書　武蔵国多摩郡江古田村　二",
+            "928ea9712dcc298157664dd960dd5614",
+            "http://archive.nakano-library.jp/manifest/807666770_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104727/default.jpg",
+            "なかの区報　製本版　平成28年度",
+            "5d4e728a2723ed6c4a988b1663ed02c0",
+            "http://iiif.nakano-library.jp/manifest/811304955_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104728/default.jpg",
+            "新井三丁目遺跡　　図版篇",
+            "16a4c5c58e0221017e89a8fdf37e1d00",
+            "http://iiif.nakano-library.jp/manifest/802417790_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104749/default.jpg",
+            "山﨑家資料図録 (1989)",
+            "b2ee5ebde0d07ca5bdfc6b691b79365a",
+            "http://archive.nakano-library.jp/manifest/802413950_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104750/default.jpg",
+            "Ｎｏ．８５遺跡　発掘調査報告書　　中野区立中野富士見中学校跡地",
+            "7ff2aa4e4f18c8cbab30aaa29f71ae97",
+            "http://iiif.nakano-library.jp/manifest/811058940_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104751/default.jpg",
+            "東京都中野区江古田氷川神社神楽殿調査報告書　　　中野の文化財　Ｎｏ．１０",
+            "a719120211f9b73f89c833f5867f9e0d",
+            "http://iiif.nakano-library.jp/manifest/806169690_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104752/default.jpg",
+            "商店街からたどる”なかの”の足跡　1",
+            "bc715c9a5f3b02c1a6983014dfc3b171",
+            "http://iiif.nakano-library.jp/manifest/807118514_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104753/default.jpg",
+            "中野区報　縮刷版　Ｎｏ．4",
+            "b375ffda08f812623501beb9b2508a0b",
+            "http://archive.nakano-library.jp/manifest/804343828_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104754/default.jpg",
+            "なかのミニガイド　　１９７８－１９８０",
+            "e985050637791321fdb4e08bfe138ade",
+            "http://iiif.nakano-library.jp/manifest/808932656_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104755/default.jpg",
+            "中野区史　昭和編　2",
+            "dcecd5d7ab16a47780ad58e279d0eedd",
+            "http://archive.nakano-library.jp/manifest/805196745_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104756/default.jpg",
+            "中野を語る建物たち　　中野区大正期・昭和前期建造物調査報告書",
+            "770d200b3543048b77bca4b8ccff04ae",
+            "http://iiif.nakano-library.jp/manifest/808367452_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104757/default.jpg",
+            "中野区政の歩み　1951-1955",
+            "9d07946ee8b224ee368616b80e3fb263",
+            "http://archive.nakano-library.jp/manifest/801804270_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104758/default.jpg",
+            "東京都中野区立哲学堂公園内石造物及び聨・扁額類調査報告書",
+            "94fdd73d4f3e4e57a8263392c8921a21",
+            "http://iiif.nakano-library.jp/manifest/806169312_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104759/default.jpg",
+            "広町遺跡　発掘調査報告書　3",
+            "06e4abaf578b1753fdfe5671238b1b2a",
+            "http://iiif.nakano-library.jp/manifest/811327430_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104760/default.jpg",
+            "ちょっとまえのあらい　　昭和初期から３０年代の新井のまち",
+            "d206af800dd5389b820bd856c735e2ac",
+            "http://iiif.nakano-library.jp/manifest/805519309_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104761/default.jpg",
+            "作家・阪田寛夫　～童謡「サッちゃん」の詩人・小説家　　企画展示「中野区ゆかりの著作者紹介」第６回　地域の著作者紹介シリーズ",
+            "cbfa8e9adc576af0a6561917191c705e",
+            "http://iiif.nakano-library.jp/manifest/808618982_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104762/default.jpg",
+            "なかの区報　製本版　平成16年度",
+            "419fe1ff49f4cd385a40a8b6bb24ae55",
+            "http://iiif.nakano-library.jp/manifest/808670249_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104763/default.jpg",
+            "中野区政の歩み　1987-1991",
+            "b236f836766b012dc00a3c6c3c156516",
+            "http://archive.nakano-library.jp/manifest/804715075_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104764/default.jpg",
+            "手仕事なかの",
+            "4e85af4eb32a223935ccd41a35129bb6",
+            "http://iiif.nakano-library.jp/manifest/804346516_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104765/default.jpg",
+            "なかの区報　製本版　平成15年度",
+            "195efba5e3a5ee113ed33a546f453f81",
+            "http://iiif.nakano-library.jp/manifest/808661858_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104766/default.jpg",
+            "小谷津家文書　1　第一巻　検地帳　中野の文化財　Ｎｏ．７",
+            "a8bcc9f7f55061b29f75db77171b7e59",
+            "http://iiif.nakano-library.jp/manifest/806169386_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104767/default.jpg",
+            "中野区北原遺跡発掘調査報告書",
+            "7cb94b187ad78a161bda0421326087bc",
+            "http://iiif.nakano-library.jp/manifest/806169410_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104768/default.jpg",
+            "中野区史　昭和資料編　2",
+            "b3f549eace328a719c07ffa5d847daf4",
+            "http://archive.nakano-library.jp/manifest/808616932_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104789/default.jpg",
+            "中野の歴史",
+            "c6e4e634fc3f573181d4f8c7871dd91a",
+            "http://archive.nakano-library.jp/manifest/808053380_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104790/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1985)",
+            "b1d2a0ef5946484bdddbb3827a695c2c",
+            "http://archive.nakano-library.jp/manifest/806695928_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104791/default.jpg",
+            "中野の神社をたずねて　南部編　　南部編　地域展示",
+            "ba182c2a59de71ef70a54d1b2b803f5f",
+            "http://iiif.nakano-library.jp/manifest/808683980_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104792/default.jpg",
+            "なかの区報　製本版　平成12年度",
+            "2c8f7fa9281141d74fdc90dec4dfcb6e",
+            "http://iiif.nakano-library.jp/manifest/808637520_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104793/default.jpg",
+            "地域に伝わる　土器　磁器　陶器",
+            "7618eec011f6de5acce79d385b3d052b",
+            "http://iiif.nakano-library.jp/manifest/805446534_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104794/default.jpg",
+            "中野の昔話・伝説・世間話　口承文芸調査報告書　（中野の文化財　Ｎｏ．１１）",
+            "c3f5076f2bce216bcc6b84af2d1fb535",
+            "http://archive.nakano-library.jp/manifest/805119183_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104795/default.jpg",
+            "中野区史　昭和編　1",
+            "ade9de6bc78fcb5dd7ae9f99e4e5cce1",
+            "http://archive.nakano-library.jp/manifest/803906410_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104796/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．8",
+            "e8501ff5d7690fafe188886331031d03",
+            "http://archive.nakano-library.jp/manifest/806665052_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104797/default.jpg",
+            "暮らしと遊びの「こころ」と「かたち」　　第１１回特別企画・郷土玩具コレクション展",
+            "66d79ec9819bfd8af8a029fbf6a15ea0",
+            "http://iiif.nakano-library.jp/manifest/808657819_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104798/default.jpg",
+            "見えない都市・模索するストーリー",
+            "8effd9311d32fdb87d41912c9ba45ca2",
+            "http://iiif.nakano-library.jp/manifest/801806040_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104799/default.jpg",
+            "中野のお寺散歩　　参考・地域行政資料コーナーにおける展示の概要　地域展示",
+            "cc817fcfa66b7ffcb1206c6bbff2206c",
+            "http://iiif.nakano-library.jp/manifest/807754540_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104800/default.jpg",
+            "中野の橋あれこれ　　参考・地域行政資料コーナーにおける展示の概要　地域展示",
+            "3e1568ccceea8e4e421d48debf273e13",
+            "http://iiif.nakano-library.jp/manifest/807301661_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104801/default.jpg",
+            "ゾルゲ事件捜査官",
+            "1aaea855094a17d8407a91a1d87244fa",
+            "http://iiif.nakano-library.jp/manifest/807249900_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104802/default.jpg",
+            "中野区史　昭和資料編　1",
+            "0891c894eeaa06cf3cce63217823a48b",
+            "http://archive.nakano-library.jp/manifest/801809463_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104803/default.jpg",
+            "山﨑家文書　武蔵国多摩郡江古田村　五",
+            "41b30d22dc237e3e79fffdda67e386c5",
+            "http://archive.nakano-library.jp/manifest/808056793_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104804/default.jpg",
+            "なかの区報　製本版　平成13年度",
+            "37a46cb2bb887d17c8fe8459fbae9587",
+            "http://iiif.nakano-library.jp/manifest/808637736_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104805/default.jpg",
+            "中野区の仏教美術　　　中野の文化財　Ｎｏ．２２",
+            "d08aa68dcb47b706e7813aa64ca615e2",
+            "http://iiif.nakano-library.jp/manifest/805170865_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104806/default.jpg",
+            "中野区立歴史民俗資料館　研究紀要　2",
+            "6515072e38dd1738f6d84f7976fcf55a",
+            "http://iiif.nakano-library.jp/manifest/811176953_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104807/default.jpg",
+            "中野区御嶽遺跡第１次発掘調査報告書　1　平成７年",
+            "2f2769a21a2de62087bc89f82f110e89",
+            "http://iiif.nakano-library.jp/manifest/806169519_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104808/default.jpg",
+            "中野グラフ白書　　ＮＡＫＡＮＯ　ＴＯＷＮ　ＲＥＰＯＲＴ",
+            "ad6038513410f25d342408a854ef5a45",
+            "http://iiif.nakano-library.jp/manifest/806665301_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104829/default.jpg",
+            "なかのの碑文　　　中野の文化財　Ｎｏ．４",
+            "972a88a844eacdf8202d6b35bdca1dbb",
+            "http://iiif.nakano-library.jp/manifest/808029070_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104830/default.jpg",
+            "わがまちこのひと",
+            "06d69dd399d01f93d9800d5b3501e4a6",
+            "http://iiif.nakano-library.jp/manifest/807815403_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104831/default.jpg",
+            "江古田村御用留　　　中野区史料館資料叢書",
+            "017351e4fc25e8ab1864e450fc864d4f",
+            "http://iiif.nakano-library.jp/manifest/805119049_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104832/default.jpg",
+            "中野区報　縮刷版　Ｎｏ．2",
+            "15b13f93b9f8e4a644e2c712ff4d979d",
+            "http://archive.nakano-library.jp/manifest/805518535_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104833/default.jpg",
+            "中野区史　昭和編　3",
+            "7df6c825d60fe193d298b77728d009e7",
+            "http://archive.nakano-library.jp/manifest/805726707_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104834/default.jpg",
+            "中野区報　縮刷版　Ｎｏ．3",
+            "57e40cefef368c24ac35bf4ca61138fc",
+            "http://archive.nakano-library.jp/manifest/805518562_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104835/default.jpg",
+            "なかの区報　製本版　平成20年度",
+            "030b98d91879f423db2594f2963ee26c",
+            "http://archive.nakano-library.jp/manifest/808020271_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104836/default.jpg",
+            "江古田遺跡　発掘調査報告書　3",
+            "2c95f1e4c0c8cddbd4d1ccb9805ad4be",
+            "http://iiif.nakano-library.jp/manifest/807732534_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104837/default.jpg",
+            "小説・エッセイにみる中野　1　参考資料コーナーにおける展示資料の内容　地域展示",
+            "edb5df825810a45d8ce8c2d19d79e78a",
+            "http://iiif.nakano-library.jp/manifest/806877484_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104838/default.jpg",
+            "中野区若宮遺跡調査報告書　　中野区若宮二丁目６０番２１号における埋蔵文化財発掘報告書",
+            "6b80959ff97aa9057dc30153ad48c4ed",
+            "http://iiif.nakano-library.jp/manifest/807233015_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104839/default.jpg",
+            "哲学堂公園内遺跡発掘調査報告書",
+            "d51d37361fa7bc8dc8db42d46a858638",
+            "http://iiif.nakano-library.jp/manifest/808079232_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104840/default.jpg",
+            "東京都中野区向田遺跡発掘調査報告書",
+            "653eb9aa0a7a5bd3426798609aaebfb0",
+            "http://iiif.nakano-library.jp/manifest/806169493_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104841/default.jpg",
+            "中野区政の歩み　1971-1975",
+            "7e96a08df888eafce520d2c11b967505",
+            "http://archive.nakano-library.jp/manifest/801804322_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104842/default.jpg",
+            "商店街からたどる”なかの”の足跡　2",
+            "e58119a0c4f40285cc8382d6398c2e8a",
+            "http://iiif.nakano-library.jp/manifest/808066978_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104843/default.jpg",
+            "中野を読む　2　江戸文献史料集　Ⅱ　中野の文化財　Ｎｏ．２０",
+            "f99171940e25b768689b37f2ccf61460",
+            "http://iiif.nakano-library.jp/manifest/805131722_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104844/default.jpg",
+            "中野区本田山遺跡発掘調査報告書",
+            "6d30372362cec6e148b9565b1d813711",
+            "http://iiif.nakano-library.jp/manifest/808657855_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104845/default.jpg",
+            "中野の神社をたずねて　北部編　　北部編　地域展示",
+            "0264e08c689c60d31bf3b80ea5779c70",
+            "http://iiif.nakano-library.jp/manifest/808683935_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104846/default.jpg",
+            "中野区史　下巻　2",
+            "cfdb2ab614a258ff3448444552fe5eb3",
+            "http://archive.nakano-library.jp/manifest/801311983_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104847/default.jpg",
+            "『中野の戦災』　　　地域展示",
+            "2e4d485c0bb46f95f9cb42f7a34c25ef",
+            "http://iiif.nakano-library.jp/manifest/806637773_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104848/default.jpg",
+            "中野区民生活史　資料・統計編",
+            "9412514098a4c80c7e508f0984ec815b",
+            "http://archive.nakano-library.jp/manifest/801809632_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104869/default.jpg",
+            "郷土中野",
+            "60623ceafc4e5b5d2c24954e04657246",
+            "http://archive.nakano-library.jp/manifest/807815520_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104870/default.jpg",
+            "北江古田遺跡発掘調査報告書　1",
+            "5992c38e45203273ad4a7ba71e207ed1",
+            "http://iiif.nakano-library.jp/manifest/806169420_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104871/default.jpg",
+            "沼袋を語る",
+            "2cc4232467fbd95676283f6d71ddc374",
+            "http://iiif.nakano-library.jp/manifest/806356404_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104872/default.jpg",
+            "江古田遺跡　発掘調査報告書　　1",
+            "85a9e794ee8450cd600c2abd0c6cb0a8",
+            "http://iiif.nakano-library.jp/manifest/806169359_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104873/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1987)",
+            "3d091d4805dd55127b231afb48eede98",
+            "http://archive.nakano-library.jp/manifest/802752893_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104874/default.jpg",
+            "やまと今昔物語",
+            "bddd9e9338a08025d3fa5044bc54be8f",
+            "http://iiif.nakano-library.jp/manifest/808078404_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104875/default.jpg",
+            "グラフィック　中野の産業　２００７",
+            "8c4ea13906647ba33c699ae7ba68e905",
+            "http://iiif.nakano-library.jp/manifest/807178577_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104876/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1989)",
+            "a4d88db9fc56795b8563213a8769a14f",
+            "http://archive.nakano-library.jp/manifest/806695955_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104877/default.jpg",
+            "中野区板碑資料集　　　中野の文化財　Ｎｏ．１９",
+            "85967dd24c35e972a4a56febb4946815",
+            "http://iiif.nakano-library.jp/manifest/806169733_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104878/default.jpg",
+            "『中野にきた象』　　　地域展示",
+            "cc254619f90ef39dc1b8b46e2248cb61",
+            "http://iiif.nakano-library.jp/manifest/807193250_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104879/default.jpg",
+            "中野区政の歩み　1955-1959",
+            "3bf296918ff2447b02b79117bc13e6a0",
+            "http://archive.nakano-library.jp/manifest/801312004_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104880/default.jpg",
+            "中野区政の歩み　1967-1971",
+            "23c742ad25abd94ff6d3cd63359586d0",
+            "http://archive.nakano-library.jp/manifest/801804313_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104881/default.jpg",
+            "中野区政の歩み　1995-1999",
+            "9cfb10ad3da438098eb7bdd095f7f7b4",
+            "http://archive.nakano-library.jp/manifest/806062728_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104882/default.jpg",
+            "なかの区報　縮刷版　Ｎｏ．10",
+            "daeb401d292cf242c0a23233e13f9da3",
+            "http://archive.nakano-library.jp/manifest/805518508_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104883/default.jpg",
+            "中野区立歴史民俗資料館　研究紀要　　1",
+            "9bab346f0f0d56abfa2df6609d730837",
+            "http://iiif.nakano-library.jp/manifest/811176962_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104884/default.jpg",
+            "なかの区報　製本版　平成21年度",
+            "278ac17f0455a5e209fd7bc908e714f9",
+            "http://archive.nakano-library.jp/manifest/808894241_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104885/default.jpg",
+            "東京都中野区内の石仏　　　中野区史料館資料叢書",
+            "11dee0cae1ce9e14840d3c465e6e553f",
+            "http://iiif.nakano-library.jp/manifest/806698296_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104886/default.jpg",
+            "哲学堂公園　　哲学に親しむ",
+            "7a3a072c11592c6f02f78ae3ca306dfc",
+            "http://iiif.nakano-library.jp/manifest/806868832_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104887/default.jpg",
+            "中野区片山遺跡　発掘調査報告書　　1",
+            "edc5e6b30a9324eeddb68c1ce4077f15",
+            "http://iiif.nakano-library.jp/manifest/806169457_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104888/default.jpg",
+            "江古田今昔",
+            "9e33d3c6de16ed3c6c1a0e72d4d0fb5d",
+            "http://archive.nakano-library.jp/manifest/807815412_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104909/default.jpg",
+            "中野区産業データブック",
+            "68bfd70b40ecc94cab206d0eb5fa33b1",
+            "http://iiif.nakano-library.jp/manifest/807336774_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104910/default.jpg",
+            "小絵馬写真集",
+            "fc44f6685e487504e8e8f864b64bec88",
+            "http://archive.nakano-library.jp/manifest/801833610_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104911/default.jpg",
+            "中野神明小学校校庭遺跡発堀調査報告　　昭和５２年度",
+            "4f3311f1ed70b64621c998c276bd7dc8",
+            "http://iiif.nakano-library.jp/manifest/806922104_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104912/default.jpg",
+            "小谷津家文書　2　第二巻　中野の文化財　Ｎｏ．８",
+            "36c71e28bf9cd8b9c91c31422bded9ab",
+            "http://iiif.nakano-library.jp/manifest/801830968_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104913/default.jpg",
+            "なかの区報　製本版　平成14年度",
+            "d74477aa3bedcef4b69dbb68797b0822",
+            "http://iiif.nakano-library.jp/manifest/808637511_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104914/default.jpg",
+            "山﨑家文書　武蔵国多摩郡江古田村　一",
+            "d18722bdab0e608b8b3426e5912009f4",
+            "http://archive.nakano-library.jp/manifest/805496670_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104915/default.jpg",
+            "北江古田遺跡発掘調査報告書　2",
+            "690a9eae5b65714bf56bc4fd63b5920e",
+            "http://iiif.nakano-library.jp/manifest/808683499_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104916/default.jpg",
+            "なかのの地名とその伝承　　　中野の文化財　Ｎｏ．５",
+            "9886427acabb541cbc5788b2fb52c59b",
+            "http://iiif.nakano-library.jp/manifest/808922453_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104917/default.jpg",
+            "『中野の地名由来』　　　地域展示",
+            "8383710a0736aab7624f314ba6ba72b9",
+            "http://iiif.nakano-library.jp/manifest/807178540_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104918/default.jpg",
+            "中野区政の歩み　1959-1963",
+            "e834304ad6eb05242b27a394299ccb58",
+            "http://archive.nakano-library.jp/manifest/801804298_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104919/default.jpg",
+            "なかの区報　製本版　平成24年度",
+            "f20e916b0806a17da359b8dab9c11368",
+            "http://archive.nakano-library.jp/manifest/808289418_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104920/default.jpg",
+            "山﨑家文書　武蔵国多摩郡江古田村　三",
+            "5e89f7d5dcea20607c351e97e2990461",
+            "http://archive.nakano-library.jp/manifest/805679741_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104921/default.jpg",
+            "中野区報　縮刷版　Ｎｏ．1",
+            "e8140b01dea16b31ad786733b1a6039c",
+            "http://archive.nakano-library.jp/manifest/805519416_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104922/default.jpg",
+            "東京都中野区立哲学堂公園",
+            "1cab77dc6b6d64cccf0dd1249ee75440",
+            "http://iiif.nakano-library.jp/manifest/805114276_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104923/default.jpg",
+            "文学にみる中野",
+            "af308a908bf88d5fce6d61c37ad86f7a",
+            "http://iiif.nakano-library.jp/manifest/808080627_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104924/default.jpg",
+            "広町遺跡　発掘調査報告書　　1",
+            "8b325ba02ff7dfbae538dabc325cb108",
+            "http://iiif.nakano-library.jp/manifest/808116210_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104925/default.jpg",
+            "中野区政の歩み　1963-1967",
+            "76b01bc1ce2c6d3c9891a046452497eb",
+            "http://archive.nakano-library.jp/manifest/801804304_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104926/default.jpg",
+            "小絵馬目録",
+            "dbd3e4140d2f4d06e6f2c2c8aadccca0",
+            "http://archive.nakano-library.jp/manifest/805119002_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104927/default.jpg",
+            "巽聖歌と新美南吉－友情と名作を育んだ上高田－　　企画展示「中野区ゆかりの著作者紹介」第１０回　地域の著作者紹介シリーズ",
+            "5d8c3c455ddb06c1318c2b9d31dbb536",
+            "http://iiif.nakano-library.jp/manifest/809677941_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104928/default.jpg",
+            "たずねてみませんか　中野の名所・旧跡 (1996)",
+            "d66647fe8bf369564e469e3080168c04",
+            "http://archive.nakano-library.jp/manifest/808053450_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104949/default.jpg",
+            "中野区の地名由来に関する記述文献索引　　　地域展示",
+            "06e8eacbedbc2ba8a4d86f134be24cd0",
+            "http://iiif.nakano-library.jp/manifest/806504552_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104950/default.jpg",
+            "中野の昔話・伝説・世間話　続　口承文芸調査報告書　（中野の文化財　Ｎｏ．１５）",
+            "d1fdfad62a3cd2648c1b803c0016beab",
+            "http://archive.nakano-library.jp/manifest/805119192_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104951/default.jpg",
+            "なかの区報　製本版　平成25年度",
+            "1f4f8e37ac2394a63b9c02a24f0fcd8f",
+            "http://archive.nakano-library.jp/manifest/809501957_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104952/default.jpg",
+            "中野区政の歩み　2011-2015",
+            "77e9f557c19770fa75500eefccc2554b",
+            "http://archive.nakano-library.jp/manifest/811060798_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104953/default.jpg",
+            "徳川綱吉と中野”犬小屋”　　　地域展示",
+            "b1bd594f7797e9000f2277480e87a049",
+            "http://iiif.nakano-library.jp/manifest/806634735_manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104959/default.jpg",
+            "服用薬帖",
+            "5578f4a6ee4d1cdca3b22e74796fb0e4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004955/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104960/default.jpg",
+            "(酒井)経験方",
+            "6c353835f05be6b0973a58610471904d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002182/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104961/default.jpg",
+            "癰疽神秘灸経",
+            "280bc473a517f07e8cd805991fcfb667",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005647/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104962/default.jpg",
+            "松本謙三郎君芳野詩",
+            "d4d17867b62ef913e66a4b7cd1253779",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00014056/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104963/default.jpg",
+            "元治元年戦後没長兵遺骨改葬碑",
+            "b3d4aa35290d965090901d32f16aa20a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013793/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104964/default.jpg",
+            "礼記抄 存巻1",
+            "31f8fff107e745265727e09bfe98fd46",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00008075/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104965/default.jpg",
+            "破提宇子",
+            "624ad3f6623bcbd4f78ebee2f93fa2b7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00012881/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104966/default.jpg",
+            "신해년 면주전(綿紬廛) 상인 유한조(劉漢朝) 연치단자(年齒單子)",
+            "3accd5fae61d353c0ecf20a4deb65bde",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021318/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104967/default.jpg",
+            "国字医叢 5巻",
+            "0fbf51c61e162ed15c6484524b9e39bc",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002478/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104968/default.jpg",
+            "医学愚得提要至論 2巻",
+            "2f89991395a6c2f91014402200b77cf9",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000445/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104969/default.jpg",
+            "麻疹心得",
+            "4825b25c01f7bd70aa78a5215cbe1c5f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005217/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104970/default.jpg",
+            "明史芸文志抄本 8巻",
+            "394f31d57b389c143c16779158c30970",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013639/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104971/default.jpg",
+            "御定番御役屋敷坪数入図",
+            "55d089562a35e0608093f07b5a38948a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021748/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104972/default.jpg",
+            "はちかつき",
+            "cf06fce2cab874f5214123e2e0b0ed95",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022867/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104973/default.jpg",
+            "金匱要略襯註 3巻",
+            "228397dd4cfa9187811c4cab30a54867",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002028/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104974/default.jpg",
+            "志都能石室 2巻",
+            "37f241d56e8682d91fe0d72da6ed1071",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002881/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104975/default.jpg",
+            "多能書 2巻",
+            "d8b2c28fe5a0404ec171ca6a16be444e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004056/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104976/default.jpg",
+            "折肱余筆 5巻",
+            "65ff7c0423c8ddf2f7402abc63437a99",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003793/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104977/default.jpg",
+            "1801년 양학로(梁學魯) 준호구(準戸口)",
+            "ded883283015546fc4eebdcb43dd8e18",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020509/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104978/default.jpg",
+            "경제-회계/금융-차하기",
+            "6d4d90f2ca6a8e8946dd60f4633df978",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022534/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/104999/default.jpg",
+            "うなゐのとも",
+            "c858abb5641189a0262257f265b45a4f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001254/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105000/default.jpg",
+            "松風舎薬症録",
+            "a0c26d049dad2de01539fe8c19e14238",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003269/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105001/default.jpg",
+            "痘瘡水鏡録",
+            "134cc029429cf28e6ad0c24a7b6791e2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004406/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105002/default.jpg",
+            "1729年、朴得文土地売買明文",
+            "24ec20a4f2c88e177b8dc3c57c5c47c4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020159/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105003/default.jpg",
+            "정치/행정-보고-수본",
+            "81c3b0a46a33cc288306ac6afb0f49fe",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022164/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105004/default.jpg",
+            "(博済堂)脚気提要",
+            "a2df7dc21b9d16ab8fb28f2869b6f21c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001604/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105005/default.jpg",
+            "雖知苦庵養生物語",
+            "a350b26e767e2135b50e17b4e76bf910",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003639/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105006/default.jpg",
+            "경제-회계/금융-차하기",
+            "c3a667cedccd0ae1a684e85b9a91f282",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022471/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105007/default.jpg",
+            "延喜式 巻37のみ",
+            "f8f6dee1f2689ef6e642a3b51e99499e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001311/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105008/default.jpg",
+            "知足斎永田先生遺稿",
+            "43a73937e3349adf0720c8a73fb5d39b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004113/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105009/default.jpg",
+            "경제-상업-시전문서",
+            "a922970147bfe57931509d373f84d7f8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022021/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105010/default.jpg",
+            "大方広仏華厳経 巻第47",
+            "87dfd3430ec75812124596b5bc8c82d7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009371/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105011/default.jpg",
+            "医学合点 2巻",
+            "80aa8f4871ea58eee5b8fc9016534151",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000853/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105012/default.jpg",
+            "拝賀着陣部類 2巻",
+            "4c43f77ddcf30e34e31d91482d98166f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006084/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105013/default.jpg",
+            "尚論篇方論 7巻序目1巻",
+            "1c7733ac81b1662d13dddfd063178470",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003286/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105014/default.jpg",
+            "内経病機撮要",
+            "78f3f52c77a9f8a51265825b4981759e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004543/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105015/default.jpg",
+            "吉田松陰先生戊午之詩",
+            "b6a552faa0eb863f0d8fa4634a3c641a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00014113/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105016/default.jpg",
+            "秘伝眼目之手鏡",
+            "4dc9659d075a9b6d9f8f2505aa50477f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004810/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105017/default.jpg",
+            "藍渓劉先生平言",
+            "96a1c143fc801760f86292d720f21c1d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005702/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105018/default.jpg",
+            "保元物語",
+            "bf09093eff25cde9c30e3c9918a6693e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000150/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105039/default.jpg",
+            "民間得聞録",
+            "02243614d9a1c0bd35556dfc0647d686",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005352/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105040/default.jpg",
+            "古今湿病論",
+            "85a9bb05cc2d000412a63f83519cf067",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002497/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105041/default.jpg",
+            "遊行柳",
+            "48849a5b7fa4640b7d3f6bae87ac7775",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00010853/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105042/default.jpg",
+            "鍼灸備要 2巻",
+            "7f73fd30e74f6e5dfb091e2b1df45dd1",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003455/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105043/default.jpg",
+            "(和方)凍青堂家言",
+            "a18492423e5d3f03974696512be6eaef",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004390/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105044/default.jpg",
+            "경제-회계/금융-영수증",
+            "be47db122921591a03709f1ca003e68d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022308/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105045/default.jpg",
+            "1732年、卞同知宅奴貴才土地売買明文",
+            "008fae6d3bc83ca2d4e4df5898ed3d66",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020335/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105046/default.jpg",
+            "医要 1巻",
+            "d8f8d0bd28c00ed4dd8927b0428e814b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001192/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105047/default.jpg",
+            "東行雑録",
+            "971ddb2240c1e078dbc0010f6c15bfa1",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005978/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105048/default.jpg",
+            "毛詩",
+            "a1447aa06ac5d90f50cf35cdc073e7db",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007945/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105049/default.jpg",
+            "授児論",
+            "1f117d58091c2ab0b0482010e0102185",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003005/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105050/default.jpg",
+            "医心方 30巻",
+            "47bc9d6b72ea5c65a782e17a6c46e23f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001038/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105051/default.jpg",
+            "경제-회계/금융-차하기",
+            "e08f8bcd57eaaf75a02f14ee2dc02c11",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021877/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105052/default.jpg",
+            "阿毘達磨大毘婆沙論 巻第35",
+            "9f13eae6de5c454cf894ac829988a917",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009408/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105053/default.jpg",
+            "1895년 면주전(綿紬廛) 상인 대용전(貸用錢) 수표(手標)",
+            "41edc11c57bf78cf9dff89711274caf1",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020765/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105054/default.jpg",
+            "雪夜書千巻春風酒一壷",
+            "daa986d47cb0a5d8a0f42577ffaa985b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013906/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105055/default.jpg",
+            "伊勢物語歌抜書",
+            "1f1b6c479e2a2cc0ced343a088e5e107",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006207/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105056/default.jpg",
+            "洋漢病名一覧 後編",
+            "4dfa61785a64e33b0ec35a6ed3ac1446",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005581/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105057/default.jpg",
+            "外科正宗集説",
+            "d9d4304031b63d9d80f1c4e7710aa516",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002244/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105058/default.jpg",
+            "森寛斎",
+            "c20377346b92aae50960f061e6c41572",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021524/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105079/default.jpg",
+            "中院通冬記",
+            "fd2e76c4f2d987380bbc22bd97ffed93",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007046/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105080/default.jpg",
+            "救急易解方",
+            "cd70d74e79fad9386f759b8ca83110b4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001891/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105081/default.jpg",
+            "続易簡方論後集 5巻",
+            "473a9239dc74ba6f72d1ccf712c62eef",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003906/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105082/default.jpg",
+            "경오년 면주전(綿紬廛) 상인 유경환(劉暻桓) 삼보단자(三保單子)",
+            "9f506400f02f04dce937aebf0bd204cf",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021174/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105083/default.jpg",
+            "纂図附音増広古註千字文 上中下",
+            "0467cfd0e7911e300ccdf294bfde9ce2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00011038/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105084/default.jpg",
+            "古今和歌集(註)聞書",
+            "04e74362232d68245764306d56da887b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007103/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105085/default.jpg",
+            "玄渓先生口授",
+            "8f624568041e6b684c83f858b1b7ec0a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002301/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105086/default.jpg",
+            "1879년 면주전(綿紬廛) 난전상인(亂廛商人) 김진홍(金鎭弘) 등 초사(招辭)",
+            "6165b7e211b68984e1c56e4f830a9beb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021461/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105087/default.jpg",
+            "[伴林光平批点歌合]",
+            "bec4b2b494a7e987008b04ee35d91472",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013140/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105088/default.jpg",
+            "素問参楊 4巻",
+            "81b44bfdd63e343b87f1bdd97201f4bb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000296/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105089/default.jpg",
+            "産科并図絵",
+            "14866cbd17252775ef7f6d4a3e9ac9d0",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002751/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105090/default.jpg",
+            "疱瘡厭勝秘伝集",
+            "35f410ce6876257c93928bec14527f03",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005094/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105091/default.jpg",
+            "撰鍼三要集",
+            "0f72ab1c478672c73f15a5124e0e56c6",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003843/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105092/default.jpg",
+            "1865년 면주전(綿紬廛) 후1방(後一房) 장무(掌務) 오상업(呉尚業) 수본(手本)",
+            "9de2d208ff4927dc07d9fcf94e7e49a7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021031/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105093/default.jpg",
+            "農隙余談",
+            "ad2ca858afc204139524cae9685e6711",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00012301/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105094/default.jpg",
+            "경제-회계/금융-차하기",
+            "dce4d20880f53c9428a7a7918beeba86",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021898/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105095/default.jpg",
+            "1623年、漢城府南部牒呈",
+            "28f25e47cb187a4d4a06a65b4815ba1e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020270/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105096/default.jpg",
+            "山水図・蘭図",
+            "e4406fe79706ca6d2ab60701a3dd0482",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013843/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105097/default.jpg",
+            "開聖医道倭方",
+            "8737c4bc88548026ce75d15e716f0fc5",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001487/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105098/default.jpg",
+            "宗碩連歌合",
+            "d2f2262336804bf0d07da11912cc1d1e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006342/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105119/default.jpg",
+            "熱病論 8巻",
+            "62c5976252298808d01fec9205322453",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004685/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105120/default.jpg",
+            "傷寒論講本 2巻",
+            "bc5db93ca3edc805d520336829b1fda1",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003140/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105121/default.jpg",
+            "遺詔奏陣議次第",
+            "f07549ad9faade75b725657a87c68fcb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005997/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105122/default.jpg",
+            "경제-회계/금융-차하기",
+            "d16bd4ca878f20804cc038b69f7a4a6b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021932/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105123/default.jpg",
+            "1884년 면주전(綿紬廛) 염남수주칠동수가초책(染藍水紬七同受價草冊)",
+            "fb043347a3209925f68d31ee3a0ff17c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020620/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105124/default.jpg",
+            "정치/행정-보고-수본",
+            "1c51e3bfc89c183f0e029adb224b9340",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022133/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105125/default.jpg",
+            "育子論",
+            "adb67547ffed2b5ebf163a8e17d826a0",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000941/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105126/default.jpg",
+            "妙香院宮御山務日記",
+            "b4394aef261b411ed3f8eb1d90f7558a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006196/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105127/default.jpg",
+            "神応経",
+            "49694031984815b333240c8afe637020",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003394/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105128/default.jpg",
+            "読傷寒論俗解",
+            "3d10febea891dce2cc38f8f1035ae7e2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004451/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105129/default.jpg",
+            "경제-회계/금융-차하기",
+            "e3e4ff593982c8590d983d120a00528b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022563/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105130/default.jpg",
+            "医療瑣談 3巻",
+            "56d65a5831fcdc2f42abe0603e06637d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001203/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105131/default.jpg",
+            "大同類聚方抜粋神方",
+            "61a3362d87b450f1f5fe85cb4ef839e2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004001/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105132/default.jpg",
+            "정치/행정-보고-수본",
+            "4085959b276fc19098206a709c134706",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022099/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105133/default.jpg",
+            "古文真宝抄 10巻",
+            "90d12f6803faf55aa8221c091575d63a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00010412/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105134/default.jpg",
+            "辯致秘書 (存1卷)",
+            "2d4b06fb763996eb58689fe7fb104882",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022830/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105135/default.jpg",
+            "集験良方考按 2巻",
+            "7ba0514e1eb47ea4392f92fd05ff2575",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013394/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105136/default.jpg",
+            "麻疹薬按 1巻",
+            "f64a1073991ff96c5a31ab9bca1b67c7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005240/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105137/default.jpg",
+            "古方翼 3巻別録",
+            "5d7b8875113919f96c381711dd59d650",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002585/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105138/default.jpg",
+            "(大湖石刻兪楼)梅花之図",
+            "f75718cae2df4d84bbad90e4571bae15",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00014001/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105159/default.jpg",
+            "史記抄 19巻",
+            "6244d6882e09c73035b4aa0927824ee3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00008022/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105160/default.jpg",
+            "(理学入門)植学啓原 3巻",
+            "337bf5096043b85f66b71df4e64a8baa",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000412/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105161/default.jpg",
+            "豳雅",
+            "371de380df96a3b602c00b898f283b51",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004902/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105162/default.jpg",
+            "(延年)養生訣 2巻",
+            "a10c129e7d5ab51dde922af51a1c9241",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005610/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105163/default.jpg",
+            "脈語 2巻",
+            "46b4f3bb37cd89ddf30664f975672089",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005305/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105164/default.jpg",
+            "和漢聯句集",
+            "67c4de163141afc9e9532abf230aca42",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00010804/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105165/default.jpg",
+            "1851년 유태신(劉泰信)의 단자(單子)",
+            "7432c39a3c75e55180358f8075835c8f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020948/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105166/default.jpg",
+            "Les Trianons : les grands palais de France introduction et notices par Pierre de Nolhac",
+            "2ffbf697deba76916236a59b66c41995",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000107/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105167/default.jpg",
+            "百香園方函",
+            "9e92a47114f9a9b48b4f2b417cddc32f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004847/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105168/default.jpg",
+            "苦口利方 2巻",
+            "da8906421c63dcb37deb57ba170afead",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002090/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105169/default.jpg",
+            "療治指南",
+            "567b21d3644fa58f4c9e2a67b1e95751",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005755/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105170/default.jpg",
+            "池大雅山水画賛",
+            "a101060e66829b2e9a65163164e6fabd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013681/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105171/default.jpg",
+            "経験丸散方",
+            "2ee1ba232977ab8637ed3d12b0c39cb2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000557/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105172/default.jpg",
+            "部類抄目録",
+            "aec57cd768ea92930119dc3a0a443f48",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006529/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105173/default.jpg",
+            "大般若波羅蜜多経 [巻第500]",
+            "52f149c7b46053228c38519a027860a3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009326/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105174/default.jpg",
+            "정치/행정-보고-수본",
+            "9f9069ffe733549e0360666cd8cf1dd7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022076/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105175/default.jpg",
+            "斯勃盧篤験方録",
+            "08635cd42b0e73d74d45b1894f995a9a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002839/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105176/default.jpg",
+            "有馬山温泉小鑑",
+            "b4a85a59d227b600fee649955aaf75bf",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000804/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105177/default.jpg",
+            "換杏新話",
+            "645dbba1cdba0bb7e1651fac02407cf0",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001716/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105178/default.jpg",
+            "十薬神書",
+            "e67bda4cb211b965ae9d16ad62a53094",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002993/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105199/default.jpg",
+            "中条流産科全書 3巻",
+            "4b1596a64280392dcfb5fb5dcf580769",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004144/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105200/default.jpg",
+            "静倹堂治験 3巻",
+            "4863e5f8f64b0d3da633bbde0ffda34e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003681/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105201/default.jpg",
+            "登山私記",
+            "67e89d928c655a1f1e6f81dbd4d9da8a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006179/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105202/default.jpg",
+            "경제-회계/금융-차하기",
+            "63d3ddf7197b234298ee28cb77ac25df",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022426/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105203/default.jpg",
+            "(直療衆病)奥義集 2巻",
+            "81c832983e0602d86e7b406866f55d28",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001346/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105204/default.jpg",
+            "国司主典代ニ補スル例以下勘例",
+            "099b7b5eff89f2daa68f035139dd79f9",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006483/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105205/default.jpg",
+            "よし原六方",
+            "887cec8ebda3f650271df7b0554bed8b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013052/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105206/default.jpg",
+            "用薬須知 前編5巻・後編4巻・続編2巻",
+            "d6a1d85c877d0d0b251be43b4b037aa2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000384/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105207/default.jpg",
+            "西忍記",
+            "b38273ba7d600a899ba600a96d152d35",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002643/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105208/default.jpg",
+            "本朝古今医統 6巻目1巻",
+            "169769c92ec88380b7ffd815bdda047a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005186/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105209/default.jpg",
+            "帯経舎叢書",
+            "7ae950abde8e8e8df9433b7392112f45",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003951/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105210/default.jpg",
+            "(梧竹楼)方函口訣",
+            "6af0bbeb33060bcf50dddbc25a0cd716",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013402/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105211/default.jpg",
+            "1868년 면주전(綿紬廛) 후1방 장무(掌務) 박동주(朴東珠) 수본(手本)",
+            "7cd7560c86c6877f47ba899b0612fd7b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021089/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105212/default.jpg",
+            "逕養生",
+            "be167cbb5be55170c18861fd52165cc9",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002213/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105213/default.jpg",
+            "下長者町通周辺道坪数図",
+            "63902424444360f15746393a5a85f0f1",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021573/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105214/default.jpg",
+            "長州兵入京図",
+            "e4fb24d3cf76ab7ad86e92f13db36cbd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013951/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105215/default.jpg",
+            "歌仙色紙形",
+            "480620b76c18613de04bb74f3e7eb42f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006250/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105216/default.jpg",
+            "(鎌方氏)秘験方",
+            "442a80e43599656bd4cc0be8fea27dc6",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004797/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105217/default.jpg",
+            "天皇崩御事并諒闇年々",
+            "c41023c8c07e67851f1cc6ee846b96de",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005885/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105218/default.jpg",
+            "경제-매매/교역-명문",
+            "45046c0197892b57353a373083d310b2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021820/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105239/default.jpg",
+            "1865년 면주전(綿紬廛) 후1방(後一房) 왜인예단(倭人禮單) 분정성책(分定成冊)",
+            "f8b068720c7e6827700bac199c4a0da4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020732/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105240/default.jpg",
+            "1875년 상주수가초책(上紬受價草冊)",
+            "24065d779daa4596bbaa3b269a23f2ce",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020698/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105241/default.jpg",
+            "中庸",
+            "6a30fa1b26e87ef2920787e1ee7a18d3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007912/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105242/default.jpg",
+            "診家要訣",
+            "314d36745094cb8ac6c5616ec865c677",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003402/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105243/default.jpg",
+            "1680년 신도사댁(申都事宅) 노(奴) 애신(愛信) 가대(家垈) 사급입안(斜給立案)",
+            "a7af7d7f749d7e4f5f38a05656662241",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020362/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105244/default.jpg",
+            "傷寒明理続論 5巻",
+            "6c700c13682b1e233c735382cb289f03",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003117/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105245/default.jpg",
+            "경제-회계/금융-차하기",
+            "4df8a9d53ec412bdc1a8984159fc0b37",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021965/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105246/default.jpg",
+            "1881년 경용주수가초책(經用紬受價草冊)",
+            "f14f11595d1ae39e8841c4f292d4b99b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020677/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105247/default.jpg",
+            "坂本龍馬書状",
+            "1dd16f8774ecd8049de18faa4f9adad4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013814/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105248/default.jpg",
+            "袖中抄 20目録1巻",
+            "fd896cc18c69a380dc5668b38ebaecd8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006315/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105249/default.jpg",
+            "刀圭余事",
+            "32e2b7628568e48050c00e48af1dc960",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004328/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105250/default.jpg",
+            "新増補心方 4巻(存巻3・7・8・10)",
+            "475e48bf47da1bec9cfe34ec34981389",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003547/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105251/default.jpg",
+            "天師堂痘科方意解",
+            "5365fff808a816f789300ffdd73de521",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004282/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105252/default.jpg",
+            "1777年、韓賣東土地売買明文",
+            "3f96847e4f05ddb628347df8b6fd33dc",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020227/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105253/default.jpg",
+            "叢桂偶記 2巻",
+            "2ae54fd73f15e208e21e654d818612e4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00011983/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105254/default.jpg",
+            "蕃痧病の手当并治方",
+            "0edf5a3720cb627a1f22d762f5c0b3cb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004778/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105255/default.jpg",
+            "雑方鈔録",
+            "cbc78ee9cfccd39af3d379c221976937",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002706/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105256/default.jpg",
+            "切脈一葦 3巻",
+            "7e3ec78e66765310dd329aa0280a0acf",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003814/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105257/default.jpg",
+            "気血水薬徴 1巻",
+            "a55c13c8a1f0a269ca9899c7e79483a8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001829/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105258/default.jpg",
+            "養胃丸之方",
+            "059c243464a83c5c141287e02970a0ec",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005539/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105279/default.jpg",
+            "薬籠修治摘要",
+            "f2d231672d6b8a87009442da36b4500d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005493/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105280/default.jpg",
+            "広狭神倶集",
+            "905bc81fc96d621444475502e89e22cf",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002356/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105281/default.jpg",
+            "1887년 면주전시민등장(綿紬廛市民等状)의 점련문서(粘連文書)",
+            "739d574757f5f2e555a4fec53dcce749",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021436/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105282/default.jpg",
+            "坤輿萬國全圖",
+            "3c9624168247c2e3de66c37e7e3efdac",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013547/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105283/default.jpg",
+            "本草備要 3巻",
+            "26318b9b326c3398e178990dfdbfb0db",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005169/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105284/default.jpg",
+            "痘瘡規 2巻",
+            "c0cad4f425ab713d2b6b4308e3563043",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000691/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105285/default.jpg",
+            "安藤対馬守勝手より浪人者狼藉に付差出候書付",
+            "57c2d06de70e58bb5cc5fb451c2aa1da",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007154/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105286/default.jpg",
+            "暁湖詩集",
+            "88a9352664d17779c86e412a1805e038",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001983/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105287/default.jpg",
+            "武道継穂梅 5巻",
+            "5ab33f44bf2694e83592daa206d6ce1f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013228/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105288/default.jpg",
+            "養生簡便日用食鑑 3巻",
+            "bf79444fd0c968dbcab702f62ae8fbb4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005606/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105289/default.jpg",
+            "腹証奇覧 正編2巻・後編2巻",
+            "4df919b469849723ce26d2909368fc73",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004914/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105290/default.jpg",
+            "延寿撮要",
+            "a920dbc281045a971ee7434182daed65",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000404/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105291/default.jpg",
+            "기유년 면주전(綿紬廛) 상인 김희준(金熙俊) 연치단자(年齒單子)",
+            "23167dffaac17acb83cb7b9067ffbe3e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021359/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105292/default.jpg",
+            "書法",
+            "d36e7fcff56e721cbc2ba3cc088c94cd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00008034/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105293/default.jpg",
+            "美女図下絵",
+            "fbdd8e42641144fabbfe7166008001e2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00014017/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105294/default.jpg",
+            "有吉熊次郎、田村育蔵其他同志者寄合書",
+            "e35c63c31769b9108594f3c307d97bb3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013678/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105295/default.jpg",
+            "麻疹例草",
+            "7a0bcb92360ab569ea2a60cf9eb9b5c4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005256/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105296/default.jpg",
+            "十四經發揮 3巻 (存2巻)",
+            "52a5fe3b1bc2295fd5e1975b490756fe",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022826/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105297/default.jpg",
+            "校定温疫論 2巻",
+            "9d87467537066ea8d2cc68d7638733ae",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013382/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105298/default.jpg",
+            "北御門西石垣崩レ所西之方孕出場所見及絵図朱引之通積直",
+            "5f14357985999650fd730669c9cefe4b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021709/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105319/default.jpg",
+            "嘗鼎一臠",
+            "f5d7cbeeb78f90af4f05bf0ec88a6607",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003228/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105320/default.jpg",
+            "医療蒙求 2巻",
+            "21708fb295c3a5b257890752c1923666",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001215/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105321/default.jpg",
+            "경제-회계/금융-차하기",
+            "aadd4b4b7f2585f4258fbbca92bd96ae",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022575/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105322/default.jpg",
+            "1834년 한필교(韓弼教) 준호구(準戸口)",
+            "c4aa383f2580f806a7a2bc6e2c5f17cc",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020548/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105323/default.jpg",
+            "読史贅議 2巻",
+            "b0414aaf7d8b73d23effb65c68cf2a9d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004447/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105324/default.jpg",
+            "東寺長者補任 2巻",
+            "81665b2f5a8c3e47f1779deef3a34d47",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006180/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105325/default.jpg",
+            "清眼集",
+            "e16824f6010da227fc30f92f5627fb89",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003678/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105326/default.jpg",
+            "池田家治痘法由来",
+            "9be1a84933f8a2926aa960583577327a",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000957/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105327/default.jpg",
+            "정치/행정-보고-수본",
+            "716434bc039a2395d91a32ccaae776a4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022125/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105328/default.jpg",
+            "科註妙法蓮華経 8巻[巻第1,2は上下]",
+            "065952e2855b87a5f0cd5fdc37bf0fd8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009275/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105329/default.jpg",
+            "醫學統宗難經本義補遺 2巻",
+            "3febd9afc51d17acb50e1dc8d746f689",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020118/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105330/default.jpg",
+            "翁朱分解 4巻",
+            "85eb4e44495f3a1908bf351f5a850c84",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001350/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105331/default.jpg",
+            "分字",
+            "12b500c8af0277a663c02f2196767ddd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006495/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105332/default.jpg",
+            "경제-회계/금융-차하기",
+            "d14a2df2047686699e3d6942da9c2b53",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022430/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105333/default.jpg",
+            "甲駿豆相採薬記",
+            "041ba4c3c14a1aa9262d4e9893e1fc46",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00008872/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105334/default.jpg",
+            "城西聯句",
+            "2d497557a050fa2f52f0b0143a531774",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00010541/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105335/default.jpg",
+            "重訂解体新書",
+            "63657d53502f0320b0a0989ee621f38e",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002985/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105336/default.jpg",
+            "眼科提要 3巻",
+            "8258860214ce6d06b52fd7ab5a29c3c6",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001700/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105337/default.jpg",
+            "安産要訣",
+            "3e44e67e09fa26a81e6e68498fa4a6f6",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000812/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105338/default.jpg",
+            "大般若波羅蜜多経 巻第588",
+            "5b20459c9879713b6877bde788ab7397",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009330/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105359/default.jpg",
+            "정치/행정-보고-수본",
+            "a9d268411b8e4bbb38b3fc8a1f4d2aa4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022060/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105360/default.jpg",
+            "図南先生腹診秘訣",
+            "82fc6f9ed449a33846a42d81db053fcb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004502/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105361/default.jpg",
+            "琴山遺稿",
+            "b9fcf682b4bc07661838ac8a18222666",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000541/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105362/default.jpg",
+            "礼記繹解",
+            "cd4952473104e3f5d100ccf6f4ff3322",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00012985/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105363/default.jpg",
+            "烏木図",
+            "b95ec7039c80b6c3a715b5d0651979b3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013697/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105364/default.jpg",
+            "(新増)愚按口訣 3巻",
+            "2e581c123e1283d89ca71594efb4dacb",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002086/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105365/default.jpg",
+            "龍背師伝図説 中のみ",
+            "b4a3a76666a456ab89324f2ebe5234a4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005743/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105366/default.jpg",
+            "扶歇蘭土神経熱経験説 5巻",
+            "b27482b10068063e2d5b3909d0a771dc",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004851/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105367/default.jpg",
+            "Essais historiques sur Paris",
+            "a1187b5018134ced2946c29f791f0f82",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000111/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105368/default.jpg",
+            "杉藏ヨリ思父ニ送ル漢文ノ書簡",
+            "d50576ed951cde6dc5fabba008adf902",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00014502/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105369/default.jpg",
+            "脈訳簡略",
+            "84f13d756706a915b36ab274419fbac8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005313/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105370/default.jpg",
+            "1676년이영남(李永男) 입안신청 소지(所志)",
+            "687a386f21036ac4c50a59ead827f7e2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020374/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105371/default.jpg",
+            "경제-회계/금융-영수증",
+            "2ee1f5e1567e0fd5e7a186b92fa8238d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022349/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105372/default.jpg",
+            "温疫訓蒙",
+            "b705318604286b200a276174bf29608b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001429/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105373/default.jpg",
+            "新刊素問入式運気論奥 3巻",
+            "3d74d07d2df152e3b6fa3eef93e2415c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003414/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105374/default.jpg",
+            "御進物目録留 4巻",
+            "efb9d05cf45339133f9c7d008472392f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005939/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105375/default.jpg",
+            "1865년 면주전(綿紬廛) 제1방(第一房) 왜인예단(倭人禮單) 분정성책(分定成冊)",
+            "dfc15527d2681944ac06161699ba1797",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020724/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105376/default.jpg",
+            "경제-상업-시전문서",
+            "c9bcfad3f5a9b22bbad5455a7730793d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022719/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105377/default.jpg",
+            "月菴録",
+            "db9a5662d651c7dfaf76da6d7327c0dd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009449/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105378/default.jpg",
+            "경제-회계/금융-차하기",
+            "38d5b30f0207cfa94cb5e4a264adc597",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021836/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105399/default.jpg",
+            "伊勢物語系図",
+            "b0ba623d28d07572d6618c2ff2796eb4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005893/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105400/default.jpg",
+            "一乱膏",
+            "a1252d0d6445cf141b60c3133914d0d8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001079/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105401/default.jpg",
+            "万聖秘伝妙薬抄",
+            "f9881982da05880aa224e776fa226b3d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004781/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105402/default.jpg",
+            "儒門医学",
+            "040c2d854b63b68193d458987fcbf17c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003044/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105403/default.jpg",
+            "カスパル口伝薬方 1巻",
+            "191b6686f8ec3e825afeb3cc6baa0c78",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001583/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105404/default.jpg",
+            "歌集",
+            "d08de755f361fc6c1a76b89966b2780b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006246/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105405/default.jpg",
+            "忠感銘碑",
+            "3f467984d7c5dc9a5bde210f3bea4e1b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013947/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105406/default.jpg",
+            "二条城絵図",
+            "d46598ad87d7c1d820b43244565c4ece",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021565/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105407/default.jpg",
+            "産論 2巻",
+            "c98e9d9e66d9004bd5428b93b30fe8d9",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000238/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105408/default.jpg",
+            "병오년 면주전(綿紬廛) 도원(都員) 첩문(帖文)",
+            "49cb7b6f9ee10c35a15bc5bbbcaec62c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021135/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105409/default.jpg",
+            "存々成務 18巻",
+            "a13491c6a66575ed9c2c621910db90d2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003947/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105410/default.jpg",
+            "長生療養法 2巻(続群書類従 巻898)",
+            "1924fb3bd83274e5bc76fa07f6227844",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000668/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105411/default.jpg",
+            "本道近路 2巻",
+            "f0d39085b3760194f98da5f4860795cd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005190/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105412/default.jpg",
+            "貞観政要 10巻(巻8,10欠)",
+            "acce6874c924f0d339b8ac931653dfe2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013044/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105413/default.jpg",
+            "玉機微義 50巻",
+            "3d42920ba877005c5418e20141c396be",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001995/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105414/default.jpg",
+            "痘疹戒草 3巻",
+            "1e5bafad09e6133e14b02b11bedeb5c2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000687/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105415/default.jpg",
+            "万治",
+            "72513eed2021e2ad18e27c3d63c62603",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00007142/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105416/default.jpg",
+            "[日本図]",
+            "e38dccb056aff3677eebbcfe772cc8f8",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013551/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105417/default.jpg",
+            "1882년 면주전시민등(綿紬廛市民等) 발괄(白活)",
+            "0daf8eff7e058ead7186e3c38b11fab0",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021420/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105418/default.jpg",
+            "薬銘",
+            "074d1de6658e367294880378e89f5c55",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005485/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105439/default.jpg",
+            "古医道腹症図彙",
+            "a0e87f9f8966efea9677c0a72e07ab11",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002340/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105440/default.jpg",
+            "聚分韻略 5巻",
+            "5e5f982e2a9816078853437fe3661b99",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013101/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105441/default.jpg",
+            "〔舌診書〕",
+            "e2b8bf01ab996f751a1e945868ddee37",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003802/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105442/default.jpg",
+            "一夕医話 3巻",
+            "d32d2349562d5dc25e206332ddd9ad44",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001096/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105443/default.jpg",
+            "1786年、金大錬土地売買明文",
+            "201e87a0b5e43faef6f63df1654cba07",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020231/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105444/default.jpg",
+            "新藥百品考 2編(各上下)",
+            "6ed9f03be008718e31aa267c71a15b8b",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00011995/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105445/default.jpg",
+            "〔診断治療書〕",
+            "0d325a78bbdc31eaa83e4da73bc712b7",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003551/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105446/default.jpg",
+            "天龍堂薬淵",
+            "9872d9627130aa7abe32d557c7a34d53",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004294/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105447/default.jpg",
+            "昌休発句集",
+            "9c238d2879bcc90f933dfeb8b4e76bb6",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006303/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105448/default.jpg",
+            "賦何船連歌",
+            "77bf6763d2d6cfacb6505d47457e5dbd",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00012710/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105449/default.jpg",
+            "弘道館記",
+            "846ee0f2373365ded037cd2a19962333",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00013802/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105450/default.jpg",
+            "1881년 가례전두소용토주이동수가초책(嘉禮前頭所用吐紬二同受價草冊)",
+            "7587a7bb1312b3dd87512f6919f45102",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00020661/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105451/default.jpg",
+            "경제-회계/금융-차하기",
+            "ad7bd68cd50a922e7188a2df6ee67186",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00021973/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105452/default.jpg",
+            "傷寒舌鑑",
+            "dac8372ac2882b5d2edaf53603e6a3b4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003101/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105453/default.jpg",
+            "脚気弁惑論",
+            "0e1dc120d6bede0c8f812548f0c7c8f9",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001612/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105454/default.jpg",
+            "医学早合点 2巻",
+            "12bced0ff1d033e4ba29846c4892742c",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000900/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105455/default.jpg",
+            "정치/행정-보고-수본",
+            "e50836e13cf8afd2e87f846e3e1252ec",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022172/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105456/default.jpg",
+            "경제-회계/금융-차하기",
+            "2305ea9f88106e7343027690a31f894f",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022488/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105457/default.jpg",
+            "痘瘡水鏡録",
+            "24eac1ad44342491a25be6e8acf49ad5",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004410/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105458/default.jpg",
+            "増鏡 2巻",
+            "db2c1dde399266c093881b92e131b757",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00006587/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105479/default.jpg",
+            "경제-회계/금융-차하기",
+            "4ff554d82aec49e45cd5a2e792fbb062",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022522/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105480/default.jpg",
+            "摩訶僧祇律 巻第10",
+            "7a01380302178ae371119fe985f4c5a2",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00009388/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105481/default.jpg",
+            "(詩経草目)多識会品目",
+            "45d5a3422652f55f5217873b97420026",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00004040/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105482/default.jpg",
+            "赤水玄珠 序目各1巻・医案13巻",
+            "f1bb302022648f32187cc1f5978342c0",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003785/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105483/default.jpg",
+            "質測窮理解臓図賦",
+            "dbaea975cdbf7d52bc3635c9876165f4",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002897/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105484/default.jpg",
+            "大日本海岸全圖",
+            "2c351507d972785bc55c5f36c825e091",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00022871/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105485/default.jpg",
+            "麻嶋灌頂小鏡之巻",
+            "7f7f0e0373ddf9576d46d0e4965d90f3",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00005201/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105486/default.jpg",
+            "医心正伝 3巻",
+            "b34701f743c7e424a98e825b65392bab",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000453/manifest.json"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/105487/default.jpg",
+            "[占用書]",
+            "0915b0f92c19d92e5f0dc6f3833f5c1d",
+            "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00008063/manifest.json"
         ]
     ],
     "page": 4

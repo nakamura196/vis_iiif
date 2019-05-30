@@ -1,9 +1,44 @@
 [
     {
-        "count": 40,
+        "count": 1768,
         "index": 0,
         "label": "Http://creativecommons.org/licenses/by-sa/4.0/",
         "url": "",
         "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+        "count": 1759,
+        "index": 1,
+        "label": "Http://creativecommons.org/licenses/by/4.0/",
+        "url": "",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+        "count": 269,
+        "index": 5,
+        "label": "Https://rmda.kulib.kyoto-u.ac.jp/reuse",
+        "url": "",
+        "value": "https://rmda.kulib.kyoto-u.ac.jp/reuse"
+    },
+    {
+        "count": 125,
+        "index": 2,
+        "label": "Unknown",
+        "url": "",
+        "value": ""
+    },
+    {
+        "count": 77,
+        "index": 3,
+        "label": "Cc-by<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/",
+        "url": "",
+        "value": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+    },
+    {
+        "count": 2,
+        "index": 4,
+        "label": "以下urlを参照。https://archive.nakano-library.jp/horiekemonjo-howto/",
+        "url": "",
+        "value": "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
     }
 ]

@@ -1,52 +1,4804 @@
 {
     "items": [
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99270/default.jpg",
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102454/default.jpg",
+            "十六夜日記",
+            "928e164c105524caf67a5e0cb73fa33b",
+            "http://codh.rois.ac.jp/pmjt/book/200005739/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102455/default.jpg",
+            "立華正道集",
+            "45f146ba50c3f494342033204ecaca9e",
+            "http://codh.rois.ac.jp/pmjt/book/200021636/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102456/default.jpg",
+            "宝物集",
+            "ad5bc7752f231cf11af8e8b271b8c2ec",
+            "http://codh.rois.ac.jp/pmjt/book/200006545/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102457/default.jpg",
+            "暗射指南譜",
+            "3063ff2cab4e73ff03b155aa90ea0386",
+            "http://codh.rois.ac.jp/pmjt/book/200021773/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102458/default.jpg",
+            "絵本池の蛙",
+            "e9952a291609e22ca9714b4fb4af0596",
+            "http://codh.rois.ac.jp/pmjt/book/200013602/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102459/default.jpg",
+            "袖玉武鑑",
+            "0d8ff7eabf2e9f4e477d20d76514b182",
+            "http://codh.rois.ac.jp/pmjt/book/200019521/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102460/default.jpg",
+            "徒然草",
+            "833217ab7b1d7b8d31c1ce6451ebcb56",
+            "http://codh.rois.ac.jp/pmjt/book/200003086/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102461/default.jpg",
+            "和歌九品",
+            "b0398b3dae0d0fe5284097e0ca550f71",
+            "http://codh.rois.ac.jp/pmjt/book/200012697/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102462/default.jpg",
+            "徒然草",
+            "39e9186571b0fd1e215f689a64cc2163",
+            "http://codh.rois.ac.jp/pmjt/book/200015447/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102463/default.jpg",
+            "火おけのさうし",
+            "ea88d8f2e93c6792414347e7df6f50c6",
+            "http://codh.rois.ac.jp/pmjt/book/200003069/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102464/default.jpg",
+            "絵本千代見草",
+            "6e7394600f0f295226081105236ae973",
+            "http://codh.rois.ac.jp/pmjt/book/200013593/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102465/default.jpg",
             "袖珍武鑑",
-            "879377e03521fea3908c9875962ae1e9",
-            "http://codh.rois.ac.jp/pmjt/book/200019538/manifest"
+            "de3dd42cd93a81b727ccfee2df3cc036",
+            "http://codh.rois.ac.jp/pmjt/book/200019464/manifest"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99271/default.jpg",
-            "班女",
-            "6bf3c046bb03f952521aab36b5e90df9",
-            "http://codh.rois.ac.jp/pmjt/book/200013135/manifest"
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102466/default.jpg",
+            "伊勢物語闕疑抄",
+            "317e30b76490a0eefdbbc964c999034f",
+            "http://codh.rois.ac.jp/pmjt/book/200025272/manifest"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99272/default.jpg",
-            "袖玉武鑑",
-            "635e12bdd2af29b029f3eb3354c9296f",
-            "http://codh.rois.ac.jp/pmjt/book/200019492/manifest"
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102467/default.jpg",
+            "源語秘訣",
+            "07b12ed51ad49af93ce4e4e9e868fb72",
+            "http://codh.rois.ac.jp/pmjt/book/200007753/manifest"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99273/default.jpg",
-            "衣食訓",
-            "1ed361665d81fc8abf31679494d5192c",
-            "http://codh.rois.ac.jp/pmjt/book/100249443/manifest"
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102468/default.jpg",
+            "艮斎間話",
+            "183af21fb181944d63e8b6b653688374",
+            "http://codh.rois.ac.jp/pmjt/book/200021724/manifest"
         ],
         [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99294/default.jpg",
-            "袖玉武鑑",
-            "3749c559de432570380bf65fc9d08d8e",
-            "http://codh.rois.ac.jp/pmjt/book/200019646/manifest"
-        ],
-        [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99295/default.jpg",
-            "中将姫本地",
-            "3d69e9203f663971973d24c9bd6b2ff6",
-            "http://codh.rois.ac.jp/pmjt/book/200010467/manifest"
-        ],
-        [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99296/default.jpg",
-            "精進料理かやくの事他",
-            "b84b262d503c0b9e7aa803a14ae4c16e",
-            "http://codh.rois.ac.jp/pmjt/book/100249910/manifest"
-        ],
-        [
-            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99297/default.jpg",
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102469/default.jpg",
             "伊勢物語",
-            "da232f7c369903f517af4b6772d07e53",
-            "http://codh.rois.ac.jp/pmjt/book/200024991/manifest"
+            "22e495d23ab5fdbe5dbd178298149f41",
+            "http://codh.rois.ac.jp/pmjt/book/200024176/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102470/default.jpg",
+            "有司武鑑",
+            "5553a66fe9e5490fd0a56e3be5c180fa",
+            "http://codh.rois.ac.jp/pmjt/book/200019608/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102471/default.jpg",
+            "日本神国往来",
+            "7b7101d34b3f1398f3ef9ecd214a17d6",
+            "http://codh.rois.ac.jp/pmjt/book/200021860/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102472/default.jpg",
+            "伊勢物語拾穂抄",
+            "795f1450c55ff49c91ad900011abb380",
+            "http://codh.rois.ac.jp/pmjt/book/200025120/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102473/default.jpg",
+            "絵本徒然草",
+            "4833baa69e3a9f51efa3ec8c920db336",
+            "http://codh.rois.ac.jp/pmjt/book/200016355/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102494/default.jpg",
+            "絵本余所画鏡",
+            "bfc164f9fb2540bb5104fba34886a33a",
+            "http://codh.rois.ac.jp/pmjt/book/200013854/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102495/default.jpg",
+            "源氏絵物語",
+            "7b2459c0ac87889021a4c82459025ae0",
+            "http://codh.rois.ac.jp/pmjt/book/200015083/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102496/default.jpg",
+            "新編異国料理",
+            "1b0461c44f0d713bcd0eb4e8ab798e5b",
+            "http://codh.rois.ac.jp/pmjt/book/200021925/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102497/default.jpg",
+            "笈さがし",
+            "cd1b489d55ad5e4a8e5a4d5b7db58651",
+            "http://codh.rois.ac.jp/pmjt/book/200015579/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102498/default.jpg",
+            "絵本彦山権現霊験記",
+            "94c164abe7fcaf2c35ee71b0342e68e1",
+            "http://codh.rois.ac.jp/pmjt/book/200007817/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102499/default.jpg",
+            "おさな源氏",
+            "db80078a5f3a657fb586ad2935e141cc",
+            "http://codh.rois.ac.jp/pmjt/book/200003507/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102500/default.jpg",
+            "絵本徒然草",
+            "eebbc4ce22d8c527fee92f487c4fed4c",
+            "http://codh.rois.ac.jp/pmjt/book/200002195/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102501/default.jpg",
+            "弘化武鑑",
+            "eed343f742ccfe969a2f0d0ead1999ff",
+            "http://codh.rois.ac.jp/pmjt/book/200018961/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102502/default.jpg",
+            "飯百珍伝",
+            "8a986630ec0ae692a23b500aad8595c4",
+            "http://codh.rois.ac.jp/pmjt/book/100249476/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102503/default.jpg",
+            "偐紫田舎源氏",
+            "7ddffa23843638b86e0fe28837cb06d9",
+            "http://codh.rois.ac.jp/pmjt/book/200004041/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102504/default.jpg",
+            "絵本雪鏡譚",
+            "66dca83f61721a097b5b1255483383fc",
+            "http://codh.rois.ac.jp/pmjt/book/200010452/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102505/default.jpg",
+            "蹴鞠五十三箇条",
+            "a0f99b53b09b1f7497b7b8853467b5b2",
+            "http://codh.rois.ac.jp/pmjt/book/200022036/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102506/default.jpg",
+            "生間流切方口伝書",
+            "994871a674bb82ebcb7cf8cacf3881fc",
+            "http://codh.rois.ac.jp/pmjt/book/100249860/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102507/default.jpg",
+            "源氏物語",
+            "d5389d603abc8101fb9fb4384b736b1e",
+            "http://codh.rois.ac.jp/pmjt/book/200014807/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102508/default.jpg",
+            "切揃",
+            "d62a38c839ce99c93fc0a17c1e5035bf",
+            "http://codh.rois.ac.jp/pmjt/book/100249499/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102509/default.jpg",
+            "庖厨備用倭名本草",
+            "39ce4eed2545a4d87d31f611af5e219d",
+            "http://codh.rois.ac.jp/pmjt/book/100249533/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102510/default.jpg",
+            "蘭斎画譜",
+            "30d8de483b28d1d76dd98465b61b870f",
+            "http://codh.rois.ac.jp/pmjt/book/200014780/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102511/default.jpg",
+            "有司武鑑",
+            "408c6c114497245b572c7944fb29116d",
+            "http://codh.rois.ac.jp/pmjt/book/200019448/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102512/default.jpg",
+            "洋学便覧",
+            "c35c4a3c6c80bdfc1fd275816425079c",
+            "http://codh.rois.ac.jp/pmjt/book/200021837/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102513/default.jpg",
+            "拾玉智恵海",
+            "38b306bba65288f358a3cc4ca8083063",
+            "http://codh.rois.ac.jp/pmjt/book/200021972/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102534/default.jpg",
+            "源氏物語",
+            "3c02d1d17377b2b5790a14a875e1adf8",
+            "http://codh.rois.ac.jp/pmjt/book/200003803/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102535/default.jpg",
+            "室町源氏胡蝶巻",
+            "9585050d82a07d11b9b720b315ca65cb",
+            "http://codh.rois.ac.jp/pmjt/book/200004016/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102536/default.jpg",
+            "袖珍武鑑",
+            "24eddc7a57a13139b04a1e6de2c5adde",
+            "http://codh.rois.ac.jp/pmjt/book/200019624/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102537/default.jpg",
+            "天保武鑑",
+            "d6b26020c326e99f668537044927e7f1",
+            "http://codh.rois.ac.jp/pmjt/book/200018936/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102538/default.jpg",
+            "魚類精進／早見献立帳",
+            "74bf35959006b5cdf0804eeaf07091de",
+            "http://codh.rois.ac.jp/pmjt/book/200021708/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102539/default.jpg",
+            "源氏物語",
+            "aee801db80db92db72b608ac7dce1965",
+            "http://codh.rois.ac.jp/pmjt/book/200008465/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102540/default.jpg",
+            "江戸名所百人一首",
+            "ad18a2423b1597c5d4decc6755fcfdf2",
+            "http://codh.rois.ac.jp/pmjt/book/200013679/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102541/default.jpg",
+            "文化武鑑",
+            "ff739b74b5cea1aef834d19853a27d59",
+            "http://codh.rois.ac.jp/pmjt/book/200018873/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102542/default.jpg",
+            "諸礼集",
+            "b3f60965effd5af5c7ffec9cbcca2ca4",
+            "http://codh.rois.ac.jp/pmjt/book/100249564/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102543/default.jpg",
+            "絵本敵討待山話",
+            "38a92b2f54cd3018636a61e1e2dda75c",
+            "http://codh.rois.ac.jp/pmjt/book/200014503/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102544/default.jpg",
+            "素人庖丁",
+            "a3abcef68fcb74f2a88169b353b73f0d",
+            "http://codh.rois.ac.jp/pmjt/book/200022061/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102545/default.jpg",
+            "責而者草拾遺",
+            "b5e566c632178274aa85691c808e0218",
+            "http://codh.rois.ac.jp/pmjt/book/200021821/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102546/default.jpg",
+            "北山抄",
+            "eaec9839bf8b552545b16ac93b679f04",
+            "http://codh.rois.ac.jp/pmjt/book/200003053/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102547/default.jpg",
+            "源語秘訣",
+            "6eec5570cf253876206585656a8712c2",
+            "http://codh.rois.ac.jp/pmjt/book/200003403/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102548/default.jpg",
+            "小倉百人一首",
+            "c51cff6e13d5fd96071c00b797f6ab6e",
+            "http://codh.rois.ac.jp/pmjt/book/200013815/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102549/default.jpg",
+            "絵本薄紫",
+            "5f597ac73c00a78dbd669b71bd8bbc43",
+            "http://codh.rois.ac.jp/pmjt/book/200011828/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102550/default.jpg",
+            "袖玉武鑑",
+            "201618cc2f6da24b996c92d1783d5b5f",
+            "http://codh.rois.ac.jp/pmjt/book/200019632/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102551/default.jpg",
+            "喚子鳥班女逢義",
+            "cbe72eb49a37e8f7f29b7b5117c8cc8e",
+            "http://codh.rois.ac.jp/pmjt/book/200009798/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102552/default.jpg",
+            "武鑑",
+            "aad11eedc810fde7d521c71aa3956bcd",
+            "http://codh.rois.ac.jp/pmjt/book/200017786/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102553/default.jpg",
+            "そのゆかり源氏すこ六",
+            "1ef67332727e1d02fe7877448d590e4c",
+            "http://codh.rois.ac.jp/pmjt/book/200003395/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102574/default.jpg",
+            "おさな源氏",
+            "a34f652baa196ca11d392a066024fa4f",
+            "http://codh.rois.ac.jp/pmjt/book/200004000/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102575/default.jpg",
+            "伊勢物語拾穂抄",
+            "a12b105dc9fe6bfb468c534f4cb6790a",
+            "http://codh.rois.ac.jp/pmjt/book/200025248/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102576/default.jpg",
+            "草木育種",
+            "cf383afc8370408ddef10dfa1c21c1cb",
+            "http://codh.rois.ac.jp/pmjt/book/100249572/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102577/default.jpg",
+            "袖玉武鑑",
+            "856b8f33e7ea3bfb911538096139ed24",
+            "http://codh.rois.ac.jp/pmjt/book/200019409/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102578/default.jpg",
+            "玉林苑",
+            "71aa10c99ccd1b4c41c8951484a34d07",
+            "http://codh.rois.ac.jp/pmjt/book/200008218/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102579/default.jpg",
+            "寿賀多百人一首小倉錦",
+            "14fe5e34e56202eb238a9c6e6da4c55f",
+            "http://codh.rois.ac.jp/pmjt/book/200006206/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102580/default.jpg",
+            "新編地方算法集",
+            "aa602b475b82039c040aac05cdb8384f",
+            "http://codh.rois.ac.jp/pmjt/book/200021876/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102581/default.jpg",
+            "源氏百人一首",
+            "1ac74e2a68e000362db298f50687987e",
+            "http://codh.rois.ac.jp/pmjt/book/200003511/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102582/default.jpg",
+            "拳独稽古",
+            "5b2172e1aa9de04990e1549a497a1e08",
+            "http://codh.rois.ac.jp/pmjt/book/200021933/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102583/default.jpg",
+            "節用料理大全",
+            "bec0b9bf937ef6887683779c4df6fbeb",
+            "http://codh.rois.ac.jp/pmjt/book/100249319/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102584/default.jpg",
+            "大成武鑑",
+            "4882195de60bb68ed40fbf5c089053e3",
+            "http://codh.rois.ac.jp/pmjt/book/200019370/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102585/default.jpg",
+            "源氏物語",
+            "b5e4606271698ad312bb1ee64a758aea",
+            "http://codh.rois.ac.jp/pmjt/book/200014811/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102586/default.jpg",
+            "蕎麦志",
+            "643ed75e5c83ca34a2ae4ba7269849dd",
+            "http://codh.rois.ac.jp/pmjt/book/100249876/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102587/default.jpg",
+            "各国盛衰強弱一覧表／附図",
+            "960046968304d88a65e0e831de0327b3",
+            "http://codh.rois.ac.jp/pmjt/book/200022020/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102588/default.jpg",
+            "紙漉重宝記",
+            "e8f644feb684407133e0bf87bba4a746",
+            "http://codh.rois.ac.jp/pmjt/book/200022057/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102589/default.jpg",
+            "絵本風流人笑顔",
+            "e2e3c08657a0fdd1e66871a1be619317",
+            "http://codh.rois.ac.jp/pmjt/book/200006158/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102590/default.jpg",
+            "袖玉武鑑",
+            "7014dc78f7f792d67011345f341c0d22",
+            "http://codh.rois.ac.jp/pmjt/book/200019612/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102591/default.jpg",
+            "舟弁慶",
+            "a50223ff919c486dfcc1143c05816f1b",
+            "http://codh.rois.ac.jp/pmjt/book/200013136/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102592/default.jpg",
+            "袖玉武鑑",
+            "cf68fc3f821bfd7fcf8390045f1a3012",
+            "http://codh.rois.ac.jp/pmjt/book/200019491/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102593/default.jpg",
+            "病論俗解集",
+            "634badb2d9eadb1d9e5d908647fc0722",
+            "http://codh.rois.ac.jp/pmjt/book/200021944/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102614/default.jpg",
+            "新増補大日本船路細見記",
+            "297756d89eb48f125946caa712718b15",
+            "http://codh.rois.ac.jp/pmjt/book/200021801/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102615/default.jpg",
+            "豊後国風土記",
+            "f8252c01db25bab8ce90eb5dbb0dc0e1",
+            "http://codh.rois.ac.jp/pmjt/book/200017460/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102616/default.jpg",
+            "安永武鑑",
+            "61859b466622a3e061aa01fef2ed59a6",
+            "http://codh.rois.ac.jp/pmjt/book/200018795/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102617/default.jpg",
+            "源氏物語わかくさ",
+            "48c490e031bbbafebcae08b79b389073",
+            "http://codh.rois.ac.jp/pmjt/book/200003423/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102618/default.jpg",
+            "絵本磯馴松",
+            "3f355b15999d54500929c1eea8e89e6c",
+            "http://codh.rois.ac.jp/pmjt/book/200013589/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102619/default.jpg",
+            "解毒奇効方",
+            "c09ba43e2835682182370cc5f79641a3",
+            "http://codh.rois.ac.jp/pmjt/book/100249381/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102620/default.jpg",
+            "江戸買物独案内",
+            "c43bc1dcce535c6b23c635f63c655dc3",
+            "http://codh.rois.ac.jp/pmjt/book/100249505/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102621/default.jpg",
+            "式例小謡松葉袋",
+            "02ac9d0f68a1d339d88425bb1838aff7",
+            "http://codh.rois.ac.jp/pmjt/book/200022000/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102622/default.jpg",
+            "袖珍武鑑",
+            "2fc7a70f65470c2e61587615a27533e4",
+            "http://codh.rois.ac.jp/pmjt/book/200019645/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102623/default.jpg",
+            "豆腐百珍",
+            "e09bc45f02c48345bf24bd1d1dc1c584",
+            "http://codh.rois.ac.jp/pmjt/book/200021913/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102624/default.jpg",
+            "絵本池の心",
+            "1c39f93a8ac7610686a52839f4034aa4",
+            "http://codh.rois.ac.jp/pmjt/book/200013862/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102625/default.jpg",
+            "能毒養生辨",
+            "0d8d14701b29108430adf16c9b957ee8",
+            "http://codh.rois.ac.jp/pmjt/book/100249769/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102626/default.jpg",
+            "袖玉武鑑",
+            "09b9386146b425364a021d267cefe467",
+            "http://codh.rois.ac.jp/pmjt/book/200019583/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102627/default.jpg",
+            "袖珍武鑑",
+            "75adb4752817d506afac0ee07748b0e3",
+            "http://codh.rois.ac.jp/pmjt/book/200019429/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102628/default.jpg",
+            "伊勢物語拾穂抄",
+            "6965128df398a5873faf9ec80d9c0f7b",
+            "http://codh.rois.ac.jp/pmjt/book/200025116/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102629/default.jpg",
+            "六諭衍義絵鈔",
+            "e575093ad3becde0d47ad54881e66450",
+            "http://codh.rois.ac.jp/pmjt/book/200021856/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102630/default.jpg",
+            "宿附道中記",
+            "866bc8edc10f8082b6086c980441ff34",
+            "http://codh.rois.ac.jp/pmjt/book/200022016/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102631/default.jpg",
+            "源氏物語注釈切",
+            "db1d78fb730dfdb13a679d62466f0513",
+            "http://codh.rois.ac.jp/pmjt/book/200014827/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102632/default.jpg",
+            "源氏物語大意",
+            "0a2082ca12b25aa8311cb11d2465ff86",
+            "http://codh.rois.ac.jp/pmjt/book/200008107/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102633/default.jpg",
+            "天明武鑑",
+            "33c8601ff570776c9fe494c830733092",
+            "http://codh.rois.ac.jp/pmjt/book/200018804/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102654/default.jpg",
+            "天保武鑑",
+            "edbf6954b3829177a3dcc6c5c2923efe",
+            "http://codh.rois.ac.jp/pmjt/book/200018941/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102655/default.jpg",
+            "料理通",
+            "a5007de587dcccd9c907d758e4e6af19",
+            "http://codh.rois.ac.jp/pmjt/book/100249456/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102656/default.jpg",
+            "食療正要",
+            "05a52d1435e0caabe0aafed7b35ab5ba",
+            "http://codh.rois.ac.jp/pmjt/book/100249905/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102657/default.jpg",
+            "北野拾葉",
+            "b0e0b573a3b4355a2a1bfd6ee9d1ea1f",
+            "http://codh.rois.ac.jp/pmjt/book/200021905/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102658/default.jpg",
+            "源氏物語忍草",
+            "fa72da3e9c6533bfe4de7a1a1adadd6e",
+            "http://codh.rois.ac.jp/pmjt/book/200019829/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102659/default.jpg",
+            "勧農固本録",
+            "e3ff19b39bcbf6a1a9ced6143af2b609",
+            "http://codh.rois.ac.jp/pmjt/book/200021840/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102660/default.jpg",
+            "袖玉武鑑",
+            "d2826371bce45df86af1bfdfbbb9a788",
+            "http://codh.rois.ac.jp/pmjt/book/200019595/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102661/default.jpg",
+            "仁勢物語",
+            "7121c4c9c0f34534d30caa9b07d19db0",
+            "http://codh.rois.ac.jp/pmjt/book/200024711/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102662/default.jpg",
+            "源氏物語絵屏風",
+            "eef84227040eaa7486bb68c9c65fb6bd",
+            "http://codh.rois.ac.jp/pmjt/book/200019741/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102663/default.jpg",
+            "文化武鑑",
+            "6f2683d7f0bb72ddb30a97a8d4f07949",
+            "http://codh.rois.ac.jp/pmjt/book/200018853/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102664/default.jpg",
+            "百人一首一夕話",
+            "b1d3a0764edd8bc6a7eb361c55abcc18",
+            "http://codh.rois.ac.jp/pmjt/book/200000999/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102665/default.jpg",
+            "伊勢物語",
+            "7ed221f7799f75208334bb80152d24f4",
+            "http://codh.rois.ac.jp/pmjt/book/200024896/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102666/default.jpg",
+            "三礼口訣",
+            "adf52957b20be803490702ac93c05ed1",
+            "http://codh.rois.ac.jp/pmjt/book/100249401/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102667/default.jpg",
+            "袖珍武鑑",
+            "1a6a0e52481f310fc1d222f278f83a61",
+            "http://codh.rois.ac.jp/pmjt/book/200019604/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102668/default.jpg",
+            "東国名勝志",
+            "8a4507e1c103b1c17541fec9076786b5",
+            "http://codh.rois.ac.jp/pmjt/book/200018916/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102669/default.jpg",
+            "源氏物語絵屏風",
+            "bd7025d575989ae434646dfe43e01a06",
+            "http://codh.rois.ac.jp/pmjt/book/200020990/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102670/default.jpg",
+            "菓子話船橋",
+            "370dfc8e9514bff13850c1d69a980cef",
+            "http://codh.rois.ac.jp/pmjt/book/100249378/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102671/default.jpg",
+            "源氏物語忍草",
+            "cd0b17cde17f95163bf5ade6ac28dd20",
+            "http://codh.rois.ac.jp/pmjt/book/200013570/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102672/default.jpg",
+            "水産小学",
+            "b682274c2375aa1e07045394d2edd2e2",
+            "http://codh.rois.ac.jp/pmjt/book/100249682/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102673/default.jpg",
+            "絵本朝鮮軍記",
+            "ebf8d35e0e9b64333965d073677b8255",
+            "http://codh.rois.ac.jp/pmjt/book/200013435/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102694/default.jpg",
+            "大成武鑑",
+            "4d3b811d58bf69b88e04523865a7c15c",
+            "http://codh.rois.ac.jp/pmjt/book/200018783/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102695/default.jpg",
+            "諸国案内旅雀",
+            "1db06b7a0c090135a033bc172ad26606",
+            "http://codh.rois.ac.jp/pmjt/book/200021817/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102696/default.jpg",
+            "伊勢物語",
+            "f7fdc67e03d6a59ad816e999d01a9ecd",
+            "http://codh.rois.ac.jp/pmjt/book/200024551/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102697/default.jpg",
+            "寛政武鑑",
+            "83ffcc574898fdcab7a87773ce85077c",
+            "http://codh.rois.ac.jp/pmjt/book/200018828/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102698/default.jpg",
+            "大成武鑑",
+            "c26e6bdeba6176126361b559aa0baaa6",
+            "http://codh.rois.ac.jp/pmjt/book/200018982/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102699/default.jpg",
+            "日用心法鈔",
+            "3b91cd3f2e0dd8826cf718a82c0d2eac",
+            "http://codh.rois.ac.jp/pmjt/book/200021616/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102700/default.jpg",
+            "袖珍武鑑",
+            "628f1cb454a4e11af0c8f1ea9d525209",
+            "http://codh.rois.ac.jp/pmjt/book/200019413/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102701/default.jpg",
+            "稗官必携戯文軌範",
+            "11038cbf8708b1df3a07cced83c42f2d",
+            "http://codh.rois.ac.jp/pmjt/book/100249616/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102702/default.jpg",
+            "劇場漫録",
+            "803b289dcc25d51626c0c244cadde8c6",
+            "http://codh.rois.ac.jp/pmjt/book/200021883/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102703/default.jpg",
+            "写真鏡図説",
+            "cf90a7e12985659c5b33398234f00dbc",
+            "http://codh.rois.ac.jp/pmjt/book/200021929/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102704/default.jpg",
+            "絵本雪月花",
+            "0fabb023c72df2b4e69cc4b52301ed5b",
+            "http://codh.rois.ac.jp/pmjt/book/200013858/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102705/default.jpg",
+            "袂白絞",
+            "37dea4539f4dfaa828d262d9693d3ecb",
+            "http://codh.rois.ac.jp/pmjt/book/200009805/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102706/default.jpg",
+            "袖珍武鑑",
+            "3635cf1a2dc7b20d0874bbf374210d2b",
+            "http://codh.rois.ac.jp/pmjt/book/200019556/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102707/default.jpg",
+            "西山物語",
+            "448051b5980edc175cf8fb994177313a",
+            "http://codh.rois.ac.jp/pmjt/book/200013675/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102708/default.jpg",
+            "小笠原百箇条",
+            "3e70d3710ff841ff673a78da97378642",
+            "http://codh.rois.ac.jp/pmjt/book/100249587/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102709/default.jpg",
+            "料理山海郷",
+            "b2aa85589b51a777ec0be6fb84126733",
+            "http://codh.rois.ac.jp/pmjt/book/200021704/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102710/default.jpg",
+            "袖珍武鑑",
+            "831feb6bc5be5115c060976e551fc3bc",
+            "http://codh.rois.ac.jp/pmjt/book/200019628/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102711/default.jpg",
+            "貞孝合鏡",
+            "192bb4c1328a5fcd41d503eed646c988",
+            "http://codh.rois.ac.jp/pmjt/book/200021641/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102712/default.jpg",
+            "源氏小鏡",
+            "4ab108e87c174ec69a6f8ad054b587d9",
+            "http://codh.rois.ac.jp/pmjt/book/200003049/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102713/default.jpg",
+            "河海抄",
+            "aef6d6f2eb639e5aeeec5f42673cc056",
+            "http://codh.rois.ac.jp/pmjt/book/200003419/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102734/default.jpg",
+            "有司武鑑",
+            "c03621437ac4979cb797dbcf3b68e78b",
+            "http://codh.rois.ac.jp/pmjt/book/200019444/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102735/default.jpg",
+            "絵本名馬勢",
+            "597b3c294cdafa856917ecddc14424bb",
+            "http://codh.rois.ac.jp/pmjt/book/200021568/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102736/default.jpg",
+            "有司武鑑",
+            "90dbe23d7ac560e518db4e74db55fa13",
+            "http://codh.rois.ac.jp/pmjt/book/200019501/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102737/default.jpg",
+            "絵本魁草紙",
+            "32c40a55032eb1073fc4c650229dd9d3",
+            "http://codh.rois.ac.jp/pmjt/book/200011832/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102738/default.jpg",
+            "東武綱鑑",
+            "b730a7123bf072a23a7edaa07a9545dc",
+            "http://codh.rois.ac.jp/pmjt/book/200018740/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102739/default.jpg",
+            "源註拾遺",
+            "0458a8d5e8831e945a4e08dc68e5efd6",
+            "http://codh.rois.ac.jp/pmjt/book/200003399/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102740/default.jpg",
+            "万宝料理秘密箱",
+            "bbb3193554c14667799244c31305f072",
+            "http://codh.rois.ac.jp/pmjt/book/200021712/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102741/default.jpg",
+            "文化武鑑",
+            "1bea6dbce251d76186cf856d4d5757b9",
+            "http://codh.rois.ac.jp/pmjt/book/200018869/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102742/default.jpg",
+            "反故草子",
+            "793267dff07a75eb33dee8bf775287ea",
+            "http://codh.rois.ac.jp/pmjt/book/200006174/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102743/default.jpg",
+            "京都武鑑",
+            "f08d13edccd5f84e4660a0d7dc1355fe",
+            "http://codh.rois.ac.jp/pmjt/book/200017765/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102744/default.jpg",
+            "源氏物語玉の小櫛補遺",
+            "0a7b2b20e8324f0e06d61b3fbdf5df2f",
+            "http://codh.rois.ac.jp/pmjt/book/200003376/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102745/default.jpg",
+            "源氏日記",
+            "249a9fb1965e10021d3e966b32ea559d",
+            "http://codh.rois.ac.jp/pmjt/book/200002834/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102746/default.jpg",
+            "袖玉武鑑",
+            "1d9f0f2886ceead74185b9f42fdb2690",
+            "http://codh.rois.ac.jp/pmjt/book/200019452/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102747/default.jpg",
+            "雲上明覧大全",
+            "c3ab31ee4c09bb6588ca9429d43ec1cb",
+            "http://codh.rois.ac.jp/pmjt/book/200021987/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102748/default.jpg",
+            "料理之沿革大概全／附懐石料理之友",
+            "f0b03e8b93c4d38f3132677fb59d3460",
+            "http://codh.rois.ac.jp/pmjt/book/100250925/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102749/default.jpg",
+            "御林武鑑",
+            "9ec2330901c9f897659a4d06c7ee3f7c",
+            "http://codh.rois.ac.jp/pmjt/book/200018756/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102750/default.jpg",
+            "浪華組道中記",
+            "80e3d3009b91b2a7d5f613ae0d0730ef",
+            "http://codh.rois.ac.jp/pmjt/book/200021968/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102751/default.jpg",
+            "絵本松の調",
+            "ed51963401a12adb60a70d9b493794e4",
+            "http://codh.rois.ac.jp/pmjt/book/200011824/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102752/default.jpg",
+            "大根一式料理秘密箱",
+            "bfc4b4ed7c9cb8be8e16d87835c7bf28",
+            "http://codh.rois.ac.jp/pmjt/book/100249342/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102753/default.jpg",
+            "絵本孝経",
+            "d05237966886f9f45b696c014c4bd664",
+            "http://codh.rois.ac.jp/pmjt/book/200016748/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102774/default.jpg",
+            "袖玉武鑑",
+            "3526819649837a7608dded98b8d8a059",
+            "http://codh.rois.ac.jp/pmjt/book/200019517/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102775/default.jpg",
+            "秇苑日渉",
+            "b9cf49180a4bbf4c7ce28d981110cd3f",
+            "http://codh.rois.ac.jp/pmjt/book/100249895/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102776/default.jpg",
+            "景清",
+            "1e43cce542e954cdd31aaa3e8752075f",
+            "http://codh.rois.ac.jp/pmjt/book/200009669/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102777/default.jpg",
+            "年中番菜録",
+            "421d8c54545f0f6bae00786479559b56",
+            "http://codh.rois.ac.jp/pmjt/book/100249529/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102778/default.jpg",
+            "如亭山人藁初集",
+            "b4275a7c979e4ad702e7bc89957866e2",
+            "http://codh.rois.ac.jp/pmjt/book/200012619/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102779/default.jpg",
+            "沙石集",
+            "40e941a509d9769279ec0f42d4026873",
+            "http://codh.rois.ac.jp/pmjt/book/200015830/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/102780/default.jpg",
+            "広用算法大全",
+            "6e7b19c5b3b3c21069b05d98d753c550",
+            "http://codh.rois.ac.jp/pmjt/book/200021895/manifest"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第242帙 第1冊",
+            "c50540a8777ad93a7a7bcb9917792a3a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/242_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第210帙 第3冊",
+            "34f944bed3f79dfb2b3a228001f8bd0c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/210_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138A帙 第4冊",
+            "a257543a9ac21fe793ea3d0f6a19f976",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138A_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第81帙 第2冊",
+            "ae4940be34dc0cb3a1ec525d02b1a91d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/081_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第188帙 第1冊",
+            "7c22b3e45e325a2cdb10c6dca30e9d86",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/188_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第88帙 第1冊",
+            "b965531bb4efb83df42233973544ea16",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/088_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第181帙 第2冊",
+            "46cf932c265c5a1f5a87c833de962bf6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/181_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第129帙 第1冊",
+            "cad9b778d28e6d4289a330420903304c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA129_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第225帙 第6冊",
+            "036e4c96d7c51c678c3e80fe1411aed5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/225_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第92帙 第6冊",
+            "f296b146dba445eadd25236904f7bab4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/092_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第9冊",
+            "4c055763241a45f5832fb8789b13cff7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_09/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第16帙 第4冊",
+            "f611846a0f0b09b4594cb96a48ebf466",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB016_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第214帙 第4冊",
+            "844a795affb6286eab6b8e9c26675883",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/214_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第6帙 第4冊",
+            "9605917cbe1199c69af9e0d28b40c9cd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB006_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第190帙 第1冊",
+            "46aa1519498ac48371b34b05b21dcc44",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA190_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第180帙 第1冊",
+            "f6338e5ac67ae774942825fc0a6b5384",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA180_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第5冊",
+            "92784aed3d4d634e9d541d8c18992125",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第85帙 第5冊",
+            "cdfcbac09ea339204d30e207c5da7f99",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/085_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第232帙 第5冊",
+            "85605b3352a325aedf75094eb05a7082",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/232_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第228帙 第2冊",
+            "198c536b5393b5a5b51cf170c097eb59",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/228_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第196帙 第1冊",
+            "312ba701123cef0fbe8a93fa05b72f97",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/196_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第221帙 第1冊",
+            "499401450d0dbb538416c64dc5c685ad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/221_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第96帙 第1冊",
+            "b2200ead22fec6f3e6eb2565e27573d3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/096_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第202帙 第3冊",
+            "62c6e6a610a40215f8d085b84eec4225",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/202_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第171帙 第2冊",
+            "55388b7b53b1064abea1e986e9c0a1ce",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA171_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第243帙 第5冊",
+            "e2c16432dd97547a1f9d02cd16fea726",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/243_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第161帙 第2冊",
+            "a9869d8dca2bbcf10e93ee683ad94b5f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA161_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第284帙 第1冊",
+            "4982c0804d31b1bccd040035d2ca6e35",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA284_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第218帙 第4冊",
+            "d41f56228038256a4cdaf6b0c55d9ba2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/218_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第5冊",
+            "094647a47e071ba19e37779802339517",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第193帙 第2冊",
+            "2dc8b449d2c6d980c8b965173510013d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/193_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第224帙 第2冊",
+            "b7a8da47e4e4c7483a05ed588527df70",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/224_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第93帙 第2冊",
+            "6789b069d91a6627e4db3703125114d9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/093_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第15帙 第2冊",
+            "ed8dabf25c28506391980adcdaa7925a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB015_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第89帙 第5冊",
+            "5a905406c334d62a66ad14560edcb58a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/089_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第80帙 第6冊",
+            "75137c82eeb30d4a6ab7c956f245be4d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/080_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第276帙 第4冊",
+            "7f1a5ae08723ebf1d83134d9bd16a06a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA276_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第206帙 第4冊",
+            "377cc07679a40240a10c3ebe8e544068",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/206_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第23帙 第1冊",
+            "7886f2c4a941fb63e0a7370b92e9d1cd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA023_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第2冊",
+            "c11282f387f29bb81c8421477d0b3b67",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第8冊",
+            "945ca05c9ea3d2d70dfe33e0d1d4c1ee",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第97帙 第5冊",
+            "ae9ccd7653f18a2e79ffe4ca1157c22a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/097_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第197帙 第5冊",
+            "a4b6029ab2cbfb27482b1980136ec406",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/197_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第84帙 第1冊",
+            "72776ec633df9edc94d72f7f3d341e70",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/084_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第233帙 第1冊",
+            "47b0a1bdcb07a66cd8e540eb79f66550",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/233_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第11冊",
+            "a903256adb189bf62cef35f386650bbd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_11/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第184帙 第1冊",
+            "587859f6b4e31aeff91a2ecaf9c27568",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/184_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第83帙 第3冊",
+            "10370299ed7ea82a0de97e2ba5b51b2d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/083_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第14帙 第3冊",
+            "d275c2ec17a8aeec4f4137c4da15f612",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB014_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第234帙 第3冊",
+            "01b2f73b7c110903ded4bdbf1efc2a3f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/234_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第183帙 第3冊",
+            "4ad618ecf64be9bec769bcb5b4e39dda",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/183_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第208帙 第5冊",
+            "967728b13bf4f419e5842068c40479ba",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/208_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第14冊",
+            "72c14644f0e73979923581e64a1956d6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_14/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第212帙 第2冊",
+            "cdd63a474f90b174ff55ad637a6f9448",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/212_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第187帙 第4冊",
+            "a44167452e95de91049520f4ab3154bd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/187_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第8冊",
+            "882dbdcac11f6403f69d9df14f11c3e5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_8/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第87帙 第4冊",
+            "ba8b984a08bcb480ffa5bb07912baf54",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/087_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第230帙 第4冊",
+            "baaca43dbd0b9d7fd7d2f8dae51504fc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/230_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第205帙 第1冊",
+            "5f853a18699eb1a37cc801889db55a47",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/205_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第260帙 第1冊",
+            "9199e8ce814ce150061744f8fa96caac",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA260_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第216帙 第5冊",
+            "a96e89abc2295e234833141f44ee4e0f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/216_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第10冊",
+            "a2d21bc1daf47f5f9987058bbb98ae3e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_10/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第8冊",
+            "48e4d4d4893c2ab232f0252b3065a100",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第191帙 第3冊",
+            "e3f1ffdcbeee84a153257ddc67929072",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/191_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第226帙 第3冊",
+            "29e51fc340867f6861d312e9b5fc87c8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/226_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第91帙 第3冊",
+            "05dcb7c2c5369af04cc55f075923a035",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/091_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第10帙 第1冊",
+            "f299d802c403bbe02a1f645c876f913f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB010_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第174帙 第1冊",
+            "562ca754ad5c119d4012e14fc9a6f065",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA174_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第241帙 第4冊",
+            "fd8252066be51a13fbdd68b7e5c090de",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/241_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第9冊",
+            "e148bb6df637bb08f15447159fff274f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_9/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第164帙 第1冊",
+            "b728305867c67fad3692a2623307a30b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA164_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第248帙 第7冊",
+            "3f9eda9b92056c97c05bc0c1c78bdb3b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/248_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第200帙 第2冊",
+            "fef542e161fd3a1ee4b33243e2c06a98",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/200_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第209帙 第1冊",
+            "f3444a18579b8b1a39af75bc9b137d5c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/209_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第228帙 第2冊",
+            "3e42c1858edc28344fbbbc92ef1fe7d8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA228_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第238帙 第3冊",
+            "27dd7d6cdb206bbe89847c86d44a49a2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/238_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第222帙 第4冊",
+            "b7178e5ca55759427b90a74235033356",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/222_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第95帙 第4冊",
+            "53cf1f5fcbfab153d134a30747f6509b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/095_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第195帙 第4冊",
+            "8f09680512b9fbc687f5982f5b36a208",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/195_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第14冊",
+            "1ceccf0496c23108d61dba8a59f04143",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_14/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第78帙 第79帙 第1冊",
+            "af43088312ecf48374e6d7a4eca98c83",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA078_079_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第245帙 第3冊",
+            "c6ddf5a31b75f4e7db686c979bd3ad7d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/245_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第217帙 第1冊",
+            "5cd956ead5be0e9b832a51f4d6435637",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/217_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第204帙 第5冊",
+            "bc8bfa967ad25204d8be689d4f1b5be2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/204_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第2冊",
+            "2620b9103e6375d320ed9dce5e87000a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125帙 第3冊",
+            "6f16815af89ccc0324e3c77ec96c560f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第177帙 第1冊",
+            "d55cc32eb7e69e3232b6f7453b961636",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/177_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第77帙 第1冊",
+            "9e2d32b3a23a812308c7f8ee5c727817",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/077_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第25帙 第3冊",
+            "5a5918759ec1e851d0fa0d1fd7a04813",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/025_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第164帙 第5冊",
+            "a126a6638ce884f979baf0e9a7804c25",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/164_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第168帙 第2冊",
+            "06ab811ffee161a450500435f9efd1fb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA168_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第136帙 第7冊",
+            "67bc051aad778132e47eefae61e6a0a3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/136_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第10帙 第2冊",
+            "a8650d7c9b81ef42147e4bd8bd06a1b9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA010_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第5冊",
+            "826cf8646dab7142c20322d57e84d13b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第36帙 第7冊",
+            "26d8cb1374574033a9708e6f1c43bb29",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/036_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第64帙 第5冊",
+            "f5a4d98bcf717310fcb58620bacd37cd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/064_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第3帙 第2冊",
+            "c54499a51a535d1430577061fa794d4f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/003_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第158帙 第3冊",
+            "defa8f37073e128b0a6911228a1cb9f4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/158_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第103帙 第2冊",
+            "a4f52eaf8b807a682b3ad992a4ccabc9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/103_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第83帙 第1冊",
+            "21ad216adb0a0f33e6e7cbd43099e4d8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA083_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第58帙 第3冊",
+            "57a0ebb2b4e4e9e81f4e1c747783dbbc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/058_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138A帙 第8冊",
+            "ae85e54216747c48a52213939faf7e48",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138A_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第42帙 第4冊",
+            "34a36d69574e60a98b98262566826fe7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/042_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第10帙 第6冊",
+            "d230f840ffb622a9e5720bf51703e14f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/010_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第110帙 第6冊",
+            "0f9b0cff352cc424b42ccece2720d846",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/110_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第19帙 第5冊",
+            "bfac30e2dac68f748e7cbe83224bbb8d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/019_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第152帙 第1冊",
+            "540b70709933cbb59724f74c63213d0d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA152_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第21帙 第4冊",
+            "8b791429ac293a8623bd50b6e2445e24",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/021_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第73帙 第6冊",
+            "2fe25c0a553086edcf2a4aac1d83db54",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/073_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第173帙 第6冊",
+            "89ff208ae321fb8726b0c7f7def16d64",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/173_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第9冊",
+            "15b9457cabf935730be7b8092b03d26b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_9/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第121帙 第4冊",
+            "fa9ac1cd15b0aec9896b1fa83496bd76",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/121_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第60帙 第2冊",
+            "ca5f5c4edef729a2f98dedc2903a2003",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/060_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第169帙 第1冊",
+            "39fca4163282f652facc6287d0b499be",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/169_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第69帙 第1冊",
+            "35cbef9589ba566d7274fa57e17c899f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/069_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125A帙 第1冊",
+            "cc920ff9bed16e93b3f3c72dcf0a77db",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125A_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第160帙 第2冊",
+            "a1dab1d1f2eb859c1c2aec98bd09fdbb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/160_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第107帙 第5冊",
+            "66d797b5908b08b41ab80556d1efb025",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/107_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第7帙 第5冊",
+            "cc7b518e9ac0719d885969d7f93a908e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/007_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第146帙 第3冊",
+            "2b08c37f1f3d33a5d3303f4d7e37f793",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/146_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第234帙 第1冊",
+            "3a5e07755e7d7bd58b80741fa35045e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA234_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第114帙 第1冊",
+            "0f2fca1a241c225a8b0b3d84f497d1b8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/114_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第17帙 第6冊",
+            "460406c5a716156ba417627fa013d69d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA017_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第26帙 第1冊",
+            "2602646dc5c4aa2891006a3d242f4084",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB026_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第14帙 第1冊",
+            "284b0b15fd5c9a13b3c34fa6762632ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/014_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第224帙 第1冊",
+            "87116ce3f819703c58c8589786a6722c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA224_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第65帙 第1冊",
+            "2255179879155ba863c160c79e3803af",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/065_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第37帙 第3冊",
+            "13046b96b607ef4de4be8baaefde2ddf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/037_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第137帙 第3冊",
+            "12067a6386c0b9fe0dd1573c77b02d32",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/137_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第246帙 第1冊",
+            "e5a7266af4ab399824249c1d6da53df2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA246_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第165帙 第1冊",
+            "d431929d9314e4ed902b4d993a7d91b6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/165_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第76帙 第5冊",
+            "f3672721baaff96a8a1fa9fc4bb20e2c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/076_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第176帙 第5冊",
+            "dd3754178409a162f4ccbd983753c0ef",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/176_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第18帙 第1冊",
+            "713c60505ce59c21f214e82efd44754f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/018_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第111帙 第2冊",
+            "6b94a67f744c05dfd9a45d957e32e329",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/111_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第11帙 第2冊",
+            "b730aebb12ce1e32e042d7a2d34fb81f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/011_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第175帙 第10冊",
+            "d0cb9eef07e1cd6ccce3d00c4b6e79d7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/175_10/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第118帙 第1冊",
+            "b9b89486d6f359eecfcda3cc56dcb083",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/118_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第9冊",
+            "0c8bbd36016a2a86060360ac47865144",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_09/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第150帙 第4冊",
+            "b9ed4320d971c23a6888c8c63a7bddb4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/150_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第120帙 第1冊",
+            "2821f50dd31b6d396b75c4336bffac82",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA120_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第50帙 第4冊",
+            "f9866d24aafb7a57db1146fc8695c120",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/050_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第2帙 第6冊",
+            "08a004c46c346d52769bad349ce31e7f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/002_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第161帙 第6冊",
+            "2595f209b01f0ef8b08626f3008b2a34",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/161_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第133帙 第4冊",
+            "b937fdf4bc9eab65e65e132a4e1ef661",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/133_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第68帙 第5冊",
+            "1ea80fbe8d9b9177319544b110fe9d2b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/068_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第168帙 第5冊",
+            "72196f0feccaf9b107f5bb2cbe445be7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/168_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第61帙 第6冊",
+            "b8b093b74bbb8aceeac68cc9b46389b3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/061_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第5冊",
+            "0998a6d1a16fb882edeef8b027b3a839",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第189帙 第1冊",
+            "9f567a1dd08c6c927da5d18147fbe8e3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA189_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第29帙 第3冊",
+            "e6e70559e28f11ea04c844c42b413f02",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/029_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第172帙 第2冊",
+            "72d1912c5573b5f16f65b4fd5871ce8b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/172_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第199帙 第1冊",
+            "9dd0e222c814add0746d456c110ecc80",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA199_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第129帙 第3冊",
+            "6a969adeb81cd725bd1a0f3db1126402",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/129_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第15帙 第5冊",
+            "6455fee84446df8760fa482be520e232",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/015_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第115帙 第5冊",
+            "29749c71b97bf754176181cb16540077",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/115_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第4冊",
+            "3afa01df2f312434834d25a9b73b6ab7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第32帙 第3冊",
+            "653b2ef61e1768f52c9b091cdf81b747",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB032_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第6帙 第1冊",
+            "dc2de7fc73513dc2e24811d9b57a4b37",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/006_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第54帙 第3冊",
+            "de9dad3c122136337482843eb2d8644e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/054_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第154帙 第3冊",
+            "ed89e05455432fc25e0fbc5dc24cdbb5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/154_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第106帙 第1冊",
+            "5bfdd004b1bdeeef63275eacfe3c5d75",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/106_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第49帙 第6冊",
+            "f9a352d7b8dc84698c69ea2c0a2be702",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/049_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第3冊",
+            "1d3ba34144cf0c0a97f834c30f4f541c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第28帙 第6冊",
+            "20183cd2045b08c64e0e89efd9155536",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA028_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第53帙 第1冊",
+            "b4a9e3db476cb2a091c079926cea23da",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/053_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第19帙 第1冊",
+            "1ae553ce5d622d8300ee39c77464376d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB019_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第96帙 第2冊",
+            "411942fe8c36e01241615014801b38c2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA096_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第153帙 第1冊",
+            "9bae7777a5f8241151919ab8f10e6d8a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/153_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第9帙 第1冊",
+            "cb716a348ce1ed3a3646417ac65d09bb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB009_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第101帙 第3冊",
+            "055474c826d10dacb27fd45f9e42b75d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/101_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第166帙 第4冊",
+            "f899f37ab782a1fae372a8be11f2834c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/166_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第15帙 第1冊",
+            "48eb36747fb570c8262f183890aec0a2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA015_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第24帙 第6冊",
+            "81a4a16cd7471635352ac21218a3e03d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB024_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第66帙 第4冊",
+            "83fd5ef97d89a13e8d72f86fb1bd9f2e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/066_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第5帙 第1冊",
+            "a167d746002fc6075b73685c0d840dce",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA005_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第34帙 第6冊",
+            "038eab0a29dab0e0d66960945710c64a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB034_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第127帙 第2冊",
+            "480072fed32706ce01fff080747dc3a1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/127_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第27帙 第2冊",
+            "6c842413b1147b69383bf35063cb35e0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/027_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第2冊",
+            "c587ea6007012ff7bf1eb80496f4d973",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第231帙 第2冊",
+            "2e0888a8d0a2c7d2610232abd0b9285e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA231_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第44帙 第2冊",
+            "3164ff1898d87442963f370721fd0c90",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/044_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第2帙 第5冊",
+            "7816b7cc9717d11ef75805d9f61f5077",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA002_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第33帙 第2冊",
+            "e79a5d203e7ea0fbe9c778fc90b9bcd8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第105帙 第4冊",
+            "eb71f78ca941dec973f9a1559693e5d9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/105_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第57帙 第6冊",
+            "131f1415b6eaf87a39d099ea0440178b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/057_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第5帙 第4冊",
+            "972953af8737aeb8aee52aec0367639e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/005_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第139帙 第2冊",
+            "8297abc7879b62dc52c61e9d6988a9af",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/139_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第62帙 第3冊",
+            "fded175b09faaccb39efa9e380991ec2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/062_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第30帙 第1冊",
+            "e3399cd1daac5b4c10d2aadf22645e67",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/030_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第130帙 第1冊",
+            "f4b3815b5457fac9bde936127e9d9414",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/130_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第39帙 第2冊",
+            "511a466598fbb218dddae367581a17c9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/039_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第162帙 第3冊",
+            "e68d45057b2196345f67589450caa41f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/162_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第15冊",
+            "9a6e88f106d70e1d9baf71001bd69ee6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_15/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第4冊",
+            "3c76edf9382f1d3c519f941af337250d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第78帙 第4冊",
+            "d8e3a8bd2cc6ce3077c8bc373841fa05",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/078_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第135帙 第2冊",
+            "d9c49e94fac17f49043360b2259e969b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA135_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第9帙 第4冊",
+            "aef4eead519794aeeafbdba95ee54d78",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/009_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第5冊",
+            "c5d485bd2ef7c34a73bfde1760b82dcb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第125帙 第2冊",
+            "9e2f9a98fbb04e0a5b04bacccd390abd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA125_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第141帙 第1冊",
+            "baa8e4ab3a2e4f1159644e076958bf98",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/141_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第113帙 第3冊",
+            "4527e367ae484de37c8ed85c7b5dbb1b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/113_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第48帙 第2冊",
+            "244caeee84ec18753b5af65efefcb52c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/048_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第13帙 第3冊",
+            "9a7d335af4d506ac91e402fb604252bd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/013_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第148帙 第2冊",
+            "a19c1f38bbb316fa7a1474e06975081c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/148_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第41帙 第1冊",
+            "b0a0fcce81782b87899034361ce20ef5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/041_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第3冊",
+            "8aa9ac965c418e280cdcebf1358f8367",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第30帙 第4冊",
+            "2bfac9174331ef7a17bfb70168d1c8c1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB030_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第26帙 第6冊",
+            "38a34efa8022b541730e7e70a0b46ab4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/026_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第74帙 第4冊",
+            "9856c1cc9d341df9ede5a6973dbe87e8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/074_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第11帙 第3冊",
+            "9f826abc198ee5beb1886c70e35d66f4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA011_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第4冊",
+            "c3ab6d27d2f09084d25f553f6e3b4458",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第105帙 第107帙 第3冊",
+            "6deda04813ad1988eb689281e78408bf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA105_107_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第126帙 第6冊",
+            "4675d6ae0a0e30a9a2b3306a67e78170",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/126_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第35帙 第2冊",
+            "1f347308ae3c43baa2c8c2db89b8a693",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/035_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第135帙 第2冊",
+            "a71cc79f5fbb1f8205c6ca6329cc87a4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/135_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第56帙 第2冊",
+            "48132a7183eddde36a065554740b9bea",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/056_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第156帙 第2冊",
+            "2468a03fe2db57bf0452612188b05b44",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/156_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第18冊",
+            "eb3ae2439bab75399b056c62438aef04",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_18/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第17帙 第4冊",
+            "aacd615e15a7eb05493c4e469ac6d6a3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/017_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第77帙 第1冊",
+            "9f2d3d9e5281e7fb138ddeea6765bfea",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA077_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第117帙 第4冊",
+            "d150879b27b77798044b075d0454be5f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/117_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第145帙 第6冊",
+            "01dd59ad731cf0d7b12feff12e0ea42e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/145_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第67帙 第1冊",
+            "2b29d9f0f13b81c6784e96418e9eef4b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA067_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第122帙 第1冊",
+            "1d6ab8b9e0e440f58b31154367bb9ec1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/122_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第22帙 第1冊",
+            "9843d8d2263d1b53ac18aadc08cb14ad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/022_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第131帙 第5冊",
+            "1efade5c0593d828a1002cfa84ae211c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/131_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第279a帙 第2冊",
+            "6f7b588c68f5a7dec86e275c555904bb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA279a_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第79帙 第1冊",
+            "2674179e9080c31e66b77dec481876c2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/079_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第170帙 第2冊",
+            "111d7b72bb80f071494ff4c994b72a49",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/170_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第70帙 第2冊",
+            "35672d037c8e36d3225fa75998968aac",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/070_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第179帙 第1冊",
+            "c5d3bdcd42b43ea6f6209ed04e6801f9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/179_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第163帙 第6冊",
+            "74508bf1c68fefbffa066987ac3ba995",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/163_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第131帙 第4冊",
+            "1fc323e1cadbd2e57b42e3685db2ef9e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/131_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第63帙 第6冊",
+            "a5e504d06d5fcc5c4fe5e545be43d3fb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/063_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第153帙 第1冊",
+            "7598ea42dc5c5de1172fddcc39ed1ea6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA153_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第279a帙 第3冊",
+            "65cbe7934476911f32c398d6161ccf25",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA279a_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第4帙 第1冊",
+            "cdf2a26d6b06d042a645d2505e75efb2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/004_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第225帙 第1冊",
+            "20bd54d7a2c8a9712fa135151d0a32ee",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA225_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第56帙 第3冊",
+            "52cf810d7c0c72aee74edada0c52c895",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/056_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第27帙 第1冊",
+            "38a259d861992bef7b64f4c5f939003e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB027_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第156帙 第3冊",
+            "5c15cfbf142e7a9807513c8b6c1c51de",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/156_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第104帙 第1冊",
+            "ea1790ef8e83cc2dc842e70707e1eedf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/104_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第17帙 第5冊",
+            "cc2fb8075787dfcfa35ee04205163905",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/017_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第145帙 第7冊",
+            "3fd28aa2bd2ad1eb15effe796527e2a6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/145_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第30帙 第5冊",
+            "c2e58bcb04e7cdbb560c80101fe36718",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB030_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第2冊",
+            "31061a382ec9d46cf5c6f3cf06ceef27",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第74帙 第5冊",
+            "9e9290dc297d8130b2153e14279558f3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/074_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第5冊",
+            "70955d2eb029ef889ca9564bdd14b80e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第11帙 第2冊",
+            "27a019d0120668ad69b7b0187a95a786",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA011_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第105帙 第107帙 第2冊",
+            "31f1996d1a4d8fc23f21b73911f43d35",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA105_107_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第67帙 第1冊",
+            "10d7f24a5addbac98fc99074b58eab5b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/067_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第135帙 第3冊",
+            "3d9c0995eea4a3fae9443d6cb5f89525",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/135_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第167帙 第1冊",
+            "a0ffb523c5c9b312be72babc9bfba731",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/167_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第135帙 第3冊",
+            "d40c3b37e7c4343c66efef65f3034fa0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA135_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第4冊",
+            "4909fd935a21b0ef2e51011931d20590",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第9帙 第5冊",
+            "e8d5686fd15c34a70a448994f45c1ba3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/009_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第125帙 第3冊",
+            "045be83a5295d972917b80756e2e6311",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA125_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第48帙 第3冊",
+            "de2f8666cd369972c437517ac573ffd4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/048_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第113帙 第2冊",
+            "548a1937c3d5903f3d14b46ec5ad2446",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/113_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第148帙 第3冊",
+            "cee3b5bc197c1670db81ac2bad2cffe2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/148_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第92帙 第1冊",
+            "1b312668b5e89a2704d6e52873c16a83",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA092_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第13帙 第2冊",
+            "f2a7d7442a62da1c3ee6dfb46088ad25",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/013_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第62帙 第2冊",
+            "594623c18c1c01c56ceaed12fcf02889",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/062_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第162帙 第2冊",
+            "79bf8d4db7a8c65667f4b92bf3a3d0f6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/162_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第39帙 第3冊",
+            "25c5a1e0db0161baed9bb8c3014e84d8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/039_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第14冊",
+            "2cab6342d929892663742ff19552ece1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_14/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第5冊",
+            "9cab86f8a2f39cbf0171947d23397ac9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第78帙 第5冊",
+            "6bec1e474ec1ef068855516d8139a16f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/078_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第3冊",
+            "770717c0b4b99d5c85baaffa324a9eca",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第231帙 第3冊",
+            "680cfc4a98404690ec088d2618711178",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA231_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第116帙 第1冊",
+            "55a8a77729eb5e43086b61d5a57a528e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/116_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第12帙 第4冊",
+            "58cab9d472b2c6047c35e7536be65c07",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA012_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第16帙 第1冊",
+            "965d43cbb3fa8b8937e37cd9850bf603",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/016_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第33帙 第3冊",
+            "ca0c46310dfd0a9953a7d06cd46dcf37",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第2帙 第4冊",
+            "2aece82f2aa82acff102edb9751f3f1d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA002_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第105帙 第5冊",
+            "026f2b87543afbd6a4c87fb1c4cc017d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/105_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第5帙 第5冊",
+            "50607dbde11366a1b1567b2073065485",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/005_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第166帙 第5冊",
+            "3fcfe2955c1d5091335e38e091b888b8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/166_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第24帙 第7冊",
+            "2b556c336a644044c8d53247449cd59c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB024_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第66帙 第5冊",
+            "da1143b94df8c75bad4989bfa6f43e99",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/066_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第34帙 第7冊",
+            "54e1490c4cf364de3d2b5f1de139f38a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB034_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第127帙 第3冊",
+            "8998cdc043396627eeaa2a6d884bca6c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/127_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第175帙 第1冊",
+            "f6446aab0509dd718250bd67330c72ca",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/175_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第75帙 第1冊",
+            "105048fd4075365781c6d725e1ae8bfd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/075_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第27帙 第3冊",
+            "29998badcb42016fb73d8d65d6d5b1be",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/027_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第12帙 第6冊",
+            "9a26b9f1cee6e1a6531d6bf68387d668",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/012_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第121帙 第1冊",
+            "05413e46d836d8f6f69fa6dca171cc2b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA121_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第112帙 第6冊",
+            "d619254b321b6c6aede2c2b656fd7ca3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/112_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第131帙 第1冊",
+            "b28229794be0ed5328ba984e736a5d5e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA131_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第2冊",
+            "afade9d1141f67a158d9bd81bba270c1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第108帙 第1冊",
+            "980e08638aaf62bd9c3c02f04787d280",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/108_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第28帙 第7冊",
+            "57490f7af70439dd00d16f68109bb072",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA028_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第8帙 第1冊",
+            "cbdb43200545fcc398c3045e1f34471e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/008_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第101帙 第2冊",
+            "1617811d6481652f7541c841d72d230d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/101_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第15帙 第4冊",
+            "24570b85a0b670c7d691eab531d9be7e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/015_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第115帙 第4冊",
+            "4f8af18fc51445fd99871324a4a8ac2c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/115_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第32帙 第2冊",
+            "7943283039f670ed33e1a2f84b098f90",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB032_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第5冊",
+            "54f95058a01930bbe15b608c698cc7f6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第220帙 第2冊",
+            "3198bd58935c0255e773d4b8d56ccd52",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA220_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第54帙 第2冊",
+            "fe347d1db3f8939519585076728db0c4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/054_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第154帙 第2冊",
+            "221d3f5ffda5fd879ad332a4436769a8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/154_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第68帙 第4冊",
+            "fb63f76dc9cd544d47561a14db87dc87",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/068_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第168帙 第4冊",
+            "b3cda8ba1cbcbd597e55cc2d609a98d4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/168_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第4冊",
+            "1635f4e8a8e1e6c74724ce0b5983dda6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第120帙 第1冊",
+            "c0b3999af3ddb358b9ac3562e3e3cbb9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/120_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第172帙 第3冊",
+            "45ff8c9c78348eddff1eddeb32061de0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/172_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第29帙 第2冊",
+            "0569466fd4735945f3dcb50e70385342",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/029_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第129帙 第2冊",
+            "f264ad4921befd16791ec62971364f10",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/129_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第20帙 第1冊",
+            "3b6cc88fbeb5dc4ddb6cf2e911d0693e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/020_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第8帙 第1冊",
+            "04b5c53b0cbc9e56dd667abbe2f8ff0f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB008_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第143帙 第1冊",
+            "175166a51b2182e77077448020b56b93",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/143_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第111帙 第3冊",
+            "bdc0ade46834fea6b68135d799adbd0f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/111_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第11帙 第3冊",
+            "636b918e93604a555bb18bdbb2c978fd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/011_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第18帙 第1冊",
+            "665446c5713bb07aa03ce6fc98162861",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB018_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第43帙 第1冊",
+            "77e99a4454bdf1cda6dd8c81c7109367",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/043_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第8冊",
+            "8781aca819bae0d9e7330fa4d4e77296",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第59帙 第6冊",
+            "80882a8922165e2335c14f9c00b0a154",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/059_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第150帙 第5冊",
+            "6782f0e48e3ee67928e685f6c29f6096",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/150_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第50帙 第5冊",
+            "60411b28ec6aa52e6d7d0f4bcd2932af",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/050_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第159帙 第6冊",
+            "2fc0c74ccbee0b5f8424b85fc0173a44",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/159_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第37帙 第2冊",
+            "b6fb8fd5e908c53d26ad60ba9febe334",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/037_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第137帙 第2冊",
+            "69c97015a271e9504d81bf73a098e81d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/137_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第4帙 第1冊",
+            "a77bdcf56de69a56c2a1bab571ef5dfe",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA004_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第76帙 第4冊",
+            "07de2cecfbd13dd1bedc0fdc78efd85d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/076_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第14帙 第1冊",
+            "23b1f720960917c1320489264c051309",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA014_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第176帙 第4冊",
+            "f298ff4506a199b60dfe9b608d6b3270",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/176_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第107帙 第4冊",
+            "5c09d07fffb3762c5c4058c91c4cbad9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/107_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第155帙 第6冊",
+            "779a72490b15ef2ca02781372c36adf4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/155_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第55帙 第6冊",
+            "24b97b6e05259661851d6b516bf7b40b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/055_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第7帙 第4冊",
+            "64ab4b03bff3d215041c6cfd05f03ce1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/007_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第146帙 第2冊",
+            "32034bd0d69f96a96ace31617e307257",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/146_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第17帙 第7冊",
+            "8a0af0b8133791f4b7e0f6eb74f889f9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA017_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第46帙 第2冊",
+            "c09384e1a101d6c2e1ed3d232d555c83",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/046_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第28帙 第6冊",
+            "4a97d4e76a681578193c442ba7525714",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/028_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第173帙 第7冊",
+            "d0dffc60b30fecd158204f2e756ad917",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/173_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第121帙 第5冊",
+            "763bab630dd14e8ad66b6c08b18a0f79",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/121_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第8冊",
+            "990245d4981f34d7cc2ec68d37aee646",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_8/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第60帙 第3冊",
+            "aa1c67889ab3bcc4930e02a06f1c2347",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/060_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第32帙 第1冊",
+            "06a1248dc29a296dfdbfa843ccf62356",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/032_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第278帙 第1冊",
+            "6e6eae70e3f8a54afed9b39b583fb8b5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA278_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第132帙 第1冊",
+            "d81c2ba6b8a6204820bbb61834955171",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/132_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第160帙 第3冊",
+            "b06d12d95bebe4f7ac503ca24ac1e93a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/160_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第158帙 第2冊",
+            "d2465b54e8aa9be49f6c836b03b65f20",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/158_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第3帙 第3冊",
+            "10fbe7a318d8ba057479266f7c0ab8fc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/003_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第51帙 第1冊",
+            "e3e92eb37151f22de3fd8c994ec3b112",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/051_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第151帙 第1冊",
+            "cd54904315818e805bda45d1e57b04e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/151_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第58帙 第2冊",
+            "38847c46063dba3c407460743a330ddd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/058_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第103帙 第3冊",
+            "90580e2d66a2fb203e9be84d33ffa9cb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/103_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第42帙 第5冊",
+            "c5f09a359120e43dd6275d16552e61c1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/042_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第119帙 第4冊",
+            "940876d8357b35fa83b4ea45b0c93523",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/119_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第110帙 第7冊",
+            "5e3bffd6e2e811fc4e039d3451addb21",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/110_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第19帙 第4冊",
+            "9d3a9a0bb11491fa53ed51fa04066365",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/019_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第125帙 第2冊",
+            "fc05fc072b5310d0199d8b15421c5003",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/125_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第242帙 第2冊",
+            "2a77d03d9470dca097bb0e777dfd682e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA242_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第25帙 第2冊",
+            "2637c3d4cf95c3142506b93a06a5ab74",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/025_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第168帙 第3冊",
+            "6d6bd0d7547723fe0ee3b3bd4b37a3e9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA168_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第164帙 第4冊",
+            "8e5a0f8cf20abfbb8be341fcccb56354",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/164_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第136帙 第6冊",
+            "0c055d3f79dbeb483c03d385bf6fd9e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/136_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第4冊",
+            "f2540b477041a2f305f8383f1439a574",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第10帙 第3冊",
+            "4a97ea7468228b5b51176b45439233b1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA010_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第36帙 第6冊",
+            "615760a29fc21fad47e065cbe9cc1aca",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/036_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第64帙 第4冊",
+            "61f71e1090a67567159f17e91cb406d0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/064_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第31帙 第4冊",
+            "66878567b8156065389a687acb983912",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB031_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第15冊",
+            "7cb043819ce764f5004ebd0760f837e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_15/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第181帙 第1冊",
+            "35250143faa816ce641c968e693f3224",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA181_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第245帙 第2冊",
+            "2e5e79166d20a2854834a0b8543f405d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/245_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第191帙 第1冊",
+            "2acaabd3f16aa6b66badefe98572eb1b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA191_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第204帙 第4冊",
+            "c6fade00525598d42fc2d4ab810c7d03",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/204_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第3冊",
+            "7a319a0c4a15ff630b1dac21aaedbd64",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第86帙 第1冊",
+            "18dae0a15fc354ef14e2c2320056b0de",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/086_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第231帙 第1冊",
+            "73b2876f88d59f8d150a618c7943129c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/231_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第186帙 第1冊",
+            "e5b147b4778115e1e4c0e979c5af3823",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/186_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第238帙 第2冊",
+            "74a3e0491f6318d854222b275f08bdc7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/238_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第222帙 第5冊",
+            "83baff455dc7312e26164656bd023b36",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/222_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第95帙 第5冊",
+            "3ef3fac2b5508bbf5b83807fa4e4b807",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/095_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第195帙 第5冊",
+            "b5b3ac58b87dadff7169cc2039f69dca",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/195_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第112帙 第2冊",
+            "c598db6a4e51d11ee3382908dab62321",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA112_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第8冊",
+            "377df12a01849b8f9fb40dff6813173e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_8/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第248帙 第6冊",
+            "e21f9aee3e12033a2a060f2adef162c5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/248_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第326帙 第1冊",
+            "64c607cbdddb33470b015b27820d306e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA326_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第200帙 第3冊",
+            "aaf2dc88b47748d0b9d135480a07cc54",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/200_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第182帙 第6冊",
+            "f2bef7a7221af3bba9f2bf733558af63",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/182_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138帙 第1冊",
+            "5db13ef04618eaba877a8bf75e477b56",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第9冊",
+            "671f45c551ba62a171eff42a8399d9e4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_09/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第128帙 第1冊",
+            "23f9bf8a3fb98ddfe14953b696e81d15",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA128_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第98帙 第1冊",
+            "d6cafbb52f47c66442a80dea5d244cbe",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/098_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第191帙 第2冊",
+            "d584feca3133be5d212fe23ed4cf1d59",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/191_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第226帙 第2冊",
+            "7075357053d6564773bac369c23ba21a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/226_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第91帙 第2冊",
+            "01757c0452c2732d00460b1b244cf060",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/091_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第198帙 第1冊",
+            "86059585eb5608ded3c123c32b47d7ad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/198_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第216帙 第4冊",
+            "eef6c81853c511e6578b714b58519f4b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/216_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第32帙 第1冊",
+            "d87131d3e6c90e4a76530b1bcddf9f06",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA032_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第194帙 第1冊",
+            "7d3f0b68e5756a486e881a310d007979",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/194_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第223帙 第1冊",
+            "67f2ebab9815ada6a49fb7943b4e41d9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/223_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第94帙 第1冊",
+            "d33f04aa2a6e89d213d79fe9eb62fab5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/094_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第9冊",
+            "875f2101409f41c0dd51aa3f9ac4ccad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_9/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第87帙 第5冊",
+            "54df727cb17c72e187fd1b9d57c9604c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/087_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第230帙 第5冊",
+            "264465f993e4fcc0befdf3a0de26edd6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/230_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第208帙 第4冊",
+            "c98753d8dade0fe4bf9098f8e83881e4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/208_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第1冊",
+            "9498722f5ff22288ee748e1e88c8e7bb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第212帙 第3冊",
+            "985464d3b02e629a3b388b81dd4e35cc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/212_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第90帙 第6冊",
+            "e6b06b68c44e8cf3a0eebcbf2deab1bb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/090_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第14帙 第2冊",
+            "ef9495be0986562c4105c65097e126cf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB014_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第83帙 第2冊",
+            "3c7441b86f507c007101e100a4f5c318",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/083_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第12冊",
+            "8c39ad91e621ec20e9108eed0de23d79",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_12/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第234帙 第2冊",
+            "05cf15e18f943dfccfce6e59a2505aaa",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/234_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第183帙 第2冊",
+            "ea942fb13bd88983b142d6222f1814f0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/183_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第97帙 第4冊",
+            "80349c9df623f405b7b1467d56043add",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/097_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第197帙 第4冊",
+            "02063c5ff56f66472b295c38397d3a08",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/197_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第117帙 第1冊",
+            "2e528e8bb5019a53921552fcb0c3431c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA117_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第10冊",
+            "9282f5e513dbe4e4850e5f56301f3fba",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_10/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第8冊",
+            "2e52895e4d1a01d76a19e4a0e3c2cf20",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第206帙 第5冊",
+            "80541848629ba2b91109db876c88e6ef",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/206_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第184帙 第2冊",
+            "c0c70e01be856eebcbaf7d3a0f2cb857",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA184_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第261帙 第1冊",
+            "12f990479e99609310fc4469f3b89181",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA261_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第271帙 第1冊",
+            "229745e60b6cc48092bec45cc604a976",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA271_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第3冊",
+            "07b0f21753efcf7ff03991bb87091eb8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第194帙 第2冊",
+            "775920c385021ec4431ab8950d95b9c4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA194_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第215帙 第1冊",
+            "6a33547c62531fc856429667c9010d32",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/215_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第193帙 第3冊",
+            "f90090e54312cce88e4e914190cd7423",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/193_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第224帙 第3冊",
+            "fb6b77d5b9511d139cda79ba152a3166",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/224_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第15帙 第3冊",
+            "7106c8451907d2527580bc6c199d5221",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB015_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第93帙 第3冊",
+            "89a7a5707ea4c643cb70fa85f39ecfb2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/093_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第89帙 第4冊",
+            "927afe5fff7f7cc10a3de67c81ce5c1f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/089_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第202帙 第2冊",
+            "c7616bc4e3e322b49b112e4d47ad15e2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/202_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第243帙 第4冊",
+            "37b0f21e71d3c395e5ef51c7902c2636",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/243_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第161帙 第3冊",
+            "9d0cc0c622170a4fe1e2ed2d655ddec6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA161_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第4冊",
+            "281b9c0e1abacf11503557961aff2ef3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第218帙 第5冊",
+            "e518b800b17e36af22b3082b1e6420b7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/218_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第4冊",
+            "01deacd45d191663e5742d75ccecbff1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第85帙 第4冊",
+            "803ad60943bed18b038d1f361a4cdedc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/085_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第232帙 第4冊",
+            "b2ce5154fda1781cf937689f16480f01",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/232_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第214帙 第5冊",
+            "8465311f8808ed4730dd10745fc6efcb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/214_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第207帙 第1冊",
+            "a3151efb8dedf40eb2da45854e76785c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/207_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第81帙 第3冊",
+            "1bcc428e583d89b7c12b372bc2df4306",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/081_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第11帙 第1冊",
+            "df9124f7f6a47a0912716d6658180efc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB011_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第1帙 第1冊",
+            "0bc4daf8c967962af74d44eff07c88e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB001_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第181帙 第3冊",
+            "f76e4f008e8d57d6a45305d534f9995e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/181_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第225帙 第7冊",
+            "26ea555e025729585dcb2aa8071f6e3d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/225_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第8冊",
+            "cb37a82ad28d4f26732d838b29ddad4b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第219帙 第1冊",
+            "cb3fc09d9a8a58c1c270b98987a6cd3c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/219_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第210帙 第2冊",
+            "409b56fd651c4c732588bf54ba9b5611",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/210_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第280帙 第2冊",
+            "fcb3b3795b0bd0ca4b2479f3493e9c19",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA280_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第175帙 第1冊",
+            "96f47654e70f3e6efc674c5aca06cb64",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA175_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138A帙 第5冊",
+            "abc15a9150d1b8bf60dbb8f36b650fd7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138A_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第25帙 第5冊",
+            "de5545a1cc8c135af4366c2d0a9fc577",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/025_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第64帙 第3冊",
+            "1c1de309f221696954eac3d83178d446",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/064_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第36帙 第1冊",
+            "e9fa16423c4028ec5b37217f228fa6b5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/036_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第31帙 第3冊",
+            "ce3c9bac0fc21eaa32fc385305bab609",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB031_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第136帙 第1冊",
+            "557f49f55592f29231e45e9b198ad461",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/136_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第164帙 第3冊",
+            "2c3d16b42bd68d97299d4877beb3e69e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/164_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第168帙 第4冊",
+            "abf1fcbd5cc672ef1d04e93055df7393",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA168_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第10帙 第4冊",
+            "f71033f2290fde8dc0aaf40ca7b5c3c3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA010_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第21帙 第3冊",
+            "c621af30b730e5f19ec61ee86bdfe50f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB021_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第58帙 第5冊",
+            "ab28ebe697ba7395147c6104310345b5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/058_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第151帙 第6冊",
+            "ec51db5c78e7e9a2065abe8cba982ee8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/151_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第51帙 第6冊",
+            "869aa0c5828c00cf4cfb94cabb6231d3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/051_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第3帙 第4冊",
+            "7c7fb340fee3bf5c0cf579d7ef956f42",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/003_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第158帙 第5冊",
+            "dde7612600a9f31204f29867ec88033e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/158_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第19帙 第3冊",
+            "5f5b17e565bd7586a55107f256090329",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/019_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第142帙 第2冊",
+            "a4a17609ab5307fade477354bfc8f09c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/142_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第119帙 第3冊",
+            "e35c43ca06073ea07a94475f5205a742",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/119_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第42帙 第2冊",
+            "1b4942cb5dbe0d8f7b8573c8e412b292",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/042_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第121帙 第2冊",
+            "33b0cf74b2cb8ff00904365ac481bcf2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/121_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第28帙 第1冊",
+            "eb27303083e8e0fc1117fbc8bcb1cb4b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/028_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第128帙 第1冊",
+            "3034fa4158abd28a17c61f9be85aa63a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/128_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第21帙 第2冊",
+            "d7ec96ef135047ee7914f966ca84a89a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/021_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第160帙 第4冊",
+            "a6b30d3684086232dd422e620e9cf8ff",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/160_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第132帙 第6冊",
+            "6c898fcc81e4048981d1e81fc7cca02a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/132_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第133帙 第1冊",
+            "fdd59be0c103a35ce5ba1ba3fab503ef",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA133_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第60帙 第4冊",
+            "16b8b228468ad69fdb29bf0b04ab9097",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/060_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第7帙 第3冊",
+            "ba4fc111d65a9992b7884fb66c9ff7a2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/007_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第255帙 第1冊",
+            "2e489ecdc004bad7d1ac4e6b00d0c780",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA255_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第55帙 第1冊",
+            "9a10834934caf61cea84698eaff08547",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/055_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第155帙 第1冊",
+            "2a169daba736c7ea8e8f60ab52479754",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/155_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第107帙 第3冊",
+            "1b075b654f405127294706b500b67226",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/107_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第245帙 第1冊",
+            "ed8f732dde75e681cd8eca296632d66f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA245_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第146帙 第5冊",
+            "4eb7c279d5ceee54b59e9889417a9bed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/146_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第37帙 第5冊",
+            "b16d4687a3f20d587a78ab5e39709f11",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/037_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第66帙 第1冊",
+            "fbcab0267e127280f6b27ac55869e5e1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA066_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第25帙 第1冊",
+            "bf9ee22f6045016f705e2d878117e48c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB025_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第124帙 第1冊",
+            "b5926108f473d5c3d8bd632f0f405a13",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/124_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第176帙 第3冊",
+            "5d7a79e98cdd9b3da9e7fe5f2dfb7ed1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/176_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第35帙 第1冊",
+            "c8b205d2b081cca09c0af8efd24b2797",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB035_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第76帙 第3冊",
+            "b42c3486732c7c2b9eef2c043812d22f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/076_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第24帙 第1冊",
+            "e3fad66e39d614bc3094f319600e407a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/024_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第29帙 第1冊",
+            "540ad96f1b8aab9b3a2b19d8a03d27ce",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA029_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第11帙 第4冊",
+            "82817d713b322e08b40e7237c24a7507",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/011_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第151帙 第1冊",
+            "cbc6cd3d7613a89a176d398dee9e1a8c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA151_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第111帙 第4冊",
+            "2b716a63541b639b0dfb37a6e6e2f422",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/111_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第159帙 第1冊",
+            "81e5d6a3030d894d461446b2ccb91f3b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/159_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第50帙 第2冊",
+            "af3970d7539c5aff62fc62d12032d89c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/050_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第150帙 第2冊",
+            "0a7bb8b85dd82639c00a83c30c45e4b7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/150_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第59帙 第1冊",
+            "bbeb58f3b6db5d2b97f2c168da5ab5ae",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/059_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第33帙 第2冊",
+            "9375f0129c01873bfbb0176f59aed0a0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/033_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第168帙 第3冊",
+            "c942c4d3ee16c77f7f092e58c41ff8b7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/168_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第133帙 第2冊",
+            "cd7c27f3a661a5cf8b901917c1e7d51e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/133_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第68帙 第3冊",
+            "cd2063eca391e61e5f36e5c0be140cad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/068_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第129帙 第5冊",
+            "765269eb2bbecebe7ade07cd290e079b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/129_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第137帙 第3冊",
+            "c8611508d105dfaac7d54a5d87a61566",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA137_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第29帙 第5冊",
+            "c91660bfed4abb326475c8eac3576804",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/029_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第172帙 第4冊",
+            "5024618845b5433b023ba7e216652e66",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/172_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第120帙 第6冊",
+            "55e98abe1cc36d4f4a29cf978271ff4a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/120_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第147帙 第1冊",
+            "1160f1aa23ec441d20e8f55150f0d861",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/147_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第115帙 第3冊",
+            "680fc361291f92a8e57c3bc86980cc21",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/115_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第15帙 第3冊",
+            "62c16751c283d1d22c8f707df090a21f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/015_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第47帙 第1冊",
+            "1a84f5994e00efccd488e69f6317d8eb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/047_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第3帙 第2冊",
+            "7e6e372d31b27b7349115db957b3f8a5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA003_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第8冊",
+            "3f05873a7cfa93a5f770bcae8b171dce",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_8/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第32帙 第5冊",
+            "de77cc2b67bcff6e52fdc3e51c6ccbd1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB032_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第54帙 第5冊",
+            "77722319227994eb16cf2cb0a1ba44a0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/054_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第112帙 第1冊",
+            "cc10c6b548fa5a415aee9629fd67303e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/112_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第131帙 第6冊",
+            "66a3787c1a645221af9a9acd9105d9dc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA131_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第12帙 第1冊",
+            "c0776e81a1882c497382a665954c0851",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/012_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第8帙 第6冊",
+            "ea109c4f796f9f13b590250ede9b368e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/008_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第108帙 第6冊",
+            "f605afcc2a388dfab12c0634d7f5854d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/108_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第5冊",
+            "897df343b946d02dd494b3be22d41f91",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第66帙 第2冊",
+            "f28372d190979bdaf0a33485e227633c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/066_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第166帙 第2冊",
+            "1a370e6aa0968cbd6fd8eff9e98b134d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/166_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第27帙 第4冊",
+            "688e455294ba034994a2b4c2b6cecdcb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/027_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第75帙 第6冊",
+            "1418002bcaccffe486dfbd1c79e91b9e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/075_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第64帙 第1冊",
+            "1ea4d00351f84b31759683b465a5b356",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA064_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第175帙 第6冊",
+            "5dd836c9aeeb36be7a29a6b4ec948e28",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/175_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第16帙 第6冊",
+            "f3b955fd1b0c86b58f74b21c91437b48",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/016_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第2帙 第3冊",
+            "b7ccb8fe399f649a603a4c74d4c19920",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA002_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第33帙 第4冊",
+            "afed4044252117b4d972c77a90c955d5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB033_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第116帙 第6冊",
+            "8c0fc32abed0b5324a45fa966e995892",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/116_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第231帙 第4冊",
+            "ed5fc6341bc64b2f98257bcc7d66674e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA231_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第4冊",
+            "2d9b062be512da78e7fff1d988bf6cf1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第12帙 第3冊",
+            "1fe5a906134b6086b51d7034b51afaa4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA012_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第5帙 第2冊",
+            "a0972fbfc17f57b7359a3faed855a59d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/005_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第250帙 第2冊",
+            "88218b1094141a11eb6d74765a3df824",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA250_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第105帙 第2冊",
+            "daf21d97b2304fb0e9006415362fbd9a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/105_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第39帙 第4冊",
+            "d35b5e09eb362f733547e8aee2c8c2ff",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/039_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第162帙 第5冊",
+            "f1dd6fde51b26ad2f2e7999d61591e4a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/162_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第136帙 第2冊",
+            "b15d3a5c3abb9ddece19e0f7d5fe36e8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA136_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第13冊",
+            "efa27797dee666df477e327268be89ab",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_13/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第62帙 第5冊",
+            "28965f6b31fb5a7265898611a2503144",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/062_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第78帙 第2冊",
+            "dc6e5870aedb901b9e279c54cf7011f0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/078_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第171帙 第1冊",
+            "d4f5b87604585ae3f92b847acd11bef2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/171_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第71帙 第1冊",
+            "adc5f1e45db764422ba271837a6ed622",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/071_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第178帙 第2冊",
+            "85a59115e583c6593ccbe767cf025e87",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/178_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第109帙 第2冊",
+            "2de746e4a0727eb0a43b3323eb1f4913",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/109_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第135帙 第4冊",
+            "287a97b8b5bd46bf549dd5b094638591",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA135_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第9帙 第2冊",
+            "8093c87f0e203546da96dcf807b468fb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/009_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第152帙 第3冊",
+            "bc75b03d2476cc84158bf21c7fa16a72",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/152_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第100帙 第1冊",
+            "e825a12c72404c3ca4c92407d2b80f90",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/100_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第148帙 第4冊",
+            "cdac44ba57788abe6a7eaab08f9409dd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/148_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第154帙 第2冊",
+            "21d1dd886d184a42fb435a9cede7a2a6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA154_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第113帙 第5冊",
+            "be8adf23e81f5847b225c2377274315c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/113_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第11帙 第5冊",
+            "06702cf7bf76ae01417bfb4d4451f92f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA011_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第20帙 第2冊",
+            "bc94bf81c68823384ccd53493fe0698a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB020_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第105帙 第107帙 第5冊",
+            "fa23e6a94c1a10c34795978808874fa5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA105_107_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第1帙 第5冊",
+            "2d64ae46e110d1235103223a0790121e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA001_05/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第30帙 第2冊",
+            "99e901825dba8272dd9b933bf48ab404",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB030_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第74帙 第2冊",
+            "8a7ecaa3e475e42aa0b0f178cd8c8881",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/074_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第167帙 第6冊",
+            "e615ced1522d77d998bed72683c368e8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/167_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第135帙 第4冊",
+            "b57b0b6f0a308a1b012343531247cfc2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/135_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第67帙 第6冊",
+            "b0eac4697f13d35201c24fc45655fcfc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/067_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第16帙 第1冊",
+            "ebbdbbeaed392930d69ec63e406aa685",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA016_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第27帙 第6冊",
+            "bf5385e9e9d9c2f1b262c80ac0a433e1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB027_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第104帙 第6冊",
+            "0e23f8529c1359b957e0e3eb01375012",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/104_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第156帙 第4冊",
+            "e7052509dff05337515a15d62d6f9f18",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/156_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第6帙 第1冊",
+            "8f0956daa9604a784779bb15e5915371",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA006_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第56帙 第4冊",
+            "0af53a1a5d51574996140c5359e596da",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/056_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第225帙 第6冊",
+            "a640cff6ec4155490f04266fd7340eeb",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA225_06/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第4帙 第6冊",
+            "f08382d0ff6b4aba453dce045c442a85",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/004_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第117帙 第2冊",
+            "1f2b2d3f400027501c0674634da6696f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/117_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第17帙 第2冊",
+            "e35712a18bc1196c6cfa7ce3ad8036f6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/017_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第8冊",
+            "fc26d8e032dea801c507e7253b65cb9f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第179帙 第6冊",
+            "8b0f9e238a5022ed0b7a775928f40fc9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/179_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第79帙 第6冊",
+            "3f49cd6d5805549cb92c9a46b074bd99",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/079_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第63帙 第1冊",
+            "b1c347c4c1c3f36f1675f3e40331c274",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/063_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第279a帙 第4冊",
+            "872c52b649af24112abbe69ddf633391",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA279a_04/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第131帙 第3冊",
+            "3ad391ff1406f64034f0e9a9d3f5b48b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/131_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第163帙 第1冊",
+            "38610e61422b34f74fed4ff7e5b63e91",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/163_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第210帙 第5冊",
+            "4665c514acada1954f56c2a455a2e657",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/210_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第203帙 第1冊",
+            "49fdf05e9b541d7087cb8d1f1a345289",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/203_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第138A帙 第2冊",
+            "ac763a9b4bb21d0e205323a00da8f83b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA138A_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第181帙 第4冊",
+            "ed2a908ba23c634d2547f3b86ba5b1e7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/181_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第30帙 第1冊",
+            "71173da72af9431fd31198c4726f3048",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA030_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第20帙 第1冊",
+            "99b536c986117cfa025b7bbbd518f301",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA020_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第188帙 第7冊",
+            "4b8ada134c21eb63b05ceb83349dea28",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/188_7/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第81帙 第4冊",
+            "c1c63384dea9e66cbbef4a20a1963198",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/081_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第200帙 第2帙 第1冊",
+            "deb72c774d924973b0989c69f52de8f6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/200_2_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第10帙 第8冊",
+            "2a0d3ef84f2a82a66174cb619e26908d",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA010_08/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第6帙 第2冊",
+            "1fced2e5314fa19accf40ec88b3deb26",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB006_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第16帙 第2冊",
+            "02af0b79e20e0fcd950deba99550b7dc",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB016_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第99帙 第1冊",
+            "5aeeef77012c171babc1dc5816bba6a2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA099_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第214帙 第2冊",
+            "61a396c51d47e944ae7cac5ed88f4967",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/214_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第85帙 第3冊",
+            "24cee0c266feb471294470f993622a63",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/085_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第232帙 第3冊",
+            "416a1470dc6b8b20aafc5eb72e74ad15",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/232_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第185帙 第3冊",
+            "62c166b0a3ed295413fe7f771a52905c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/185_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第68帙 第2冊",
+            "cb967cd3e90c83564fcd692fbba45dc7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA068_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第218帙 第2冊",
+            "ff2de09f4f153446bb95722c38a0a84e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/218_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第28帙 第3冊",
+            "23ac060c61067270389dc91a2652fdec",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB028_03/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第243帙 第3冊",
+            "2b075ef36ca8430168ebd1aad4063c12",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/243_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第211帙 第1冊",
+            "a92e126c1283fec57335ee02c45676f0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/211_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第224帙 第4冊",
+            "e03352b0426e24b57bcb2233d9c2d047",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/224_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第93帙 第4冊",
+            "521d078ac801c1bdc2e4d8d8b15d14b5",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/093_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第193帙 第4冊",
+            "954617a3b5db29ddfa9c595f8e06be0b",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/193_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第276帙 第2冊",
+            "b84383cbca77e12801b4217918f0991c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA276_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第193帙 第1冊",
+            "8e23ed86a604fe3719bc2ad0db3bbdb0",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA193_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第89帙 第3冊",
+            "6c49b904e5d012168014e5151a3f6304",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/089_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第183帙 第1冊",
+            "0042aaa7552761983517867f912adaf6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA183_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第206帙 第2冊",
+            "2b9ce53c7058304d30f41df667258ed2",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/206_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第23帙 第7冊",
+            "cfab00d9aa567f262f61a68e974f75ed",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA023_07/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第215帙 第6冊",
+            "1e1d8f91b73e5edf57a8752b09fb7ae4",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/215_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第247帙 第4冊",
+            "cafa586cc1fa8c4dbd685ae1b26c52d1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/247_4/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第42帙 第1冊",
+            "0c48fe318aaa0399e046a6416139e130",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA042_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第197帙 第3冊",
+            "3bb263492e6b75e5e2ad50abab0df16c",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/197_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第324帙 第1冊",
+            "6af59ab41eeafeb2fd530c5ca1cc95d3",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA324_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第97帙 第3冊",
+            "8b3a5130f1bfb60ca73c5f4a6e89511f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/097_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第99帙 第2冊",
+            "171919f8dc3c328b6fdb76512d34a09a",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/099_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第190帙 第1冊",
+            "9bf24091948f4ecaaf386df5bc012801",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/190_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第227帙 第1冊",
+            "6348110c95c6dfe0ec4e478e69b2535f",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/227_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第90帙 第1冊",
+            "0f93b46782e2cfdfec230c108a64a033",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/090_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第199帙 第2冊",
+            "4c67868924bf41d2f6c730cfacd620a8",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/199_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第183帙 第5冊",
+            "e0c843d4a8a0216097ef03e20c1ac7cf",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/183_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第234帙 第5冊",
+            "7c00f1d636ab1a8136dd12c1357ebbb7",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/234_5/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第12冊",
+            "56a89545001e0294be1f93d5e1b0f207",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_12/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第208帙 第3冊",
+            "199328e72fac5b0a99cc57104a2056de",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/208_3/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）補第29帙 第2冊",
+            "89726b8d8fc2bad15090358ec4863049",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KB029_02/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第1帙 第9冊",
+            "d6c96d96cc3f0847157df526900ab9cd",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/001_9/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第240帙 第6冊",
+            "9515630534db6df1cb9a7b07a8f3dbc1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/240_6/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第26帙 第12冊",
+            "9fe17a28faf83bcb6b6397bab6e6fc15",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA026_12/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）続第177帙 第1冊",
+            "5e945b74bba861623ac0279bfe5c54a9",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/KA177_01/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第87帙 第2冊",
+            "ae075e88c0eb5d81dce22b06874c7eb1",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/087_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第230帙 第2冊",
+            "c602f2a433525ec1987bd21fbe1dc1a6",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/230_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第187帙 第2冊",
+            "77b6ce0e44724805417c561f07db502e",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/187_2/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第239帙 第1冊",
+            "f8ec4fa4799d4f0e207d048ce6e6b059",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/239_1/manifest3.json"
+        ],
+        [
+            "",
+            "嘉興蔵（万曆版大藏經）第144帙 第8冊",
+            "b578e9bbbfe0c64c82fb2b13ff138fad",
+            "https://dzkimgs.l.u-tokyo.ac.jp/kakouzou/144_8/manifest3.json"
         ]
     ],
     "page": 2

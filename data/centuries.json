@@ -1,6 +1,27 @@
 [
     {
-        "count": 40,
+        "count": 1759,
+        "index": 1,
+        "label": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 wan li ban da zang jing (jia xing zang / jing shan zang) digital edition",
+        "url": "",
+        "value": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 Wan Li Ban Da Zang Jing (Jia Xing Zang / Jing Shan Zang) Digital Edition"
+    },
+    {
+        "count": 205,
+        "index": 2,
+        "label": "中野区立図書館デジタルアーカイブ",
+        "url": "",
+        "value": "中野区立図書館デジタルアーカイブ"
+    },
+    {
+        "count": 269,
+        "index": 3,
+        "label": "京都大学貴重資料デジタルアーカイブ　kyoto university rare materials digital archive",
+        "url": "",
+        "value": "京都大学貴重資料デジタルアーカイブ　Kyoto University Rare Materials Digital Archive"
+    },
+    {
+        "count": 1767,
         "index": 0,
         "label": "日本古典籍データセット　dataset of pre-modern japanese text",
         "url": "",

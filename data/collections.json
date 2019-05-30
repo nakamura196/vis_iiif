@@ -1,9 +1,30 @@
 [
     {
-        "count": 40,
+        "count": 1767,
         "index": 0,
         "label": "Center for open data in the humanities",
         "url": "",
         "value": "Center for Open Data in the Humanities"
+    },
+    {
+        "count": 1759,
+        "index": 1,
+        "label": "東京大学 the university of tokyo",
+        "url": "",
+        "value": "東京大学 The University of Tokyo"
+    },
+    {
+        "count": 269,
+        "index": 3,
+        "label": "京都大学 kyoto university",
+        "url": "",
+        "value": "京都大学 Kyoto University"
+    },
+    {
+        "count": 205,
+        "index": 2,
+        "label": "Nakano city library",
+        "url": "",
+        "value": "Nakano City Library"
     }
 ]

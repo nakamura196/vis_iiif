@@ -4,8 +4,29 @@
         "label": "Year Created",
         "markers": [
             {
-                "count": 40,
+                "count": 1759,
+                "h": 180,
+                "label": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 wan li ban da zang jing (jia xing zang / jing shan zang) digital edition",
+                "url": "",
+                "value": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 Wan Li Ban Da Zang Jing (Jia Xing Zang / Jing Shan Zang) Digital Edition"
+            },
+            {
+                "count": 205,
                 "h": 30,
+                "label": "中野区立図書館デジタルアーカイブ",
+                "url": "",
+                "value": "中野区立図書館デジタルアーカイブ"
+            },
+            {
+                "count": 269,
+                "h": 30,
+                "label": "京都大学貴重資料デジタルアーカイブ　kyoto university rare materials digital archive",
+                "url": "",
+                "value": "京都大学貴重資料デジタルアーカイブ　Kyoto University Rare Materials Digital Archive"
+            },
+            {
+                "count": 1767,
+                "h": 180,
                 "label": "日本古典籍データセット　dataset of pre-modern japanese text",
                 "url": "",
                 "value": "日本古典籍データセット　Dataset of Pre-Modern Japanese Text"
@@ -17,11 +38,46 @@
         "label": "Genre",
         "markers": [
             {
-                "count": 40,
-                "h": 30,
+                "count": 1768,
+                "h": 180,
                 "label": "Http://creativecommons.org/licenses/by-sa/4.0/",
                 "url": "",
                 "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            {
+                "count": 1759,
+                "h": 180,
+                "label": "Http://creativecommons.org/licenses/by/4.0/",
+                "url": "",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            {
+                "count": 269,
+                "h": 30,
+                "label": "Https://rmda.kulib.kyoto-u.ac.jp/reuse",
+                "url": "",
+                "value": "https://rmda.kulib.kyoto-u.ac.jp/reuse"
+            },
+            {
+                "count": 77,
+                "h": 30,
+                "label": "Cc-by<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/",
+                "url": "",
+                "value": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+            },
+            {
+                "count": 2,
+                "h": 30,
+                "label": "以下urlを参照。https://archive.nakano-library.jp/horiekemonjo-howto/",
+                "url": "",
+                "value": "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
+            },
+            {
+                "count": 125,
+                "h": 30,
+                "label": "Unknown",
+                "url": "",
+                "value": ""
             }
         ]
     },
@@ -30,11 +86,32 @@
         "label": "Collection",
         "markers": [
             {
-                "count": 40,
-                "h": 30,
+                "count": 1767,
+                "h": 180,
                 "label": "Center for open data in the humanities",
                 "url": "",
                 "value": "Center for Open Data in the Humanities"
+            },
+            {
+                "count": 1759,
+                "h": 180,
+                "label": "東京大学 the university of tokyo",
+                "url": "",
+                "value": "東京大学 The University of Tokyo"
+            },
+            {
+                "count": 269,
+                "h": 30,
+                "label": "京都大学 kyoto university",
+                "url": "",
+                "value": "京都大学 Kyoto University"
+            },
+            {
+                "count": 205,
+                "h": 30,
+                "label": "Nakano city library",
+                "url": "",
+                "value": "Nakano City Library"
             }
         ]
     },
@@ -43,7 +120,7 @@
         "label": "Color",
         "markers": [
             {
-                "count": 0,
+                "count": 25,
                 "h": 30,
                 "label": "Red",
                 "url": "",
@@ -53,7 +130,7 @@
                 ]
             },
             {
-                "count": 2,
+                "count": 96,
                 "h": 30,
                 "label": "Green",
                 "url": "",
@@ -62,7 +139,7 @@
                 ]
             },
             {
-                "count": 4,
+                "count": 274,
                 "h": 30,
                 "label": "Blue",
                 "url": "",
@@ -71,7 +148,7 @@
                 ]
             },
             {
-                "count": 3,
+                "count": 113,
                 "h": 30,
                 "label": "Orange",
                 "url": "",
@@ -80,7 +157,7 @@
                 ]
             },
             {
-                "count": 1,
+                "count": 87,
                 "h": 30,
                 "label": "Yellow",
                 "url": "",
@@ -89,8 +166,8 @@
                 ]
             },
             {
-                "count": 15,
-                "h": 30,
+                "count": 762,
+                "h": 80,
                 "label": "Brown",
                 "url": "",
                 "value": [
@@ -98,8 +175,8 @@
                 ]
             },
             {
-                "count": 11,
-                "h": 30,
+                "count": 569,
+                "h": 60,
                 "label": "Gray",
                 "url": "",
                 "value": [
@@ -116,7 +193,7 @@
                 ]
             },
             {
-                "count": 0,
+                "count": 6,
                 "h": 30,
                 "label": "Black",
                 "url": "",
@@ -125,8 +202,8 @@
                 ]
             },
             {
-                "count": 4,
-                "h": 30,
+                "count": 2068,
+                "h": 210,
                 "label": "Unknown",
                 "url": "",
                 "value": [
