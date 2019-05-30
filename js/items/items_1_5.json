@@ -1,0 +1,53 @@
+{
+    "items": [
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99262/default.jpg",
+            "画本武王軍談",
+            "95131347e7553152d62a96ab8e60b456",
+            "http://codh.rois.ac.jp/pmjt/book/200013420/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99263/default.jpg",
+            "料理物語",
+            "5616e598f10c0a86a5c194c1a7f22990",
+            "http://codh.rois.ac.jp/pmjt/book/200021802/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99264/default.jpg",
+            "しつか",
+            "cb7610575baf33c5011c1c1a2cfa2827",
+            "http://codh.rois.ac.jp/pmjt/book/200003070/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99265/default.jpg",
+            "安永武鑑",
+            "76441604ba13e60333a4e29f671f0b8e",
+            "http://codh.rois.ac.jp/pmjt/book/200018796/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99266/default.jpg",
+            "紫家七論",
+            "440ff2c55df933c924f181a0142cc059",
+            "http://codh.rois.ac.jp/pmjt/book/200003420/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99267/default.jpg",
+            "宇津保物語",
+            "59ede37254acf1680c4d317b9f31af5f",
+            "http://codh.rois.ac.jp/pmjt/book/200017526/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99268/default.jpg",
+            "宝暦武鑑",
+            "06d624a9b6f17c2c1cec1c656b54c1b1",
+            "http://codh.rois.ac.jp/pmjt/book/200018779/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99269/default.jpg",
+            "絵本野山草",
+            "6b4af98164e3e44370603213a512013c",
+            "http://codh.rois.ac.jp/pmjt/book/200017176/manifest"
+        ]
+    ],
+    "page": 1
+}

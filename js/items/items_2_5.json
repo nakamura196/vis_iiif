@@ -1,0 +1,53 @@
+{
+    "items": [
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99270/default.jpg",
+            "袖珍武鑑",
+            "879377e03521fea3908c9875962ae1e9",
+            "http://codh.rois.ac.jp/pmjt/book/200019538/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99271/default.jpg",
+            "班女",
+            "6bf3c046bb03f952521aab36b5e90df9",
+            "http://codh.rois.ac.jp/pmjt/book/200013135/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99272/default.jpg",
+            "袖玉武鑑",
+            "635e12bdd2af29b029f3eb3354c9296f",
+            "http://codh.rois.ac.jp/pmjt/book/200019492/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99273/default.jpg",
+            "衣食訓",
+            "1ed361665d81fc8abf31679494d5192c",
+            "http://codh.rois.ac.jp/pmjt/book/100249443/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99294/default.jpg",
+            "袖玉武鑑",
+            "3749c559de432570380bf65fc9d08d8e",
+            "http://codh.rois.ac.jp/pmjt/book/200019646/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99295/default.jpg",
+            "中将姫本地",
+            "3d69e9203f663971973d24c9bd6b2ff6",
+            "http://codh.rois.ac.jp/pmjt/book/200010467/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99296/default.jpg",
+            "精進料理かやくの事他",
+            "b84b262d503c0b9e7aa803a14ae4c16e",
+            "http://codh.rois.ac.jp/pmjt/book/100249910/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99297/default.jpg",
+            "伊勢物語",
+            "da232f7c369903f517af4b6772d07e53",
+            "http://codh.rois.ac.jp/pmjt/book/200024991/manifest"
+        ]
+    ],
+    "page": 2
+}

@@ -1,0 +1,53 @@
+{
+    "items": [
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99298/default.jpg",
+            "源氏物語画帖",
+            "79f94054bd6a446db4ecca2f2bc839c1",
+            "http://codh.rois.ac.jp/pmjt/book/200014998/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99299/default.jpg",
+            "風雨天眼通",
+            "494e38f05cf96a2e8acfe4d05c3c77df",
+            "http://codh.rois.ac.jp/pmjt/book/200022003/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99300/default.jpg",
+            "婦嬰新説",
+            "0c6eaeef5712542ae0285ae849011a44",
+            "http://codh.rois.ac.jp/pmjt/book/200021785/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99301/default.jpg",
+            "絵本吾妻抉",
+            "25a4e908b0b46e8900f4f907fb5b609d",
+            "http://codh.rois.ac.jp/pmjt/book/100249506/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99302/default.jpg",
+            "大成武鑑",
+            "e012c5b73227eb08c94274b56ff344ad",
+            "http://codh.rois.ac.jp/pmjt/book/200019353/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99303/default.jpg",
+            "伊勢物語拾穂抄",
+            "650edd9d3d0845fdbe3db89deea8dfcc",
+            "http://codh.rois.ac.jp/pmjt/book/200025115/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99304/default.jpg",
+            "有司武鑑",
+            "6648944b8bf78cc6440c316ecbefca59",
+            "http://codh.rois.ac.jp/pmjt/book/200019580/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99305/default.jpg",
+            "伊勢物語抄",
+            "edec0e21838efaeb7f076552da010591",
+            "http://codh.rois.ac.jp/pmjt/book/200025050/manifest"
+        ]
+    ],
+    "page": 3
+}

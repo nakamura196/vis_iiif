@@ -1,0 +1,138 @@
+[
+    {
+        "id": "centuries",
+        "label": "Year Created",
+        "markers": [
+            {
+                "count": 40,
+                "h": 30,
+                "label": "日本古典籍データセット　dataset of pre-modern japanese text",
+                "url": "",
+                "value": "日本古典籍データセット　Dataset of Pre-Modern Japanese Text"
+            }
+        ]
+    },
+    {
+        "id": "genres",
+        "label": "Genre",
+        "markers": [
+            {
+                "count": 40,
+                "h": 30,
+                "label": "Http://creativecommons.org/licenses/by-sa/4.0/",
+                "url": "",
+                "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ]
+    },
+    {
+        "id": "collections",
+        "label": "Collection",
+        "markers": [
+            {
+                "count": 40,
+                "h": 30,
+                "label": "Center for open data in the humanities",
+                "url": "",
+                "value": "Center for Open Data in the Humanities"
+            }
+        ]
+    },
+    {
+        "id": "colors",
+        "label": "Color",
+        "markers": [
+            {
+                "count": 0,
+                "h": 30,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 2,
+                "h": 30,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 4,
+                "h": 30,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 3,
+                "h": 30,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 1,
+                "h": 30,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 15,
+                "h": 30,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 11,
+                "h": 30,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 0,
+                "h": 30,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 0,
+                "h": 30,
+                "label": "Black",
+                "url": "",
+                "value": [
+                    "#000000"
+                ]
+            },
+            {
+                "count": 4,
+                "h": 30,
+                "label": "Unknown",
+                "url": "",
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    }
+]

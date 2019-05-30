@@ -1,0 +1,53 @@
+{
+    "items": [
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99254/default.jpg",
+            "遠西医方名物考",
+            "afb94269fe03f0d99a3b26cf0c24d016",
+            "http://codh.rois.ac.jp/pmjt/book/200021697/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99255/default.jpg",
+            "袖珍武鑑",
+            "72c4a57d4229e97750ede4c62cf6c747",
+            "http://codh.rois.ac.jp/pmjt/book/200019611/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99256/default.jpg",
+            "文政武鑑",
+            "ba3fe34a0a32c82ac5fc223e5611ca84",
+            "http://codh.rois.ac.jp/pmjt/book/200018903/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99257/default.jpg",
+            "大和廻り道の枝折",
+            "4471afefd87540feb2caf0aa558fd393",
+            "http://codh.rois.ac.jp/pmjt/book/200021678/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99258/default.jpg",
+            "西洋料理通",
+            "8e2782d93a30c44c127a19eb8dbb8ec4",
+            "http://codh.rois.ac.jp/pmjt/book/100249802/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99259/default.jpg",
+            "新編宮雛形",
+            "e9514be7eafb56f2003b4e1742ec96f6",
+            "http://codh.rois.ac.jp/pmjt/book/200022054/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99260/default.jpg",
+            "南総里見八犬伝",
+            "29bca3784ec310f39294198e45512151",
+            "http://codh.rois.ac.jp/pmjt/book/200003973/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99261/default.jpg",
+            "歌仙料理",
+            "1c92ab7b6dba34929696134471b65cec",
+            "http://codh.rois.ac.jp/pmjt/book/100249382/manifest"
+        ]
+    ],
+    "page": 0
+}

@@ -1,0 +1,53 @@
+{
+    "items": [
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99306/default.jpg",
+            "経済録",
+            "93d3976d3e63dcc533271b1e88bef10f",
+            "http://codh.rois.ac.jp/pmjt/book/200021910/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99307/default.jpg",
+            "絵本玉かつら",
+            "a8c47ab8444f4cdbbbaa36b045997a33",
+            "http://codh.rois.ac.jp/pmjt/book/200013861/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99308/default.jpg",
+            "絵本勇見山",
+            "3a7241cbd4c6996927c80bb147cd2bcf",
+            "http://codh.rois.ac.jp/pmjt/book/200022853/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99309/default.jpg",
+            "天保武鑑",
+            "a484ecb12a65795c7f4382ca0baad537",
+            "http://codh.rois.ac.jp/pmjt/book/200018942/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99310/default.jpg",
+            "袖珍武鑑",
+            "87b1368a1ed02374e29b27e68cadb048",
+            "http://codh.rois.ac.jp/pmjt/book/200019650/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99311/default.jpg",
+            "安政武鑑",
+            "5a45433f340fba6ed099d18ac97b0fe2",
+            "http://codh.rois.ac.jp/pmjt/book/200019345/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99312/default.jpg",
+            "甘藷百珍",
+            "bd0bcf658de212ca17b932b5258ed8d7",
+            "http://codh.rois.ac.jp/pmjt/book/100249510/manifest"
+        ],
+        [
+            "http://iiif2.dl.itc.u-tokyo.ac.jp/files/medium/99313/default.jpg",
+            "医心方",
+            "07f942bb3b388e190cf3d95db8010bf4",
+            "http://codh.rois.ac.jp/pmjt/book/200021793/manifest"
+        ]
+    ],
+    "page": 4
+}
