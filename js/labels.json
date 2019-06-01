@@ -1,7 +1,104 @@
 [
     {
+        "id": "colors",
+        "label": "Color",
+        "markers": [
+            {
+                "count": 376,
+                "h": 30,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 901,
+                "h": 30,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 7190,
+                "h": 180,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 5291,
+                "h": 135,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 10013,
+                "h": 255,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 40484,
+                "h": 1015,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 44218,
+                "h": 1110,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 2030,
+                "h": 55,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 38,
+                "h": 30,
+                "label": "Black",
+                "url": "",
+                "value": [
+                    "#000000"
+                ]
+            },
+            {
+                "count": 78937,
+                "h": 1975,
+                "label": "Unknown",
+                "url": "",
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "centuries",
-        "label": "Year Created",
+        "label": "Digitized Publisher",
         "markers": [
             {
                 "count": 41542,
@@ -126,7 +223,7 @@
     },
     {
         "id": "genres",
-        "label": "Genre",
+        "label": "License",
         "markers": [
             {
                 "count": 50920,
@@ -462,103 +559,6 @@
                 "label": "Unknown",
                 "url": "",
                 "value": ""
-            }
-        ]
-    },
-    {
-        "id": "colors",
-        "label": "Color",
-        "markers": [
-            {
-                "count": 376,
-                "h": 30,
-                "label": "Red",
-                "url": "",
-                "value": [
-                    "#f00",
-                    "#f0f"
-                ]
-            },
-            {
-                "count": 901,
-                "h": 30,
-                "label": "Green",
-                "url": "",
-                "value": [
-                    "#0f0"
-                ]
-            },
-            {
-                "count": 7190,
-                "h": 180,
-                "label": "Blue",
-                "url": "",
-                "value": [
-                    "#00f"
-                ]
-            },
-            {
-                "count": 5291,
-                "h": 135,
-                "label": "Orange",
-                "url": "",
-                "value": [
-                    "#ffa500"
-                ]
-            },
-            {
-                "count": 10013,
-                "h": 255,
-                "label": "Yellow",
-                "url": "",
-                "value": [
-                    "#ff0"
-                ]
-            },
-            {
-                "count": 40484,
-                "h": 1015,
-                "label": "Brown",
-                "url": "",
-                "value": [
-                    "#e06f1f"
-                ]
-            },
-            {
-                "count": 44218,
-                "h": 1110,
-                "label": "Gray",
-                "url": "",
-                "value": [
-                    "#777777"
-                ]
-            },
-            {
-                "count": 2030,
-                "h": 55,
-                "label": "White",
-                "url": "",
-                "value": [
-                    "#ffffff"
-                ]
-            },
-            {
-                "count": 38,
-                "h": 30,
-                "label": "Black",
-                "url": "",
-                "value": [
-                    "#000000"
-                ]
-            },
-            {
-                "count": 78937,
-                "h": 1975,
-                "label": "Unknown",
-                "url": "",
-                "value": [
-                    ""
-                ]
             }
         ]
     }
