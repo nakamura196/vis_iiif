@@ -4,11 +4,123 @@
         "label": "Year Created",
         "markers": [
             {
-                "count": 259821,
-                "h": 6500,
-                "label": "Ddd",
+                "count": 41542,
+                "h": 1040,
+                "label": "Center for open data in the humanities",
                 "url": "",
-                "value": "ddd"
+                "value": "Center for Open Data in the Humanities"
+            },
+            {
+                "count": 205,
+                "h": 30,
+                "label": "Nakano city library",
+                "url": "",
+                "value": "Nakano City Library"
+            },
+            {
+                "count": 500,
+                "h": 30,
+                "label": "National institute for japanese language and linguistics",
+                "url": "",
+                "value": "National Institute for Japanese Language and Linguistics"
+            },
+            {
+                "count": 71715,
+                "h": 1795,
+                "label": "National institute of japanese literature",
+                "url": "",
+                "value": "National Institute of Japanese Literature"
+            },
+            {
+                "count": 15549,
+                "h": 390,
+                "label": "National museum of japanese history",
+                "url": "",
+                "value": "National Museum of Japanese History"
+            },
+            {
+                "count": 1213,
+                "h": 35,
+                "label": "Saga university ",
+                "url": "",
+                "value": "Saga University "
+            },
+            {
+                "count": 6019,
+                "h": 155,
+                "label": "九州大学 kyushu university",
+                "url": "",
+                "value": "九州大学 Kyushu University"
+            },
+            {
+                "count": 10215,
+                "h": 260,
+                "label": "京都大学 kyoto university",
+                "url": "",
+                "value": "京都大学 Kyoto University"
+            },
+            {
+                "count": 2065,
+                "h": 55,
+                "label": "佐賀県立図書館 saga prefectural library",
+                "url": "",
+                "value": "佐賀県立図書館 Saga Prefectural Library"
+            },
+            {
+                "count": 1520,
+                "h": 40,
+                "label": "千葉大学 chiba university",
+                "url": "",
+                "value": "千葉大学 Chiba University"
+            },
+            {
+                "count": 2379,
+                "h": 60,
+                "label": "島根大学 shimane university",
+                "url": "",
+                "value": "島根大学 Shimane University"
+            },
+            {
+                "count": 2895,
+                "h": 75,
+                "label": "慶應義塾大学メディアセンター keio university libraries",
+                "url": "",
+                "value": "慶應義塾大学メディアセンター Keio University Libraries"
+            },
+            {
+                "count": 22392,
+                "h": 560,
+                "label": "東京大学 the university of tokyo",
+                "url": "",
+                "value": "東京大学 The University of Tokyo"
+            },
+            {
+                "count": 1148,
+                "h": 30,
+                "label": "沖縄県立図書館 okinawa prefectural library",
+                "url": "",
+                "value": "沖縄県立図書館 Okinawa Prefectural Library"
+            },
+            {
+                "count": 413,
+                "h": 30,
+                "label": "近畿大学 kindai university",
+                "url": "",
+                "value": "近畿大学 Kindai University"
+            },
+            {
+                "count": 2890,
+                "h": 75,
+                "label": "関西大学アジア・オープン・リサーチセンター ku-orcas",
+                "url": "",
+                "value": "関西大学アジア・オープン・リサーチセンター KU-ORCAS"
+            },
+            {
+                "count": 6818,
+                "h": 175,
+                "label": "Unknown",
+                "url": "",
+                "value": ""
             }
         ]
     },
@@ -17,11 +129,179 @@
         "label": "Genre",
         "markers": [
             {
-                "count": 259821,
-                "h": 6500,
-                "label": "Ccc",
+                "count": 50920,
+                "h": 1275,
+                "label": "Http://kotenseki.nijl.ac.jp/page/usage.html",
                 "url": "",
-                "value": "ccc"
+                "value": "http://kotenseki.nijl.ac.jp/page/usage.html"
+            },
+            {
+                "count": 42717,
+                "h": 1070,
+                "label": "Http://creativecommons.org/licenses/by/4.0/",
+                "url": "",
+                "value": "http://creativecommons.org/licenses/by/4.0/"
+            },
+            {
+                "count": 20320,
+                "h": 510,
+                "label": "Http://creativecommons.org/publicdomain/mark/1.0/",
+                "url": "",
+                "value": "http://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+                "count": 20072,
+                "h": 505,
+                "label": "Https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja",
+                "url": "",
+                "value": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja"
+            },
+            {
+                "count": 15502,
+                "h": 390,
+                "label": "Https://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "url": "",
+                "value": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            {
+                "count": 10215,
+                "h": 260,
+                "label": "Https://rmda.kulib.kyoto-u.ac.jp/reuse",
+                "url": "",
+                "value": "https://rmda.kulib.kyoto-u.ac.jp/reuse"
+            },
+            {
+                "count": 5489,
+                "h": 140,
+                "label": "Http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice",
+                "url": "",
+                "value": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice"
+            },
+            {
+                "count": 3492,
+                "h": 90,
+                "label": "Https://www.lib.kyushu-u.ac.jp/reuse",
+                "url": "",
+                "value": "https://www.lib.kyushu-u.ac.jp/reuse"
+            },
+            {
+                "count": 2379,
+                "h": 60,
+                "label": "Https://creativecommons.org/licenses/by/4.0/deed.ja",
+                "url": "",
+                "value": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+            },
+            {
+                "count": 2123,
+                "h": 55,
+                "label": "Https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse",
+                "url": "",
+                "value": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+            },
+            {
+                "count": 2065,
+                "h": 55,
+                "label": "Https://www.sagalibdb.jp/info/",
+                "url": "",
+                "value": "https://www.sagalibdb.jp/info/"
+            },
+            {
+                "count": 1794,
+                "h": 45,
+                "label": "Http://creativecommons.org/licenses/by-sa/4.0/",
+                "url": "",
+                "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            {
+                "count": 1213,
+                "h": 35,
+                "label": "Http://creativecommons.org/licenses/by-nc-sa/4.0/",
+                "url": "",
+                "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            {
+                "count": 977,
+                "h": 30,
+                "label": "Http://museum.umic.jp/iiif/license.html",
+                "url": "",
+                "value": "http://museum.umic.jp/iiif/license.html"
+            },
+            {
+                "count": 847,
+                "h": 30,
+                "label": "Https://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+                "url": "",
+                "value": "https://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun"
+            },
+            {
+                "count": 754,
+                "h": 30,
+                "label": " http://rightsstatements.org/vocab/noc-cr/1.0/",
+                "url": "",
+                "value": " http://rightsstatements.org/vocab/NoC-CR/1.0/"
+            },
+            {
+                "count": 627,
+                "h": 30,
+                "label": "Https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja",
+                "url": "",
+                "value": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja"
+            },
+            {
+                "count": 594,
+                "h": 30,
+                "label": "Https://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+                "url": "",
+                "value": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+            },
+            {
+                "count": 542,
+                "h": 30,
+                "label": "Http://rightsstatements.org/vocab/noc-cr/1.0/",
+                "url": "",
+                "value": "http://rightsstatements.org/vocab/NoC-CR/1.0/"
+            },
+            {
+                "count": 245,
+                "h": 30,
+                "label": "Http://dsr.nii.ac.jp/toyobunko/license/",
+                "url": "",
+                "value": "http://dsr.nii.ac.jp/toyobunko/license/"
+            },
+            {
+                "count": 224,
+                "h": 30,
+                "label": "Http://rightsstatements.org/vocab/inc/1.0/",
+                "url": "",
+                "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+                "count": 172,
+                "h": 30,
+                "label": "Http://ikuto.p.u-tokyo.ac.jp/reuse.html",
+                "url": "",
+                "value": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+            },
+            {
+                "count": 77,
+                "h": 30,
+                "label": "Cc-by<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/",
+                "url": "",
+                "value": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+            },
+            {
+                "count": 85,
+                "h": 30,
+                "label": "Other",
+                "url": "",
+                "value": ""
+            },
+            {
+                "count": 6033,
+                "h": 155,
+                "label": "Unknown",
+                "url": "",
+                "value": ""
             }
         ]
     },
@@ -30,11 +310,158 @@
         "label": "Collection",
         "markers": [
             {
-                "count": 259821,
-                "h": 6500,
-                "label": "Eee",
+                "count": 71715,
+                "h": 1795,
+                "label": "Database of pre-modern japanese works",
                 "url": "",
-                "value": "eee"
+                "value": "Database of Pre-Modern Japanese Works"
+            },
+            {
+                "count": 39775,
+                "h": 995,
+                "label": "華北交通アーカイブ digital archive of north china railway",
+                "url": "",
+                "value": "華北交通アーカイブ Digital Archive of North China Railway"
+            },
+            {
+                "count": 17430,
+                "h": 440,
+                "label": "東京大学文書館デジタル・アーカイブ utarchives digital archive",
+                "url": "",
+                "value": "東京大学文書館デジタル・アーカイブ UTArchives Digital Archive"
+            },
+            {
+                "count": 15549,
+                "h": 390,
+                "label": "Khirin, (knowledgebase of historical resources in institutes)",
+                "url": "",
+                "value": "khirin, (Knowledgebase of Historical Resources in Institutes)"
+            },
+            {
+                "count": 10215,
+                "h": 260,
+                "label": "京都大学貴重資料デジタルアーカイブ　kyoto university rare materials digital archive",
+                "url": "",
+                "value": "京都大学貴重資料デジタルアーカイブ　Kyoto University Rare Materials Digital Archive"
+            },
+            {
+                "count": 6019,
+                "h": 155,
+                "label": "九州大学貴重書画像データベース kyushu university's unique collection",
+                "url": "",
+                "value": "九州大学貴重書画像データベース Kyushu University's unique collection"
+            },
+            {
+                "count": 2895,
+                "h": 75,
+                "label": "慶應義塾大学メディアセンターデジタルコレクション keio d collections",
+                "url": "",
+                "value": "慶應義塾大学メディアセンターデジタルコレクション Keio D Collections"
+            },
+            {
+                "count": 2890,
+                "h": 75,
+                "label": "関西大学デジタルアーカイブ",
+                "url": "",
+                "value": "関西大学デジタルアーカイブ"
+            },
+            {
+                "count": 2379,
+                "h": 60,
+                "label": "島根大学附属図書館デジタルアーカイブ",
+                "url": "",
+                "value": "島根大学附属図書館デジタルアーカイブ"
+            },
+            {
+                "count": 2330,
+                "h": 60,
+                "label": "東京大学学術資産等アーカイブズ共用サーバ utokyo academic archives repository",
+                "url": "",
+                "value": "東京大学学術資産等アーカイブズ共用サーバ UTokyo Academic Archives Repository"
+            },
+            {
+                "count": 2065,
+                "h": 55,
+                "label": "佐賀県立図書館データベース saga prefectural library database",
+                "url": "",
+                "value": "佐賀県立図書館データベース Saga Prefectural Library Database"
+            },
+            {
+                "count": 1767,
+                "h": 45,
+                "label": "日本古典籍データセット　dataset of pre-modern japanese text",
+                "url": "",
+                "value": "日本古典籍データセット　Dataset of Pre-Modern Japanese Text"
+            },
+            {
+                "count": 1759,
+                "h": 45,
+                "label": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 wan li ban da zang jing (jia xing zang / jing shan zang) digital edition",
+                "url": "",
+                "value": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 Wan Li Ban Da Zang Jing (Jia Xing Zang / Jing Shan Zang) Digital Edition"
+            },
+            {
+                "count": 1520,
+                "h": 40,
+                "label": "千葉大学学術リソースコレクション c-arc chiba university academic resource collections",
+                "url": "",
+                "value": "千葉大学学術リソースコレクション c-arc Chiba University Academic Resource Collections"
+            },
+            {
+                "count": 1213,
+                "h": 35,
+                "label": "小城藩日記データベース",
+                "url": "",
+                "value": "小城藩日記データベース"
+            },
+            {
+                "count": 1148,
+                "h": 30,
+                "label": "沖縄県立図書館 貴重資料デジタル書庫",
+                "url": "",
+                "value": "沖縄県立図書館 貴重資料デジタル書庫"
+            },
+            {
+                "count": 847,
+                "h": 30,
+                "label": "Digital cultural heritage",
+                "url": "",
+                "value": "Digital Cultural Heritage"
+            },
+            {
+                "count": 500,
+                "h": 30,
+                "label": "日本語史研究資料 [国立国語研究所蔵]",
+                "url": "",
+                "value": "日本語史研究資料 [国立国語研究所蔵]"
+            },
+            {
+                "count": 413,
+                "h": 30,
+                "label": "近畿大学貴重資料デジタルアーカイブ kindai university rare materials digital archive",
+                "url": "",
+                "value": "近畿大学貴重資料デジタルアーカイブ Kindai University Rare Materials Digital Archive"
+            },
+            {
+                "count": 205,
+                "h": 30,
+                "label": "中野区立図書館デジタルアーカイブ",
+                "url": "",
+                "value": "中野区立図書館デジタルアーカイブ"
+            },
+            {
+                "count": 42,
+                "h": 30,
+                "label": "Other",
+                "url": "",
+                "value": ""
+            },
+            {
+                "count": 6802,
+                "h": 175,
+                "label": "Unknown",
+                "url": "",
+                "value": ""
             }
         ]
     },
@@ -43,7 +470,7 @@
         "label": "Color",
         "markers": [
             {
-                "count": 0,
+                "count": 376,
                 "h": 30,
                 "label": "Red",
                 "url": "",
@@ -53,7 +480,7 @@
                 ]
             },
             {
-                "count": 506,
+                "count": 901,
                 "h": 30,
                 "label": "Green",
                 "url": "",
@@ -62,8 +489,8 @@
                 ]
             },
             {
-                "count": 1,
-                "h": 30,
+                "count": 7190,
+                "h": 180,
                 "label": "Blue",
                 "url": "",
                 "value": [
@@ -71,8 +498,8 @@
                 ]
             },
             {
-                "count": 2543,
-                "h": 65,
+                "count": 5291,
+                "h": 135,
                 "label": "Orange",
                 "url": "",
                 "value": [
@@ -80,8 +507,8 @@
                 ]
             },
             {
-                "count": 7969,
-                "h": 200,
+                "count": 10013,
+                "h": 255,
                 "label": "Yellow",
                 "url": "",
                 "value": [
@@ -89,8 +516,8 @@
                 ]
             },
             {
-                "count": 1717,
-                "h": 45,
+                "count": 40484,
+                "h": 1015,
                 "label": "Brown",
                 "url": "",
                 "value": [
@@ -98,8 +525,8 @@
                 ]
             },
             {
-                "count": 29297,
-                "h": 735,
+                "count": 44218,
+                "h": 1110,
                 "label": "Gray",
                 "url": "",
                 "value": [
@@ -107,8 +534,8 @@
                 ]
             },
             {
-                "count": 495,
-                "h": 30,
+                "count": 2030,
+                "h": 55,
                 "label": "White",
                 "url": "",
                 "value": [
@@ -116,7 +543,7 @@
                 ]
             },
             {
-                "count": 2,
+                "count": 38,
                 "h": 30,
                 "label": "Black",
                 "url": "",
@@ -125,8 +552,8 @@
                 ]
             },
             {
-                "count": 217291,
-                "h": 5435,
+                "count": 78937,
+                "h": 1975,
                 "label": "Unknown",
                 "url": "",
                 "value": [

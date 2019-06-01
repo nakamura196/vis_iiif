@@ -1,9 +1,121 @@
 [
     {
-        "count": 259821,
-        "index": 0,
-        "label": "Ddd",
+        "count": 6818,
+        "index": 1,
+        "label": "Unknown",
         "url": "",
-        "value": "ddd"
+        "value": ""
+    },
+    {
+        "count": 41542,
+        "index": 3,
+        "label": "Center for open data in the humanities",
+        "url": "",
+        "value": "Center for Open Data in the Humanities"
+    },
+    {
+        "count": 205,
+        "index": 16,
+        "label": "Nakano city library",
+        "url": "",
+        "value": "Nakano City Library"
+    },
+    {
+        "count": 500,
+        "index": 14,
+        "label": "National institute for japanese language and linguistics",
+        "url": "",
+        "value": "National Institute for Japanese Language and Linguistics"
+    },
+    {
+        "count": 71715,
+        "index": 8,
+        "label": "National institute of japanese literature",
+        "url": "",
+        "value": "National Institute of Japanese Literature"
+    },
+    {
+        "count": 15549,
+        "index": 10,
+        "label": "National museum of japanese history",
+        "url": "",
+        "value": "National Museum of Japanese History"
+    },
+    {
+        "count": 1213,
+        "index": 13,
+        "label": "Saga university ",
+        "url": "",
+        "value": "Saga University "
+    },
+    {
+        "count": 6019,
+        "index": 5,
+        "label": "九州大学 kyushu university",
+        "url": "",
+        "value": "九州大学 Kyushu University"
+    },
+    {
+        "count": 10215,
+        "index": 15,
+        "label": "京都大学 kyoto university",
+        "url": "",
+        "value": "京都大学 Kyoto University"
+    },
+    {
+        "count": 2065,
+        "index": 2,
+        "label": "佐賀県立図書館 saga prefectural library",
+        "url": "",
+        "value": "佐賀県立図書館 Saga Prefectural Library"
+    },
+    {
+        "count": 1520,
+        "index": 7,
+        "label": "千葉大学 chiba university",
+        "url": "",
+        "value": "千葉大学 Chiba University"
+    },
+    {
+        "count": 2379,
+        "index": 12,
+        "label": "島根大学 shimane university",
+        "url": "",
+        "value": "島根大学 Shimane University"
+    },
+    {
+        "count": 2895,
+        "index": 11,
+        "label": "慶應義塾大学メディアセンター keio university libraries",
+        "url": "",
+        "value": "慶應義塾大学メディアセンター Keio University Libraries"
+    },
+    {
+        "count": 22392,
+        "index": 4,
+        "label": "東京大学 the university of tokyo",
+        "url": "",
+        "value": "東京大学 The University of Tokyo"
+    },
+    {
+        "count": 1148,
+        "index": 6,
+        "label": "沖縄県立図書館 okinawa prefectural library",
+        "url": "",
+        "value": "沖縄県立図書館 Okinawa Prefectural Library"
+    },
+    {
+        "count": 413,
+        "index": 9,
+        "label": "近畿大学 kindai university",
+        "url": "",
+        "value": "近畿大学 Kindai University"
+    },
+    {
+        "count": 2890,
+        "index": 0,
+        "label": "関西大学アジア・オープン・リサーチセンター ku-orcas",
+        "url": "",
+        "value": "関西大学アジア・オープン・リサーチセンター KU-ORCAS"
     }
 ]

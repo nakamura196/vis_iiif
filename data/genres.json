@@ -1,9 +1,212 @@
 [
     {
-        "count": 259821,
-        "index": 0,
-        "label": "Ccc",
+        "count": 50920,
+        "index": 15,
+        "label": "Http://kotenseki.nijl.ac.jp/page/usage.html",
         "url": "",
-        "value": "ccc"
+        "value": "http://kotenseki.nijl.ac.jp/page/usage.html"
+    },
+    {
+        "count": 42717,
+        "index": 3,
+        "label": "Http://creativecommons.org/licenses/by/4.0/",
+        "url": "",
+        "value": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+        "count": 20320,
+        "index": 0,
+        "label": "Http://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "",
+        "value": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+        "count": 20072,
+        "index": 16,
+        "label": "Https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja"
+    },
+    {
+        "count": 15502,
+        "index": 20,
+        "label": "Https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+        "count": 10215,
+        "index": 27,
+        "label": "Https://rmda.kulib.kyoto-u.ac.jp/reuse",
+        "url": "",
+        "value": "https://rmda.kulib.kyoto-u.ac.jp/reuse"
+    },
+    {
+        "count": 6033,
+        "index": 1,
+        "label": "Unknown",
+        "url": "",
+        "value": ""
+    },
+    {
+        "count": 5489,
+        "index": 14,
+        "label": "Http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice",
+        "url": "",
+        "value": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice"
+    },
+    {
+        "count": 3492,
+        "index": 5,
+        "label": "Https://www.lib.kyushu-u.ac.jp/reuse",
+        "url": "",
+        "value": "https://www.lib.kyushu-u.ac.jp/reuse"
+    },
+    {
+        "count": 2379,
+        "index": 24,
+        "label": "Https://creativecommons.org/licenses/by/4.0/deed.ja",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+    },
+    {
+        "count": 2123,
+        "index": 8,
+        "label": "Https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse",
+        "url": "",
+        "value": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+    },
+    {
+        "count": 2065,
+        "index": 2,
+        "label": "Https://www.sagalibdb.jp/info/",
+        "url": "",
+        "value": "https://www.sagalibdb.jp/info/"
+    },
+    {
+        "count": 1794,
+        "index": 22,
+        "label": "Http://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "",
+        "value": "http://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+        "count": 1213,
+        "index": 25,
+        "label": "Http://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "url": "",
+        "value": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+        "count": 977,
+        "index": 13,
+        "label": "Http://museum.umic.jp/iiif/license.html",
+        "url": "",
+        "value": "http://museum.umic.jp/iiif/license.html"
+    },
+    {
+        "count": 847,
+        "index": 4,
+        "label": "Https://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun",
+        "url": "",
+        "value": "https://dch.iii.u-tokyo.ac.jp/s/dch/page/license_shimbun"
+    },
+    {
+        "count": 754,
+        "index": 10,
+        "label": " http://rightsstatements.org/vocab/noc-cr/1.0/",
+        "url": "",
+        "value": " http://rightsstatements.org/vocab/NoC-CR/1.0/"
+    },
+    {
+        "count": 627,
+        "index": 17,
+        "label": "Https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja"
+    },
+    {
+        "count": 594,
+        "index": 18,
+        "label": "Https://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+    },
+    {
+        "count": 542,
+        "index": 11,
+        "label": "Http://rightsstatements.org/vocab/noc-cr/1.0/",
+        "url": "",
+        "value": "http://rightsstatements.org/vocab/NoC-CR/1.0/"
+    },
+    {
+        "count": 245,
+        "index": 23,
+        "label": "Http://dsr.nii.ac.jp/toyobunko/license/",
+        "url": "",
+        "value": "http://dsr.nii.ac.jp/toyobunko/license/"
+    },
+    {
+        "count": 224,
+        "index": 12,
+        "label": "Http://rightsstatements.org/vocab/inc/1.0/",
+        "url": "",
+        "value": "http://rightsstatements.org/vocab/InC/1.0/"
+    },
+    {
+        "count": 172,
+        "index": 9,
+        "label": "Http://ikuto.p.u-tokyo.ac.jp/reuse.html",
+        "url": "",
+        "value": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+    },
+    {
+        "count": 77,
+        "index": 28,
+        "label": "Cc-by<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/",
+        "url": "",
+        "value": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+    },
+    {
+        "count": 47,
+        "index": 21,
+        "label": "Https://creativecommons.org/licenses/by/4.0/deed",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by/4.0/deed"
+    },
+    {
+        "count": 20,
+        "index": 7,
+        "label": "Https://www.lib.kyushu-u.ac.jp/ja/services/visitors/copyright-guidance",
+        "url": "",
+        "value": "https://www.lib.kyushu-u.ac.jp/ja/services/visitors/copyright-guidance"
+    },
+    {
+        "count": 10,
+        "index": 6,
+        "label": "Https://www.lib.kyushu-u.ac.jp/services/visitors/copyright-guidance",
+        "url": "",
+        "value": "https://www.lib.kyushu-u.ac.jp/services/visitors/copyright-guidance"
+    },
+    {
+        "count": 5,
+        "index": 26,
+        "label": "Https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+        "url": "",
+        "value": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+    },
+    {
+        "count": 2,
+        "index": 29,
+        "label": "以下urlを参照。https://archive.nakano-library.jp/horiekemonjo-howto/",
+        "url": "",
+        "value": "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
+    },
+    {
+        "count": 1,
+        "index": 19,
+        "label": "Https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+        "url": "",
+        "value": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja"
     }
 ]

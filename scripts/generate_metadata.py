@@ -26,9 +26,9 @@ with open(INPUT_FILE, 'r') as f:
 for item in data:
 
     captureId = item["s"]
-    uuid = item["image"]
-    title = item["label"]
-    manifest = item["manifest"]
+    uuid = item["image"] if "image" in item else ""
+    title = item["label"] if "label" in item else ""
+    manifest = item["manifest"] if "manifest" in item else ""
     items.append([uuid, title, captureId, manifest])
 
 # Write out data

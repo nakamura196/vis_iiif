@@ -1,9 +1,163 @@
 [
     {
-        "count": 259821,
-        "index": 0,
-        "label": "Eee",
+        "count": 71715,
+        "index": 11,
+        "label": "Database of pre-modern japanese works",
         "url": "",
-        "value": "eee"
+        "value": "Database of Pre-Modern Japanese Works"
+    },
+    {
+        "count": 39775,
+        "index": 3,
+        "label": "華北交通アーカイブ digital archive of north china railway",
+        "url": "",
+        "value": "華北交通アーカイブ Digital Archive of North China Railway"
+    },
+    {
+        "count": 17430,
+        "index": 7,
+        "label": "東京大学文書館デジタル・アーカイブ utarchives digital archive",
+        "url": "",
+        "value": "東京大学文書館デジタル・アーカイブ UTArchives Digital Archive"
+    },
+    {
+        "count": 15549,
+        "index": 13,
+        "label": "Khirin, (knowledgebase of historical resources in institutes)",
+        "url": "",
+        "value": "khirin, (Knowledgebase of Historical Resources in Institutes)"
+    },
+    {
+        "count": 10215,
+        "index": 19,
+        "label": "京都大学貴重資料デジタルアーカイブ　kyoto university rare materials digital archive",
+        "url": "",
+        "value": "京都大学貴重資料デジタルアーカイブ　Kyoto University Rare Materials Digital Archive"
+    },
+    {
+        "count": 6802,
+        "index": 1,
+        "label": "Unknown",
+        "url": "",
+        "value": ""
+    },
+    {
+        "count": 6019,
+        "index": 5,
+        "label": "九州大学貴重書画像データベース kyushu university's unique collection",
+        "url": "",
+        "value": "九州大学貴重書画像データベース Kyushu University's unique collection"
+    },
+    {
+        "count": 2895,
+        "index": 14,
+        "label": "慶應義塾大学メディアセンターデジタルコレクション keio d collections",
+        "url": "",
+        "value": "慶應義塾大学メディアセンターデジタルコレクション Keio D Collections"
+    },
+    {
+        "count": 2890,
+        "index": 0,
+        "label": "関西大学デジタルアーカイブ",
+        "url": "",
+        "value": "関西大学デジタルアーカイブ"
+    },
+    {
+        "count": 2379,
+        "index": 16,
+        "label": "島根大学附属図書館デジタルアーカイブ",
+        "url": "",
+        "value": "島根大学附属図書館デジタルアーカイブ"
+    },
+    {
+        "count": 2330,
+        "index": 8,
+        "label": "東京大学学術資産等アーカイブズ共用サーバ utokyo academic archives repository",
+        "url": "",
+        "value": "東京大学学術資産等アーカイブズ共用サーバ UTokyo Academic Archives Repository"
+    },
+    {
+        "count": 2065,
+        "index": 2,
+        "label": "佐賀県立図書館データベース saga prefectural library database",
+        "url": "",
+        "value": "佐賀県立図書館データベース Saga Prefectural Library Database"
+    },
+    {
+        "count": 1767,
+        "index": 22,
+        "label": "日本古典籍データセット　dataset of pre-modern japanese text",
+        "url": "",
+        "value": "日本古典籍データセット　Dataset of Pre-Modern Japanese Text"
+    },
+    {
+        "count": 1759,
+        "index": 21,
+        "label": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 wan li ban da zang jing (jia xing zang / jing shan zang) digital edition",
+        "url": "",
+        "value": "万暦版大蔵経（嘉興蔵/径山蔵）デジタル版 Wan Li Ban Da Zang Jing (Jia Xing Zang / Jing Shan Zang) Digital Edition"
+    },
+    {
+        "count": 1520,
+        "index": 9,
+        "label": "千葉大学学術リソースコレクション c-arc chiba university academic resource collections",
+        "url": "",
+        "value": "千葉大学学術リソースコレクション c-arc Chiba University Academic Resource Collections"
+    },
+    {
+        "count": 1213,
+        "index": 17,
+        "label": "小城藩日記データベース",
+        "url": "",
+        "value": "小城藩日記データベース"
+    },
+    {
+        "count": 1148,
+        "index": 6,
+        "label": "沖縄県立図書館 貴重資料デジタル書庫",
+        "url": "",
+        "value": "沖縄県立図書館 貴重資料デジタル書庫"
+    },
+    {
+        "count": 847,
+        "index": 4,
+        "label": "Digital cultural heritage",
+        "url": "",
+        "value": "Digital Cultural Heritage"
+    },
+    {
+        "count": 500,
+        "index": 18,
+        "label": "日本語史研究資料 [国立国語研究所蔵]",
+        "url": "",
+        "value": "日本語史研究資料 [国立国語研究所蔵]"
+    },
+    {
+        "count": 413,
+        "index": 12,
+        "label": "近畿大学貴重資料デジタルアーカイブ kindai university rare materials digital archive",
+        "url": "",
+        "value": "近畿大学貴重資料デジタルアーカイブ Kindai University Rare Materials Digital Archive"
+    },
+    {
+        "count": 205,
+        "index": 20,
+        "label": "中野区立図書館デジタルアーカイブ",
+        "url": "",
+        "value": "中野区立図書館デジタルアーカイブ"
+    },
+    {
+        "count": 26,
+        "index": 15,
+        "label": "Sat大正蔵図像db sat taishōzō image db",
+        "url": "",
+        "value": "SAT大正蔵図像DB SAT Taishōzō Image DB"
+    },
+    {
+        "count": 16,
+        "index": 10,
+        "label": "岡山県立記録資料館",
+        "url": "",
+        "value": "岡山県立記録資料館"
     }
 ]
