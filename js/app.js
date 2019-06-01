@@ -386,9 +386,9 @@ var NYPLPD = (function () {
 $(function () {
   var config = {
     item_data_groups: 5,
-    item_w: 10,
-    item_h: 10,
-    items_per_row: 100
+    item_w: 5,
+    item_h: 5,
+    items_per_row: 200
   };
   var app = new NYPLPD(config);
 });
