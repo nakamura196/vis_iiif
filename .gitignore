@@ -5,3 +5,4 @@ tmp
 scripts/sandbox.py
 .DS_Store
 img/items
+data/src/pd_items.json
