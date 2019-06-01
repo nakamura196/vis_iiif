@@ -24,7 +24,7 @@ api_url = "http://iiif2.dl.itc.u-tokyo.ac.jp/api"
 arr = []
 
 while loop_flg:
-    url = api_url + "/items?page=" + str(page)
+    url = api_url + "/items?property%5B0%5D%5Bjoiner%5D=and&property%5B0%5D%5Bproperty%5D=49&property%5B0%5D%5Btype%5D=neq&property%5B0%5D%5Btext%5D=http%3A%2F%2Fdl.ndl.go.jp%2Fja%2Fiiif_license.html&page=" + str(page)
     print(url)
 
     page += 1
@@ -37,19 +37,26 @@ while loop_flg:
 
     if len(data) > 0:
         for i in range(len(data)):
+
             item = data[i]
 
             obj = {}
             obj["s"] = item["dcterms:identifier"][0]["@value"]
-            obj["label"] = item["dcterms:title"][0]["@value"]
+            obj["label"] = item["dcterms:title"][0]["@value"] if "dcterms:title" in item else "[No Title]"
             obj["c_label"] = item["dcndl:digitizedPublisher"][0]["@value"] if "dcndl:digitizedPublisher" in item else  ""
             obj["type"] = item["dcterms:rights"][0]["@id"] if "dcterms:rights" in item else ""
+            if "dcterms:references" not in item:
+                continue
             obj["manifest"] = item["dcterms:references"][0]["@id"]
             obj["date"] = item["uterms:databaseLabel"][0]["@value"] if "uterms:databaseLabel" in item else ""
             imageURL = ""
 
             if len(item["o:media"]) > 0:
+ 
                 mid = item["o:media"][0]["@id"]
+                imageURL = mid
+
+                """
 
                 request = urllib.request.Request(mid)
                 response = urllib.request.urlopen(request)
@@ -58,15 +65,14 @@ while loop_flg:
                 media = json.loads(response_body.split('\n')[0])
 
                 imageURL = media["o:thumbnail_urls"]["medium"]
-
+                """
             else:
                 imageURL = item["dcterms:source"][0]["@id"] if "dcterms:source" in item else ""
 
             obj["image"] = imageURL
 
+
             arr.append(obj)
-        if page > 100:
-            loop_flg = False
     else:
         loop_flg = False
 

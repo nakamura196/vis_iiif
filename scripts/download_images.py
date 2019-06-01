@@ -21,6 +21,8 @@ import sys
 import urllib.request
 import time
 import requests
+import csv
+
 
 def isValidImage(fileName):
     isValid = True
@@ -34,43 +36,34 @@ def isValidImage(fileName):
         isValid = False
     return isValid
 
-# input
-if len(sys.argv) < 2:
-    print("Usage: %s <inputfile item captures json> <outputdir for images> <derivative code>" %
-          sys.argv[0])
-    sys.exit(1)
-INPUT_FILE = sys.argv[1]
-OUTPUT_DIR = sys.argv[2]
-DERIVATIVE_CODE = sys.argv[3]
 
 # config
 overwriteExisting = False
-imageURLPattern = "http://images.nypl.org/index.php?id=%s&t=" + DERIVATIVE_CODE
-imageExt = "jpg"
 
-items = []
-count = 0
-successCount = 0
-skipCount = 0
-failCount = 0
+f = open('output.csv', 'r')
 
-with open(INPUT_FILE, 'r') as f:
-        data = json.load(f)
+reader = csv.reader(f)
+header = next(reader)
 
-for i in range(len(data)):
-    item = data[i]
+i = 0
+
+for row in reader:
 
     if i % 20 == 0:
         print(i)
 
-    imageURL = item["image"]
+    i += 1
+
+    imageURL = row[1]
     
-    captureId = item["s"]
-    fileName = OUTPUT_DIR + captureId + "." + imageExt
+    captureId = row[0]
+    fileName = "../img/items/" + captureId + ".jpg"
 
     # save file if not found or overwrite is set to True
-    if overwriteExisting or not os.path.isfile(fileName) or not isValidImage(fileName):
-        time.sleep(0.01)  # sleep(秒指定)
+    if overwriteExisting or not os.path.isfile(fileName):
+
+        if "iiif2" not in imageURL:
+            time.sleep(0.1)  # sleep(秒指定)
 
         # Base64を扱うための標準ライブラリ
 
@@ -86,13 +79,8 @@ for i in range(len(data)):
                     f.write(r.content)
 
         except:
-            print("Error")
-    else:
-        skipCount += 1
-        # print str(count) + ". Skipped " + imageURL
-    count += 1
+            print(url)
             
 
-print("Downloaded " + str(successCount) + " images.")
-print("Skipped " + str(skipCount) + " images.")
-print("Failed to download " + str(failCount) + " images.")
+f.close()
+
