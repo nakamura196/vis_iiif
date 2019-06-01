@@ -56,7 +56,7 @@ with open(INPUT_FILE, 'r') as f:
 
 for item in data:
 
-    genre = item["type"]
+    genre = item["type"] if "type" in item else ""
     url = ""
     addGenre(genre, url)
 
