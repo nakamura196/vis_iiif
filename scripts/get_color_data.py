@@ -137,8 +137,6 @@ for i, captureId in enumerate(items):
     if captureId:
         fileName = INPUT_IMAGE_DIR + captureId + "." + imageExt
         # fileName = "../img/items/415904.jpg"
-        print(fileName)
-
         weighted_colors = colorz(fileName, COLOR_GROUP_COUNT)
         hsl = []
         if len(weighted_colors) > 0:
