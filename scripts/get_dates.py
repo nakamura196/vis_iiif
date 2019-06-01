@@ -58,7 +58,7 @@ with open(INPUT_FILE, 'r') as f:
 
 for item in data:
 
-    date = item["date"] ? "date" in item else ""
+    date = item["date"] if "date" in item else ""
     url = ""
     addDate(
         date, url)
