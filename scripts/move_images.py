@@ -32,5 +32,5 @@ for file in files:
 
     if filename in map:
         print(filename)
-        new_path = file.replace(filename+".jpg", map[filename+".jpg"])
+        new_path = file.replace(filename+".jpg", map[filename]+".jpg")
         shutil.move(file, new_path)
