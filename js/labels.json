@@ -41,6 +41,98 @@
     {
         "id": "colors",
         "label": "Color",
-        "markers": []
+        "markers": [
+            {
+                "count": 0,
+                "h": 15,
+                "label": "Red",
+                "url": "",
+                "value": [
+                    "#f00",
+                    "#f0f"
+                ]
+            },
+            {
+                "count": 506,
+                "h": 15,
+                "label": "Green",
+                "url": "",
+                "value": [
+                    "#0f0"
+                ]
+            },
+            {
+                "count": 1,
+                "h": 15,
+                "label": "Blue",
+                "url": "",
+                "value": [
+                    "#00f"
+                ]
+            },
+            {
+                "count": 2543,
+                "h": 65,
+                "label": "Orange",
+                "url": "",
+                "value": [
+                    "#ffa500"
+                ]
+            },
+            {
+                "count": 7969,
+                "h": 200,
+                "label": "Yellow",
+                "url": "",
+                "value": [
+                    "#ff0"
+                ]
+            },
+            {
+                "count": 1717,
+                "h": 45,
+                "label": "Brown",
+                "url": "",
+                "value": [
+                    "#e06f1f"
+                ]
+            },
+            {
+                "count": 29297,
+                "h": 735,
+                "label": "Gray",
+                "url": "",
+                "value": [
+                    "#777777"
+                ]
+            },
+            {
+                "count": 495,
+                "h": 15,
+                "label": "White",
+                "url": "",
+                "value": [
+                    "#ffffff"
+                ]
+            },
+            {
+                "count": 2,
+                "h": 15,
+                "label": "Black",
+                "url": "",
+                "value": [
+                    "#000000"
+                ]
+            },
+            {
+                "count": 217291,
+                "h": 5435,
+                "label": "Unknown",
+                "url": "",
+                "value": [
+                    ""
+                ]
+            }
+        ]
     }
 ]
