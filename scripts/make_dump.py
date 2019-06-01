@@ -95,6 +95,10 @@ for key in files:
 # まとめ
 
 for key in result:
+    obj = result[key]
+    if "type" in obj and "http://dl.ndl.go.jp/ja/iiif_license.html" == obj["type"]:
+        continue
+
     arr.append(result[key])
 
 with open("../data/src/pd_items.json", 'w') as outfile:

@@ -57,7 +57,7 @@ with open(INPUT_FILE, 'r') as f:
 
 for item in data:
 
-    collection = item["c_label"]
+    collection = item["c_label"] if "c_label" in item else ""
     url = ""
     addCollection(collection, url)
 
