@@ -1,10 +1,10 @@
 [
     {
-        "count": 6818,
-        "index": 1,
-        "label": "Unknown",
+        "count": 71715,
+        "index": 8,
+        "label": "National institute of japanese literature",
         "url": "",
-        "value": ""
+        "value": "National Institute of Japanese Literature"
     },
     {
         "count": 41542,
@@ -14,25 +14,11 @@
         "value": "Center for Open Data in the Humanities"
     },
     {
-        "count": 205,
-        "index": 16,
-        "label": "Nakano city library",
+        "count": 22392,
+        "index": 4,
+        "label": "東京大学 the university of tokyo",
         "url": "",
-        "value": "Nakano City Library"
-    },
-    {
-        "count": 500,
-        "index": 14,
-        "label": "National institute for japanese language and linguistics",
-        "url": "",
-        "value": "National Institute for Japanese Language and Linguistics"
-    },
-    {
-        "count": 71715,
-        "index": 8,
-        "label": "National institute of japanese literature",
-        "url": "",
-        "value": "National Institute of Japanese Literature"
+        "value": "東京大学 The University of Tokyo"
     },
     {
         "count": 15549,
@@ -42,11 +28,18 @@
         "value": "National Museum of Japanese History"
     },
     {
-        "count": 1213,
-        "index": 13,
-        "label": "Saga university ",
+        "count": 10215,
+        "index": 15,
+        "label": "京都大学 kyoto university",
         "url": "",
-        "value": "Saga University "
+        "value": "京都大学 Kyoto University"
+    },
+    {
+        "count": 6818,
+        "index": 1,
+        "label": "Unknown",
+        "url": "",
+        "value": ""
     },
     {
         "count": 6019,
@@ -56,11 +49,25 @@
         "value": "九州大学 Kyushu University"
     },
     {
-        "count": 10215,
-        "index": 15,
-        "label": "京都大学 kyoto university",
+        "count": 2895,
+        "index": 11,
+        "label": "慶應義塾大学メディアセンター keio university libraries",
         "url": "",
-        "value": "京都大学 Kyoto University"
+        "value": "慶應義塾大学メディアセンター Keio University Libraries"
+    },
+    {
+        "count": 2890,
+        "index": 0,
+        "label": "関西大学アジア・オープン・リサーチセンター ku-orcas",
+        "url": "",
+        "value": "関西大学アジア・オープン・リサーチセンター KU-ORCAS"
+    },
+    {
+        "count": 2379,
+        "index": 12,
+        "label": "島根大学 shimane university",
+        "url": "",
+        "value": "島根大学 Shimane University"
     },
     {
         "count": 2065,
@@ -77,25 +84,11 @@
         "value": "千葉大学 Chiba University"
     },
     {
-        "count": 2379,
-        "index": 12,
-        "label": "島根大学 shimane university",
+        "count": 1213,
+        "index": 13,
+        "label": "Saga university ",
         "url": "",
-        "value": "島根大学 Shimane University"
-    },
-    {
-        "count": 2895,
-        "index": 11,
-        "label": "慶應義塾大学メディアセンター keio university libraries",
-        "url": "",
-        "value": "慶應義塾大学メディアセンター Keio University Libraries"
-    },
-    {
-        "count": 22392,
-        "index": 4,
-        "label": "東京大学 the university of tokyo",
-        "url": "",
-        "value": "東京大学 The University of Tokyo"
+        "value": "Saga University "
     },
     {
         "count": 1148,
@@ -105,6 +98,13 @@
         "value": "沖縄県立図書館 Okinawa Prefectural Library"
     },
     {
+        "count": 500,
+        "index": 14,
+        "label": "National institute for japanese language and linguistics",
+        "url": "",
+        "value": "National Institute for Japanese Language and Linguistics"
+    },
+    {
         "count": 413,
         "index": 9,
         "label": "近畿大学 kindai university",
@@ -112,10 +112,10 @@
         "value": "近畿大学 Kindai University"
     },
     {
-        "count": 2890,
-        "index": 0,
-        "label": "関西大学アジア・オープン・リサーチセンター ku-orcas",
+        "count": 205,
+        "index": 16,
+        "label": "Nakano city library",
         "url": "",
-        "value": "関西大学アジア・オープン・リサーチセンター KU-ORCAS"
+        "value": "Nakano City Library"
     }
 ]
